@@ -21,6 +21,8 @@ http://189.50.210.3:8008/play/a046/index.m3u8
 http://189.50.210.3:8008/play/a07j/index.m3u8
 #EXTINF:-1,CNN Español
 http://200.113.4.75:7210/play/a005/index.m3u8
+#EXTINF:-1,Canal 5
+http://clubtv.link/24no/phpcode/lista0.php?c=52&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1,Canal 13
 http://189.50.210.3:8008/play/a06d/index.m3u8
 #EXTINF:-1,Canal 24 Horas
@@ -39,6 +41,10 @@ http://189.50.210.3:8008/play/a06e/index.m3u8
 http://189.50.210.3:8008/play/a066/index.m3u8
 #EXTINF:-1,Canal del Congreso
 http://189.50.210.3:8008/play/a06a/index.m3u8
+#EXTINF:-1, Cartoon Network
+http://clubtv.link/24no/phpcode/lista0.php?c=51&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1,Cartoonito
+http://clubtv.link/24no/phpcode/lista0.php?c=53&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1,Caracol
 http://189.50.210.3:8008/play/a04j/index.m3u8
 #EXTINF:-1,Cine Familiar
@@ -49,10 +55,8 @@ http://181.78.7.90:12500/play/a0cm/index.m3u8
 http://181.78.7.90:12500/play/a0cn/index.m3u8
 #EXTINF:-1,Cinecanal
 http://189.50.210.3:8008/play/a02z/index.m3u8
-#EXTINF:-1,Cinecanal
-http://200.113.4.75:7210/play/a01e/index.m3u8
 #EXTINF:-1,Cinemax
-http://200.113.4.75:7210/play/a020/index.m3u8
+http://clubtv.link/24no/phpcode/lista0.php?c=49&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1,City TV
 http://189.50.210.3:8008/play/a06h/index.m3u8
 #EXTINF:-1,Conemtel Television
