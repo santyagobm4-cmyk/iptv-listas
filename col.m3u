@@ -1,74 +1,126 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="📺 24/7 (General/Pluto TV)",24 HORAS
+#EXTINF:-1 group-title="📺 24/7 (Variedades/Shows)",24 HORAS
 http://200.113.4.75:7210/play/a00m/index.m3u8
-#EXTINF:-1 group-title="📺 24/7 (General/Pluto TV)",AE Mundo
+#EXTINF:-1 group-title="📺 24/7 (Variedades/Shows)",AE Mundo
 http://200.113.4.75:7210/play/a012/index.m3u8
-#EXTINF:-1 group-title="📺 24/7 (General/Pluto TV)",AXN
+#EXTINF:-1 group-title="📺 24/7 (Variedades/Shows)",AXN
 http://200.113.4.75:7210/play/a022/index.m3u8
-#EXTINF:-1 group-title="📺 24/7 (General/Pluto TV)",BabyFirst
-http://200.113.4.75:7210/play/a02j/index.m3u8
-#EXTINF:-1 group-title="📺 24/7 (General/Pluto TV)",Canal Estrellas
+#EXTINF:-1 group-title="📺 24/7 (Variedades/Shows)",Canal Estrellas
 http://200.113.4.75:7210/play/a015/index.m3u8
-#EXTINF:-1 group-title="📺 24/7 (General/Pluto TV)",Conemtel Television
+#EXTINF:-1 group-title="📺 24/7 (Variedades/Shows)",Conemtel Television
 http://38.51.232.68:8000/play/a0aq/index.m3u8?token=conemteltv
-#EXTINF:-1 group-title="📺 24/7 (General/Pluto TV)",DHE
+#EXTINF:-1 group-title="📺 24/7 (Variedades/Shows)",DHE
 http://189.50.210.3:8008/play/a07p/index.m3u8
-#EXTINF:-1 group-title="📺 24/7 (General/Pluto TV)",DW Español
+#EXTINF:-1 group-title="📺 24/7 (Variedades/Shows)",DW Español
 http://189.50.210.3:8008/play/a06u/index.m3u8
-#EXTINF:-1 group-title="📺 24/7 (General/Pluto TV)",Europa Europa
+#EXTINF:-1 group-title="📺 24/7 (Variedades/Shows)",Europa Europa
 http://189.50.210.3:8008/play/a070/index.m3u8
-#EXTINF:-1 group-title="📺 24/7 (General/Pluto TV)",Film&Arts
+#EXTINF:-1 group-title="📺 24/7 (Variedades/Shows)",Film&Arts
 http://189.50.210.3:8008/play/a06m/index.m3u8
-#EXTINF:-1 group-title="📺 24/7 (General/Pluto TV)",Food Network
+#EXTINF:-1 group-title="📺 24/7 (Variedades/Shows)",Food Network
 http://189.50.210.3:8008/play/a07n/index.m3u8
-#EXTINF:-1 group-title="📺 24/7 (General/Pluto TV)",Food Network SD
+#EXTINF:-1 group-title="📺 24/7 (Variedades/Shows)",Food Network SD
 http://189.50.210.3:8008/play/a065/index.m3u8
-#EXTINF:-1 group-title="📺 24/7 (General/Pluto TV)",FX
+#EXTINF:-1 group-title="📺 24/7 (Variedades/Shows)",FX
 http://189.50.210.3:8008/play/a036/index.m3u8
-#EXTINF:-1 group-title="📺 24/7 (General/Pluto TV)",HGTV
+#EXTINF:-1 group-title="📺 24/7 (Variedades/Shows)",HGTV
 http://189.50.210.3:8008/play/a03n/index.m3u8
-#EXTINF:-1 group-title="📺 24/7 (General/Pluto TV)",HomeandHealth
-http://200.113.4.75:7210/play/a01w/index.m3u8
-#EXTINF:-1 group-title="📺 24/7 (General/Pluto TV)",Kanal D Drama
+#EXTINF:-1 group-title="📺 24/7 (Variedades/Shows)",Kanal D Drama
 http://189.50.210.3:8008/play/a06k/index.m3u8
-#EXTINF:-1 group-title="📺 24/7 (General/Pluto TV)",Las Estrellas 
+#EXTINF:-1 group-title="📺 24/7 (Variedades/Shows)",Las Estrellas
 http://189.50.210.3:8008/play/a07o/index.m3u8
-#EXTINF:-1 group-title="📺 24/7 (General/Pluto TV)",Lifetime
+#EXTINF:-1 group-title="📺 24/7 (Variedades/Shows)",Lifetime
 http://189.50.210.3:8008/play/a05w/index.m3u8
-#EXTINF:-1 group-title="📺 24/7 (General/Pluto TV)",Lifetime
+#EXTINF:-1 group-title="📺 24/7 (Variedades/Shows)",Lifetime
 http://200.113.4.75:7210/play/a02k/index.m3u8
-#EXTINF:-1 group-title="📺 24/7 (General/Pluto TV)",Paramount 
+#EXTINF:-1 group-title="📺 24/7 (Variedades/Shows)",Paramount
 http://189.50.210.3:8008/play/a04g/index.m3u8
-#EXTINF:-1 group-title="📺 24/7 (General/Pluto TV)",RCN Novelas
+#EXTINF:-1 group-title="📺 24/7 (Variedades/Shows)",Pluto TV Acapulco Shore
+https://plutotv-latam-ue. Simpson.m3u8
+#EXTINF:-1 group-title="📺 24/7 (Variedades/Shows)",Pluto TV Anime
+https://pluto-live.plutotv.net/streams/anime-latin-america/playlist.m3u8
+#EXTINF:-1 group-title="📺 24/7 (Variedades/Shows)",Pluto TV Archivos Forenses
+https://pluto-live.plutotv.net/streams/forensic-files-latin-america/playlist.m3u8
+#EXTINF:-1 group-title="📺 24/7 (Variedades/Shows)",Pluto TV Are You The One
+https://pluto-live.plutotv.net/streams/are-you-the-one-latin-america/playlist.m3u8
+#EXTINF:-1 group-title="📺 24/7 (Variedades/Shows)",Pluto TV Caso Cerrado
+https://pluto-live.plutotv.net/streams/caso-cerrado-latin-america/playlist.m3u8
+#EXTINF:-1 group-title="📺 24/7 (Variedades/Shows)",Pluto TV Cazadores de OVNIS
+https://pluto-live.plutotv.net/streams/cazadores-de-ovnis-latin-america/playlist.m3u8
+#EXTINF:-1 group-title="📺 24/7 (Variedades/Shows)",Pluto TV Cocina
+https://pluto-live.plutotv.net/streams/pluto-tv-cocina-latin-america/playlist.m3u8
+#EXTINF:-1 group-title="📺 24/7 (Variedades/Shows)",Pluto TV Comedy Central
+https://pluto-live.plutotv.net/streams/comedy-central-pluto-tv-latin-america/playlist.m3u8
+#EXTINF:-1 group-title="📺 24/7 (Variedades/Shows)",Pluto TV CSI
+https://pluto-live.plutotv.net/streams/csi-miami-latin-america/playlist.m3u8
+#EXTINF:-1 group-title="📺 24/7 (Variedades/Shows)",Pluto TV Daria
+https://pluto-live.plutotv.net/streams/daria-latin-america/playlist.m3u8
+#EXTINF:-1 group-title="📺 24/7 (Variedades/Shows)",Pluto TV Doctor Who
+https://pluto-live.plutotv.net/streams/doctor-who-latin-america/playlist.m3u8
+#EXTINF:-1 group-title="📺 24/7 (Variedades/Shows)",Pluto TV El Encantador de Perros
+https://pluto-live.plutotv.net/streams/dog-whisperer-latin-america/playlist.m3u8
+#EXTINF:-1 group-title="📺 24/7 (Variedades/Shows)",Pluto TV Empeños a lo Bestia
+https://pluto-live.plutotv.net/streams/hardcore-pawn-latin-america/playlist.m3u8
+#EXTINF:-1 group-title="📺 24/7 (Variedades/Shows)",Pluto TV FailArmy
+https://pluto-live.plutotv.net/streams/failarmy-latin-america/playlist.m3u8
+#EXTINF:-1 group-title="📺 24/7 (Variedades/Shows)",Pluto TV Humor
+https://pluto-live.plutotv.net/streams/pluto-tv-humor-latin-america/playlist.m3u8
+#EXTINF:-1 group-title="📺 24/7 (Variedades/Shows)",Pluto TV Just for Laughs
+https://pluto-live.plutotv.net/streams/just-for-laughs-latin-america/playlist.m3u8
+#EXTINF:-1 group-title="📺 24/7 (Variedades/Shows)",Pluto TV La Draga
+https://pluto-live.plutotv.net/streams/rupauls-drag-race-latin-america/playlist.m3u8
+#EXTINF:-1 group-title="📺 24/7 (Variedades/Shows)",Pluto TV Los Archivos del FBI
+https://pluto-live.plutotv.net/streams/the-fbi-files-latin-america/playlist.m3u8
+#EXTINF:-1 group-title="📺 24/7 (Variedades/Shows)",Pluto TV Masterchef
+https://pluto-live.plutotv.net/streams/masterchef-latin-america/playlist.m3u8
+#EXTINF:-1 group-title="📺 24/7 (Variedades/Shows)",Pluto TV Misterios sin Resolver
+https://pluto-live.plutotv.net/streams/unsolved-mysteries-latin-america/playlist.m3u8
+#EXTINF:-1 group-title="📺 24/7 (Variedades/Shows)",Pluto TV Narcos
+https://pluto-live.plutotv.net/streams/narcos-latin-america/playlist.m3u8
+#EXTINF:-1 group-title="📺 24/7 (Variedades/Shows)",Pluto TV NCIS
+https://pluto-live.plutotv.net/streams/ncis-latin-america/playlist.m3u8
+#EXTINF:-1 group-title="📺 24/7 (Variedades/Shows)",Pluto TV One Piece
+https://pluto-live.plutotv.net/streams/one-piece-latin-america/playlist.m3u8
+#EXTINF:-1 group-title="📺 24/7 (Variedades/Shows)",Pluto TV Reality
+https://pluto-live.plutotv.net/streams/pluto-tv-reality-latin-america/playlist.m3u8
+#EXTINF:-1 group-title="📺 24/7 (Variedades/Shows)",Pluto TV South Park
+https://pluto-live.plutotv.net/streams/south-park-latin-america/playlist.m3u8
+#EXTINF:-1 group-title="📺 24/7 (Variedades/Shows)",Pluto TV Star Trek
+https://pluto-live.plutotv.net/streams/star-trek-latin-america/playlist.m3u8
+#EXTINF:-1 group-title="📺 24/7 (Variedades/Shows)",Pluto TV Wipeout
+https://pluto-live.plutotv.net/streams/wipeout-latin-america/playlist.m3u8
+#EXTINF:-1 group-title="📺 24/7 (Variedades/Shows)",Pluto TV Yu-Gi-Oh!
+https://pluto-live.plutotv.net/streams/yugioh-latin-america/playlist.m3u8
+#EXTINF:-1 group-title="📺 24/7 (Variedades/Shows)",RCN Novelas
 http://200.113.4.75:7210/play/a01t/index.m3u8
-#EXTINF:-1 group-title="📺 24/7 (General/Pluto TV)",Sony
+#EXTINF:-1 group-title="📺 24/7 (Variedades/Shows)",Sony
 http://200.113.4.75:7210/play/a021/index.m3u8
-#EXTINF:-1 group-title="📺 24/7 (General/Pluto TV)",Studio Universal
+#EXTINF:-1 group-title="📺 24/7 (Variedades/Shows)",Studio Universal
 http://189.50.210.3:8008/play/a05x/index.m3u8
-#EXTINF:-1 group-title="📺 24/7 (General/Pluto TV)",SyFy
+#EXTINF:-1 group-title="📺 24/7 (Variedades/Shows)",SyFy
 http://200.113.4.75:7210/play/a02l/index.m3u8
-#EXTINF:-1 group-title="📺 24/7 (General/Pluto TV)",Telemundo
+#EXTINF:-1 group-title="📺 24/7 (Variedades/Shows)",Telemundo
 http://200.113.4.75:7210/play/a018/index.m3u8
-#EXTINF:-1 group-title="📺 24/7 (General/Pluto TV)",Telenovelas
+#EXTINF:-1 group-title="📺 24/7 (Variedades/Shows)",Telenovelas
 http://189.50.210.3:8008/play/a06n/index.m3u8
-#EXTINF:-1 group-title="📺 24/7 (General/Pluto TV)",TLC
+#EXTINF:-1 group-title="📺 24/7 (Variedades/Shows)",TLC
 http://189.50.210.3:8008/play/a05r/index.m3u8
-#EXTINF:-1 group-title="📺 24/7 (General/Pluto TV)",TNT Novelas
+#EXTINF:-1 group-title="📺 24/7 (Variedades/Shows)",TNT Novelas
 http://189.50.210.3:8008/play/a05t/index.m3u8
-#EXTINF:-1 group-title="📺 24/7 (General/Pluto TV)",TNT Series 
+#EXTINF:-1 group-title="📺 24/7 (Variedades/Shows)",TNT Series
 http://189.50.210.3:8008/play/a04f/index.m3u8
-#EXTINF:-1 group-title="📺 24/7 (General/Pluto TV)",TVE
+#EXTINF:-1 group-title="📺 24/7 (Variedades/Shows)",TVE
 http://200.113.4.75:7210/play/a01r/index.m3u8
-#EXTINF:-1 group-title="📺 24/7 (General/Pluto TV)",Universal
+#EXTINF:-1 group-title="📺 24/7 (Variedades/Shows)",Universal
 http://200.113.4.75:7210/play/a01f/index.m3u8
-#EXTINF:-1 group-title="📺 24/7 (General/Pluto TV)",USA
+#EXTINF:-1 group-title="📺 24/7 (Variedades/Shows)",USA
 http://189.50.210.3:8008/play/a06z/index.m3u8
-#EXTINF:-1 group-title="📺 24/7 (General/Pluto TV)",ViaX
+#EXTINF:-1 group-title="📺 24/7 (Variedades/Shows)",ViaX
 http://200.113.4.75:7210/play/a014/index.m3u8
-#EXTINF:-1 group-title="📺 24/7 (General/Pluto TV)",Warner Channel 
+#EXTINF:-1 group-title="📺 24/7 (Variedades/Shows)",Warner Channel
 http://189.50.210.3:8008/play/a02x/index.m3u8
-#EXTINF:-1 group-title="📺 24/7 (General/Pluto TV)",Zona Latina
+#EXTINF:-1 group-title="📺 24/7 (Variedades/Shows)",Zona Latina
 http://200.113.4.75:7210/play/a01i/index.m3u8
 
 #EXTINF:-1 group-title="⚽ Deportes",ESPN
@@ -95,7 +147,13 @@ http://200.113.4.75:7210/play/a016/index.m3u8
 http://200.113.4.75:7210/play/a017/index.m3u8
 #EXTINF:-1 group-title="⚽ Deportes",Gol TV
 http://189.50.210.3:8008/play/a06w/index.m3u8
-#EXTINF:-1 group-title="⚽ Deportes",TNT Sports Premium 
+#EXTINF:-1 group-title="⚽ Deportes",Pluto TV Deportes
+https://pluto-live.plutotv.net/streams/pluto-tv-deportes-latin-america/playlist.m3u8
+#EXTINF:-1 group-title="⚽ Deportes",Pluto TV Futbol
+https://pluto-live.plutotv.net/streams/pluto-tv-futbol-latin-america/playlist.m3u8
+#EXTINF:-1 group-title="⚽ Deportes",Pluto TV WPT (Poker)
+https://pluto-live.plutotv.net/streams/world-poker-tour-latin-america/playlist.m3u8
+#EXTINF:-1 group-title="⚽ Deportes",TNT Sports Premium
 http://189.50.210.3:8008/play/a074/index.m3u8
 #EXTINF:-1 group-title="⚽ Deportes",TyC Sports
 http://189.50.210.3:8008/play/a06x/index.m3u8
@@ -106,7 +164,7 @@ http://181.78.7.90:12500/play/WINMAS/index.m3u8
 #EXTINF:-1 group-title="⚽ Deportes",Win Sports+
 http://189.50.210.3:8008/play/a04n/index.m3u8
 
-#EXTINF:-1 group-title="🎬 Películas y Series",Cinecanal 
+#EXTINF:-1 group-title="🎬 Películas y Series",Cinecanal
 http://189.50.210.3:8008/play/a02z/index.m3u8
 #EXTINF:-1 group-title="🎬 Películas y Series",CINE HISPANO
 http://181.78.7.90:12500/play/a0cm/index.m3u8
@@ -116,26 +174,50 @@ http://181.78.7.90:12500/play/a0cn/index.m3u8
 http://181.78.7.90:12500/play/CINEFAMILIAR/index.m3u8
 #EXTINF:-1 group-title="🎬 Películas y Series",Cinemax
 http://200.113.4.75:7210/play/a020/index.m3u8
-#EXTINF:-1 group-title="🎬 Películas y Series",HBO 
+#EXTINF:-1 group-title="🎬 Películas y Series",HBO
 http://189.50.210.3:8008/play/a032/index.m3u8
-#EXTINF:-1 group-title="🎬 Películas y Series",HBO Family 
+#EXTINF:-1 group-title="🎬 Películas y Series",HBO Family
 http://189.50.210.3:8008/play/a07r/index.m3u8
 #EXTINF:-1 group-title="🎬 Películas y Series",HBO MUNDI
 http://189.50.210.3:8008/play/a071/index.m3u8
-#EXTINF:-1 group-title="🎬 Películas y Series",HBO POP 
+#EXTINF:-1 group-title="🎬 Películas y Series",HBO POP
 http://189.50.210.3:8008/play/a034/index.m3u8
-#EXTINF:-1 group-title="🎬 Películas y Series",HBO Xtreme 
+#EXTINF:-1 group-title="🎬 Películas y Series",HBO Xtreme
 http://189.50.210.3:8008/play/a07s/index.m3u8
-#EXTINF:-1 group-title="🎬 Películas y Series",Space 
+#EXTINF:-1 group-title="🎬 Películas y Series",Pluto TV Cine Accion
+https://pluto-live.plutotv.net/streams/pluto-tv-cine-accion-latin-america/playlist.m3u8
+#EXTINF:-1 group-title="🎬 Películas y Series",Pluto TV Cine Comedia
+https://pluto-live.plutotv.net/streams/pluto-tv-cine-comedia-latin-america/playlist.m3u8
+#EXTINF:-1 group-title="🎬 Películas y Series",Pluto TV Cine Drama
+https://pluto-live.plutotv.net/streams/pluto-tv-cine-drama-latin-america/playlist.m3u8
+#EXTINF:-1 group-title="🎬 Películas y Series",Pluto TV Cine Estelar
+https://pluto-live.plutotv.net/streams/pluto-tv-cine-estelar-latin-america/playlist.m3u8
+#EXTINF:-1 group-title="🎬 Películas y Series",Pluto TV Cine Familia
+https://pluto-live.plutotv.net/streams/pluto-tv-cine-familia-latin-america/playlist.m3u8
+#EXTINF:-1 group-title="🎬 Películas y Series",Pluto TV Cine Terror
+https://pluto-live.plutotv.net/streams/pluto-tv-cine-terror-latin-america/playlist.m3u8
+#EXTINF:-1 group-title="🎬 Películas y Series",Pluto TV Cine Suspenso
+https://pluto-live.plutotv.net/streams/pluto-tv-cine-suspenso-latin-america/playlist.m3u8
+#EXTINF:-1 group-title="🎬 Películas y Series",Pluto TV Cine Clasico
+https://pluto-live.plutotv.net/streams/pluto-tv-cine-clasico-latin-america/playlist.m3u8
+#EXTINF:-1 group-title="🎬 Películas y Series",Pluto TV Peliculas
+https://pluto-live.plutotv.net/streams/pluto-tv-peliculas-latin-america/playlist.m3u8
+#EXTINF:-1 group-title="🎬 Películas y Series",Pluto TV Series
+https://pluto-live.plutotv.net/streams/pluto-tv-series-latin-america/playlist.m3u8
+#EXTINF:-1 group-title="🎬 Películas y Series",Pluto TV Series Comedia
+https://pluto-live.plutotv.net/streams/pluto-tv-series-comedia-latin-america/playlist.m3u8
+#EXTINF:-1 group-title="🎬 Películas y Series",Space
 http://189.50.210.3:8008/play/a02y/index.m3u8
-#EXTINF:-1 group-title="🎬 Películas y Series",STAR CHANNEL 
+#EXTINF:-1 group-title="🎬 Películas y Series",STAR CHANNEL
 http://189.50.210.3:8008/play/a02w/index.m3u8
-#EXTINF:-1 group-title="🎬 Películas y Series",TNT 
+#EXTINF:-1 group-title="🎬 Películas y Series",TNT
 http://189.50.210.3:8008/play/a049/index.m3u8
 
+#EXTINF:-1 group-title="👶 Infantil",BabyFirst
+http://200.113.4.75:7210/play/a02j/index.m3u8
 #EXTINF:-1 group-title="👶 Infantil",CANAL INFANTIL
 http://181.78.7.90:12500/play/CANALINFANTIL/index.m3u8
-#EXTINF:-1 group-title="👶 Infantil",Discovery Kids 
+#EXTINF:-1 group-title="👶 Infantil",Discovery Kids
 http://189.50.210.3:8008/play/a07u/index.m3u8
 #EXTINF:-1 group-title="👶 Infantil",Disney Channel
 http://189.50.210.3:8008/play/a02t/index.m3u8
@@ -145,6 +227,28 @@ http://189.50.210.3:8008/play/a05q/index.m3u8
 http://189.50.210.3:8008/play/a05n/index.m3u8
 #EXTINF:-1 group-title="👶 Infantil",Nickelodeon
 http://189.50.210.3:8008/play/a02k/index.m3u8
+#EXTINF:-1 group-title="👶 Infantil",Pluto TV Anime
+https://pluto-live.plutotv.net/streams/pluto-tv-anime-latin-america/playlist.m3u8
+#EXTINF:-1 group-title="👶 Infantil",Pluto TV Baby Shark
+https://pluto-live.plutotv.net/streams/baby-shark-latin-america/playlist.m3u8
+#EXTINF:-1 group-title="👶 Infantil",Pluto TV Bob Esponja
+https://pluto-live.plutotv.net/streams/bob-esponja-latin-america/playlist.m3u8
+#EXTINF:-1 group-title="👶 Infantil",Pluto TV iCarly
+https://pluto-live.plutotv.net/streams/icarly-latin-america/playlist.m3u8
+#EXTINF:-1 group-title="👶 Infantil",Pluto TV Junior
+https://pluto-live.plutotv.net/streams/pluto-tv-junior-latin-america/playlist.m3u8
+#EXTINF:-1 group-title="👶 Infantil",Pluto TV Kids
+https://pluto-live.plutotv.net/streams/pluto-tv-kids-latin-america/playlist.m3u8
+#EXTINF:-1 group-title="👶 Infantil",Pluto TV Los Padrinos Magicos
+https://pluto-live.plutotv.net/streams/los-padrinos-magicos-latin-america/playlist.m3u8
+#EXTINF:-1 group-title="👶 Infantil",Pluto TV Naruto
+https://pluto-live.plutotv.net/streams/naruto-latin-america/playlist.m3u8
+#EXTINF:-1 group-title="👶 Infantil",Pluto TV Nick Clasico
+https://pluto-live.plutotv.net/streams/nick-clasico-latin-america/playlist.m3u8
+#EXTINF:-1 group-title="👶 Infantil",Pluto TV Rugrats
+https://pluto-live.plutotv.net/streams/rugrats-latin-america/playlist.m3u8
+#EXTINF:-1 group-title="👶 Infantil",Pluto TV Winx Club
+https://pluto-live.plutotv.net/streams/winx-club-latin-america/playlist.m3u8
 
 #EXTINF:-1 group-title="📰 Noticias y Documentales",Animal Planet
 http://200.113.4.75:7210/play/a00t/index.m3u8
@@ -175,6 +279,14 @@ http://189.50.210.3:8008/play/a03m/index.m3u8
 #EXTINF:-1 group-title="📰 Noticias y Documentales",Nat Geo
 http://200.113.4.75:7210/play/a01c/index.m3u8
 #EXTINF:-1 group-title="📰 Noticias y Documentales",NTN 24 Horas
+#EXTINF:-1 group-title="📰 Noticias y Documentales",Pluto TV Animales
+https://pluto-live.plutotv.net/streams/pluto-tv-animales-latin-america/playlist.m3u8
+#EXTINF:-1 group-title="📰 Noticias y Documentales",Pluto TV Documentales
+https://pluto-live.plutotv.net/streams/pluto-tv-documentales-latin-america/playlist.m3u8
+#EXTINF:-1 group-title="📰 Noticias y Documentales",Pluto TV Historia
+https://pluto-live.plutotv.net/streams/pluto-tv-historia-latin-america/playlist.m3u8
+#EXTINF:-1 group-title="📰 Noticias y Documentales",Pluto TV Investiga
+https://pluto-live.plutotv.net/streams/pluto-tv-investiga-latin-america/playlist.m3u8
 #EXTINF:-1 group-title="📰 Noticias y Documentales",Señal Colombia
 http://189.50.210.3:8008/play/a069/index.m3u8
 
@@ -192,7 +304,7 @@ http://189.50.210.3:8008/play/a06e/index.m3u8
 http://189.50.210.3:8008/play/a066/index.m3u8
 #EXTINF:-1 group-title="🌍 Canales Regionales y Nacionales",Canal del Congreso
 http://189.50.210.3:8008/play/a06a/index.m3u8
-#EXTINF:-1 group-title="🌍 Canales Regionales y Nacionales",Caracol 
+#EXTINF:-1 group-title="🌍 Canales Regionales y Nacionales",Caracol
 http://189.50.210.3:8008/play/a04j/index.m3u8
 #EXTINF:-1 group-title="🌍 Canales Regionales y Nacionales",CHV
 http://200.113.4.75:7210/play/a009/index.m3u8
@@ -210,9 +322,9 @@ http://181.78.7.90:12500/play/a06g/index.m3u8
 http://189.50.210.3:8008/play/a07k/index.m3u8
 #EXTINF:-1 group-title="🌍 Canales Regionales y Nacionales",La Red
 http://200.113.4.75:7210/play/a006/index.m3u8
-#EXTINF:-1 group-title="🌍 Canales Regionales y Nacionales",Latina 
+#EXTINF:-1 group-title="🌍 Canales Regionales y Nacionales",Latina
 http://189.50.210.3:8008/play/a04m/index.m3u8
-#EXTINF:-1 group-title="🌍 Canales Regionales y Nacionales",MEGA 
+#EXTINF:-1 group-title="🌍 Canales Regionales y Nacionales",MEGA
 http://189.50.210.3:8008/play/a02r/index.m3u8
 #EXTINF:-1 group-title="🌍 Canales Regionales y Nacionales",RCN
 http://189.50.210.3:8008/play/a04i/index.m3u8
@@ -249,6 +361,16 @@ http://181.78.7.90:12500/play/MUSICAPOPULAR/index.m3u8
 http://181.78.7.90:12500/play/MUSICAREGGAETON/index.m3u8
 #EXTINF:-1 group-title="🎶 Música",MTV
 http://200.113.4.75:7210/play/a01h/index.m3u8
+#EXTINF:-1 group-title="🎶 Música",Pluto TV Karaoke
+https://pluto-live.plutotv.net/streams/karaoke-latin-america/playlist.m3u8
+#EXTINF:-1 group-title="🎶 Música",Pluto TV MTV Animados
+https://pluto-live.plutotv.net/streams/mtv-animados-latin-america/playlist.m3u8
+#EXTINF:-1 group-title="🎶 Música",Pluto TV MTV Biggest Pop
+https://pluto-live.plutotv.net/streams/mtv-biggest-pop-latin-america/playlist.m3u8
+#EXTINF:-1 group-title="🎶 Música",Pluto TV MTV Flow Latino
+https://pluto-live.plutotv.net/streams/mtv-flow-latino-latin-america/playlist.m3u8
+#EXTINF:-1 group-title="🎶 Música",Pluto TV MTV Spankin New
+https://pluto-live.plutotv.net/streams/mtv-spankin-new-latin-america/playlist.m3u8
 
 #EXTINF:-1 group-title="🕌 Religiosos",AVIVAMIENTO2
 http://181.78.7.90:12500/play/a0bn/index.m3u8
@@ -256,73 +378,3 @@ http://181.78.7.90:12500/play/a0bn/index.m3u8
 http://200.113.4.75:7210/play/a01q/index.m3u8
 #EXTINF:-1 group-title="🕌 Religiosos",Esne TV
 http://200.113.4.75:7210/play/a027/index.m3u8
-
-#EXTINF:-1 group-title="🔞 Adultos",SEXTREME
-http://181.78.7.90:12500/play/SEXTREME/index.m3u8
-#EXTINF:-1 group-title="🔞 Adultos",VENUS
-http://181.78.7.90:12500/play/VENUS/index.m3u8
-
-#EXTINF:-1 group-title="📺 24/7 (General/Pluto TV)",Pluto TV 80s
-https://service-ott.sistemasagil.com/stream/plutotv-ptv80smx/playlist.m3u8
-#EXTINF:-1 group-title="📺 24/7 (General/Pluto TV)",Pluto TV Cine Familiar
-https://service-ott.sistemasagil.com/stream/plutotv-ptvcfamx/playlist.m3u8
-#EXTINF:-1 group-title="📺 24/7 (General/Pluto TV)",Pluto TV Cine de Accion
-https://service-ott.sistemasagil.com/stream/plutotv-ptvcacmx/playlist.m3u8
-#EXTINF:-1 group-title="📺 24/7 (General/Pluto TV)",Pluto TV Cine de Drama
-https://service-ott.sistemasagil.com/stream/plutotv-ptvcdrmx/playlist.m3u8
-#EXTINF:-1 group-title="📺 24/7 (General/Pluto TV)",Pluto TV Cine de Terror
-https://service-ott.sistemasagil.com/stream/plutotv-ptvctrmx/playlist.m3u8
-#EXTINF:-1 group-title="📺 24/7 (General/Pluto TV)",Pluto TV Cine Estelar
-https://service-ott.sistemasagil.com/stream/plutotv-ptvcesmx/playlist.m3u8
-#EXTINF:-1 group-title="📺 24/7 (General/Pluto TV)",Pluto TV Cine Romantico
-https://service-ott.sistemasagil.com/stream/plutotv-ptvcromx/playlist.m3u8
-#EXTINF:-1 group-title="📺 24/7 (General/Pluto TV)",Pluto TV Classic Cine
-https://service-ott.sistemasagil.com/stream/plutotv-ptvcclmx/playlist.m3u8
-#EXTINF:-1 group-title="📺 24/7 (General/Pluto TV)",Pluto TV Cine de Culto
-https://service-ott.sistemasagil.com/stream/plutotv-ptvccumx/playlist.m3u8
-#EXTINF:-1 group-title="📺 24/7 (General/Pluto TV)",Pluto TV Ninos
-https://service-ott.sistemasagil.com/stream/plutotv-ptvninmx/playlist.m3u8
-#EXTINF:-1 group-title="📺 24/7 (General/Pluto TV)",Pluto TV Kids
-https://service-ott.sistemasagil.com/stream/plutotv-ptvkidsmx/playlist.m3u8
-#EXTINF:-1 group-title="📺 24/7 (General/Pluto TV)",Pluto TV Junior
-https://service-ott.sistemasagil.com/stream/plutotv-ptvjuniormx/playlist.m3u8
-#EXTINF:-1 group-title="📺 24/7 (General/Pluto TV)",Pluto TV Drama
-https://service-ott.sistemasagil.com/stream/plutotv-ptvdrmx/playlist.m3u8
-#EXTINF:-1 group-title="📺 24/7 (General/Pluto TV)",Pluto TV Novelas
-https://service-ott.sistemasagil.com/stream/plutotv-ptvnomx/playlist.m3u8
-#EXTINF:-1 group-title="📺 24/7 (General/Pluto TV)",Pluto TV Cocina
-https://service-ott.sistemasagil.com/stream/plutotv-ptvccimx/playlist.m3u8
-#EXTINF:-1 group-title="📺 24/7 (General/Pluto TV)",Pluto TV Curiosidad
-https://service-ott.sistemasagil.com/stream/plutotv-ptvcdsmx/playlist.m3u8
-#EXTINF:-1 group-title="📺 24/7 (General/Pluto TV)",Pluto TV Investiga
-https://service-ott.sistemasagil.com/stream/plutotv-ptvinvmx/playlist.m3u8
-#EXTINF:-1 group-title="📺 24/7 (General/Pluto TV)",Pluto TV Reality
-https://service-ott.sistemasagil.com/stream/plutotv-ptvrelmx/playlist.m3u8
-#EXTINF:-1 group-title="📺 24/7 (General/Pluto TV)",Pluto TV Series
-https://service-ott.sistemasagil.com/stream/plutotv-ptvsmx/playlist.m3u8
-#EXTINF:-1 group-title="📺 24/7 (General/Pluto TV)",Pluto TV Series Comedia
-https://service-ott.sistemasagil.com/stream/plutotv-ptvscmmx/playlist.m3u8
-#EXTINF:-1 group-title="📺 24/7 (General/Pluto TV)",Pluto TV Series Retro
-https://service-ott.sistemasagil.com/stream/plutotv-ptvsmx/playlist.m3u8
-#EXTINF:-1 group-title="📺 24/7 (General/Pluto TV)",Pluto TV Anime
-https://service-ott.sistemasagil.com/stream/plutotv-ptvanmx/playlist.m3u8
-#EXTINF:-1 group-title="📺 24/7 (General/Pluto TV)",Pluto TV Anime Accion
-https://service-ott.sistemasagil.com/stream/plutotv-ptvanaamx/playlist.m3u8
-#EXTINF:-1 group-title="📺 24/7 (General/Pluto TV)",Pluto TV Clicks
-https://service-ott.sistemasagil.com/stream/plutotv-ptvclkmx/playlist.m3u8
-#EXTINF:-1 group-title="📺 24/7 (General/Pluto TV)",Pluto TV MTV Te Pone
-https://service-ott.sistemasagil.com/stream/plutotv-ptvmtpnmx/playlist.m3u8
-#EXTINF:-1 group-title="📺 24/7 (General/Pluto TV)",Pluto TV Peliculas
-https://service-ott.sistemasagil.com/stream/plutotv-ptvpmx/playlist.m3u8
-#EXTINF:-1 group-title="📺 24/7 (General/Pluto TV)",Pluto TV Retromania
-https://service-ott.sistemasagil.com/stream/plutotv-ptvretromx/playlist.m3u8
-#EXTINF:-1 group-title="📺 24/7 (General/Pluto TV)",Pluto TV Estrellas de la Comedia
-https://service-ott.sistemasagil.com/stream/plutotv-ptvecmx/playlist.m3u8
-#EXTINF:-1 group-title="📺 24/7 (General/Pluto TV)",Pluto TV Animados
-https://service-ott.sistemasagil.com/stream/plutotv-ptvanmx/playlist.m3u8
-#EXTINF:-1 group-title="📺 24/7 (General/Pluto TV)",Pluto TV Series Latinas
-https://service-ott.sistemasagil.com/stream/plutotv-ptvslmx/playlist.m3u8
-#EXTINF:-1 group-title="📺 24/7 (General/Pluto TV)",Pluto TV Deportes
-https://service-ott.sistemasagil.com/stream/plutotv-ptvspmx/playlist.m3u8
-#EXTINF:-1 group-title="📺 24/7 (General/Pluto TV)",Pluto TV Documentales
-https://service-ott.sistemasagil.com/stream/plutotv-ptvdocmx/playlist.m3u8
