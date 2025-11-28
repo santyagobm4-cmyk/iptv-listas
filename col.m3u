@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1,24 HORAS
+#EXTINF:-1 group-title="-",24 HORAS
 http://200.113.4.75:7210/play/a00m/index.m3u8
-#EXTINF:-1,AE Mundo
+#EXTINF:-1 group-title="-",AE Mundo
 http://200.113.4.75:7210/play/a012/index.m3u8
 #EXTINF:-1 group-title="-",America TV
 http://189.50.210.3:8008/play/a04k/index.m3u8
