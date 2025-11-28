@@ -1,289 +1,317 @@
 #EXTM3U
-#EXTINF:-1,24 Horas
-http://200.113.4.75:7210/play/a00m/index.m3u8
-#EXTINF:-1,AE Mundo
-http://200.113.4.75:7210/play/a012/index.m3u8
-#EXTINF:-1,America TV
-http://189.50.210.3:8008/play/a04k/index.m3u8
-#EXTINF:-1,Animal Planet
-http://200.113.4.75:7210/play/a00t/index.m3u8
-#EXTINF:-1,Antena 3
-http://189.50.210.3:8008/play/a06s/index.m3u8
-#EXTINF:-1,Avivamiento 2
-http://181.78.7.90:12500/play/a0bn/index.m3u8
+#EXTINF:-1,A24 ARGENTINA
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=109&f=.ts
+#EXTINF:-1,AMERICA TV
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=192&f=.ts
+#EXTINF:-1,AMERICA TV ARGENTINA
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=106&f=.ts
+#EXTINF:-1,AMC
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=159&f=.ts
+#EXTINF:-1,ANIMAL PLANET
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=154&f=.ts
+#EXTINF:-1,ANTENA 3
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=129&f=.ts
+#EXTINF:-1,ATV
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=175&f=.ts
 #EXTINF:-1,AXN
-http://200.113.4.75:7210/play/a022/index.m3u8
-#EXTINF:-1,BabyFirst
-http://200.113.4.75:7210/play/a02j/index.m3u8
-#EXTINF:-1,CHV
-http://189.50.210.3:8008/play/a046/index.m3u8
-#EXTINF:-1,CNN Chile
-http://189.50.210.3:8008/play/a07j/index.m3u8
-#EXTINF:-1,CNN Español
-http://200.113.4.75:7210/play/a005/index.m3u8
-#EXTINF:-1,Canal 5
-http://clubtv.link/24no/phpcode/lista0.php?c=52&token=tecnotokenplustv&f=.m3u8
-#EXTINF:-1,Canal 13
-http://189.50.210.3:8008/play/a06d/index.m3u8
-#EXTINF:-1,Canal 24 Horas
-http://189.50.210.3:8008/play/a07l/index.m3u8
-#EXTINF:-1,Canal Capital
-http://189.50.210.3:8008/play/a06g/index.m3u8
-#EXTINF:-1,Canal Estrellas
-http://200.113.4.75:7210/play/a015/index.m3u8
-#EXTINF:-1,Canal Infantil
-http://181.78.7.90:12500/play/CANALINFANTIL/index.m3u8
-#EXTINF:-1,Canal Institucional
-http://189.50.210.3:8008/play/a068/index.m3u8
-#EXTINF:-1,Canal TRO
-http://189.50.210.3:8008/play/a06e/index.m3u8
-#EXTINF:-1,Canal Test
-http://189.50.210.3:8008/play/a066/index.m3u8
-#EXTINF:-1,Canal del Congreso
-http://189.50.210.3:8008/play/a06a/index.m3u8
-#EXTINF:-1, Cartoon Network
-http://clubtv.link/24no/phpcode/lista0.php?c=51&token=tecnotokenplustv&f=.m3u8
-#EXTINF:-1,Cartoonito
-http://clubtv.link/24no/phpcode/lista0.php?c=53&token=tecnotokenplustv&f=.m3u8
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=163&f=.ts
+#EXTINF:-1,AZTECA 7
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=80&f=.ts
+#EXTINF:-1,AZTECA DEPORTES
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=76&f=.ts
+#EXTINF:-1,AZTECA INTERNACIONAL
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=181&f=.ts
+#EXTINF:-1,AZTECA UNO
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=182&f=.ts
+#EXTINF:-1,BEIN SPORTS XTRA
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=71&f=.ts
+#EXTINF:-1,C5N
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=105&f=.ts
+#EXTINF:-1,CANAL 5
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=81&f=.ts
+#EXTINF:-1,CANAL N
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=103&f=.ts
+#EXTINF:-1,CANAL SONY
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=164&f=.ts
+#EXTINF:-1,CARACOL TV
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=176&f=.ts
 #EXTINF:-1,Caracol
 http://189.50.210.3:8008/play/a04j/index.m3u8
+#EXTINF:-1,CARTOON NETWORK
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=139&f=.ts
+#EXTINF:-1,CARTOONITO
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=138&f=.ts
 #EXTINF:-1,Cine Familiar
 http://181.78.7.90:12500/play/CINEFAMILIAR/index.m3u8
 #EXTINF:-1,Cine Hispano
 http://181.78.7.90:12500/play/a0cm/index.m3u8
 #EXTINF:-1,Cine Premium
 http://181.78.7.90:12500/play/a0cn/index.m3u8
-#EXTINF:-1,Cinecanal
-http://189.50.210.3:8008/play/a02z/index.m3u8
-#EXTINF:-1,Cinemax
-http://clubtv.link/24no/phpcode/lista0.php?c=49&token=tecnotokenplustv&f=.m3u8
-#EXTINF:-1,City TV
-http://189.50.210.3:8008/play/a06h/index.m3u8
-#EXTINF:-1,Conemtel Television
-http://38.51.232.68:8000/play/a0aq/index.m3u8?token=conemteltv
-#EXTINF:-1,Cristovision
-http://189.50.210.3:8008/play/a03r/index.m3u8
-#EXTINF:-1,Cristovision
-http://181.78.7.90:12500/play/a0aa/index.m3u8
-#EXTINF:-1,DW Español
-http://189.50.210.3:8008/play/a06u/index.m3u8
+#EXTINF:-1,CINECANAL
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=187&f=.ts
+#EXTINF:-1,CINEMAX
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=188&f=.ts
+#EXTINF:-1,COMEDY CENTRAL
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=156&f=.ts
+#EXTINF:-1,DAZN F1
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=69&f=.ts
+#EXTINF:-1,DAZN LA LIGA
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=82&f=.ts
 #EXTINF:-1,DHE
-http://189.50.210.3:8008/play/a07p/index.m3u8
-#EXTINF:-1,Discovery
-http://189.50.210.3:8008/play/a039/index.m3u8
-#EXTINF:-1,Discovery Channel
-http://200.113.4.75:7210/play/a00s/index.m3u8
-#EXTINF:-1,Discovery H&H
-http://189.50.210.3:8008/play/a047/index.m3u8
-#EXTINF:-1,Discovery ID
-http://200.113.4.75:7210/play/a01u/index.m3u8
-#EXTINF:-1,Discovery Kids
-http://189.50.210.3:8008/play/a07u/index.m3u8
-#EXTINF:-1,Discovery Science
-http://189.50.210.3:8008/play/a05s/index.m3u8
-#EXTINF:-1,Discovery Theater
-http://189.50.210.3:8008/play/a078/index.m3u8
-#EXTINF:-1,Discovery Turbo
-http://200.113.4.75:7210/play/a026/index.m3u8
-#EXTINF:-1,Discovery World
-http://189.50.210.3:8008/play/a02v/index.m3u8
-#EXTINF:-1,Disney Channel
-http://189.50.210.3:8008/play/a02t/index.m3u8
-#EXTINF:-1,Disney Channel
-http://200.113.4.75:7210/play/a00r/index.m3u8
-#EXTINF:-1,Disney Jr
-http://200.113.4.75:7210/play/a00l/index.m3u8
-#EXTINF:-1,Disney Junior
-http://189.50.210.3:8008/play/a05q/index.m3u8
-#EXTINF:-1,E Entertainment
-http://200.113.4.75:7210/play/a00v/index.m3u8
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=118&f=.ts
+#EXTINF:-1,DIRECTV SPORTS
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=32&f=.ts
+#EXTINF:-1,DIRECTV SPORTS 2
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=33&f=.ts
+#EXTINF:-1,DIRECTV SPORTS PLUS
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=34&f=.ts
+#EXTINF:-1,DISCOVERY A&E
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=149&f=.ts
+#EXTINF:-1,DISCOVERY CHANNEL
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=153&f=.ts
+#EXTINF:-1,DISCOVERY HYH
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=151&f=.ts
+#EXTINF:-1,DISCOVERY KIDS
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=136&f=.ts
+#EXTINF:-1,DISCOVERY TLC
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=148&f=.ts
+#EXTINF:-1,DISCOVERY THEATER
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=147&f=.ts
+#EXTINF:-1,DISCOVERY TURBO
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=152&f=.ts
+#EXTINF:-1,DISCOVERY WORLD
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=146&f=.ts
+#EXTINF:-1,DISNEY CHANNEL
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=125&f=.ts
+#EXTINF:-1,DISNEY JR
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=142&f=.ts
+#EXTINF:-1,DISTRITO COMEDIA
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=186&f=.ts
+#EXTINF:-1,DPELICULA
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=124&f=.ts
+#EXTINF:-1,DW ESPAÑOL
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=132&f=.ts
+#EXTINF:-1,ECUADOR TV
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=101&f=.ts
+#EXTINF:-1,EL GOURMET
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=143&f=.ts
+#EXTINF:-1,EL NUEVE
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=108&f=.ts
+#EXTINF:-1,EL TRECE
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=82&f=.ts
 #EXTINF:-1,ESPN
-http://189.50.210.3:8008/play/a038/index.m3u8
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=26&f=.ts
 #EXTINF:-1,ESPN 2
-http://189.50.210.3:8008/play/a04e/index.m3u8
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=28&f=.ts
+#EXTINF:-1,ESPN 2 MEXICO
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=46&f=.ts
 #EXTINF:-1,ESPN 3
-http://189.50.210.3:8008/play/a04b/index.m3u8
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=29&f=.ts
+#EXTINF:-1,ESPN 3 MEXICO
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=48&f=.ts
 #EXTINF:-1,ESPN 4
-http://189.50.210.3:8008/play/a04a/index.m3u8
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=84&f=.ts
+#EXTINF:-1,ESPN 4 MEXICO
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=74&f=.ts
 #EXTINF:-1,ESPN 5
-http://189.50.210.3:8008/play/a05u/index.m3u8
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=66&f=.ts
+#EXTINF:-1,ESPN 5 MEXICO
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=75&f=.ts
 #EXTINF:-1,ESPN 6
-http://189.50.210.3:8008/play/a03z/index.m3u8
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=67&f=.ts
 #EXTINF:-1,ESPN 7
-http://189.50.210.3:8008/play/a05v/index.m3u8
-#EXTINF:-1,ESPN Premium
-http://189.50.210.3:8008/play/a07q/index.m3u8
-#EXTINF:-1,ET Canal El Tiempo
-http://189.50.210.3:8008/play/a06r/index.m3u8
-#EXTINF:-1,Ecuavisa
-http://189.50.210.3:8008/play/a03v/index.m3u8
-#EXTINF:-1,Enlace
-http://200.113.4.75:7210/play/a01q/index.m3u8
-#EXTINF:-1,Enlace
-http://181.78.7.90:12500/play/a08y/index.m3u8
-#EXTINF:-1,Esne TV
-http://200.113.4.75:7210/play/a027/index.m3u8
-#EXTINF:-1,Europa Europa
-http://189.50.210.3:8008/play/a070/index.m3u8
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=68&f=.ts
+#EXTINF:-1,ESPN ARGENTINA
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=85&f=.ts
+#EXTINF:-1,ESPN MEXICO
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=41&f=.ts
+#EXTINF:-1,ESPN PREMIUM
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=12&f=.ts
+#EXTINF:-1,ESPN PREMIUM ARGENTINA
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=86&f=.ts
+#EXTINF:-1,EUROPA EUROPA
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=116&f=.ts
+#EXTINF:-1,EVERYTHING
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=145&f=.ts
+#EXTINF:-1,EXTREMA TV
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=128&f=.ts
+#EXTINF:-1,FM HOT KIDS
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=119&f=.ts
+#EXTINF:-1,FM HOT MOVIES
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=120&f=.ts
+#EXTINF:-1,FOX SPORTS
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=19&f=.ts
+#EXTINF:-1,FOX SPORTS 2
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=20&f=.ts
+#EXTINF:-1,FOX SPORTS 2 MEXICO
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=36&f=.ts
+#EXTINF:-1,FOX SPORTS 3
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=22&f=.ts
+#EXTINF:-1,FOX SPORTS 3 MEXICO
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=37&f=.ts
+#EXTINF:-1,FOX SPORTS MEXICO
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=35&f=.ts
+#EXTINF:-1,FOX SPORTS PREMIUM
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=65&f=.ts
 #EXTINF:-1,FX
-http://189.50.210.3:8008/play/a036/index.m3u8
-#EXTINF:-1,FX
-http://200.113.4.75:7210/play/a024/index.m3u8
-#EXTINF:-1,Film&Arts
-http://189.50.210.3:8008/play/a06m/index.m3u8
-#EXTINF:-1,Food Network
-http://189.50.210.3:8008/play/a07n/index.m3u8
-#EXTINF:-1,Food Network
-http://189.50.210.3:8008/play/a065/index.m3u8
-#EXTINF:-1,Fox News
-http://189.50.210.3:8008/play/a072/index.m3u8
-#EXTINF:-1,Fox Sports 1
-http://200.113.4.75:7210/play/a00d/index.m3u8
-#EXTINF:-1,Fox Sports 2
-http://200.113.4.75:7210/play/a016/index.m3u8
-#EXTINF:-1,Fox Sports 3
-http://200.113.4.75:7210/play/a017/index.m3u8
-#EXTINF:-1,France 24
-http://189.50.210.3:8008/play/a06j/index.m3u8
-#EXTINF:-1,Gol TV
-http://189.50.210.3:8008/play/a06w/index.m3u8
-#EXTINF:-1,HBO
-http://189.50.210.3:8008/play/a077/index.m3u8
-#EXTINF:-1,HBO
-http://189.50.210.3:8008/play/a032/index.m3u8
-#EXTINF:-1,HBO Family
-http://189.50.210.3:8008/play/a07r/index.m3u8
-#EXTINF:-1,HBO Mundi
-http://189.50.210.3:8008/play/a071/index.m3u8
-#EXTINF:-1,HBO Pop
-http://189.50.210.3:8008/play/a034/index.m3u8
-#EXTINF:-1,HBO Pop
-http://189.50.210.3:8008/play/a07e/index.m3u8
-#EXTINF:-1,HBO Xtreme
-http://189.50.210.3:8008/play/a07s/index.m3u8
-#EXTINF:-1,HGTV
-http://189.50.210.3:8008/play/a03n/index.m3u8
-#EXTINF:-1,HTV
-http://189.50.210.3:8008/play/a03p/index.m3u8
-#EXTINF:-1,History 2
-http://189.50.210.3:8008/play/a06l/index.m3u8
-#EXTINF:-1,Kanal D Drama
-http://189.50.210.3:8008/play/a06k/index.m3u8
-#EXTINF:-1,Kanal D Drama
-http://181.78.7.90:12500/play/a07d/index.m3u8
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=171&f=.ts
+#EXTINF:-1,GALAVISION
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=180&f=.ts
+#EXTINF:-1,GEX TV
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=200&f=.ts
+#EXTINF:-1,GLOBAL TV
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=133&f=.ts
+#EXTINF:-1,GOLDEN
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=131&f=.ts
+#EXTINF:-1,GOLDEN
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=170&f=.ts
+#EXTINF:-1,GOLDEN EDGE
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=168&f=.ts
+#EXTINF:-1,GOLDEN PLUS
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=169&f=.ts
+#EXTINF:-1,GOLDEN PREMIER
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=166&f=.ts
+#EXTINF:-1,GOL PERU
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=7&f=.ts
+#EXTINF:-1,HISTORY
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=184&f=.ts
+#EXTINF:-1,HISTORY 2
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=183&f=.ts
+#EXTINF:-1,ID INVESTIGATION
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=150&f=.ts
+#EXTINF:-1,IMAGEN TV
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=172&f=.ts
+#EXTINF:-1,LA NACION ARGENTINA
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=107&f=.ts
 #EXTINF:-1,La Kalle
 http://181.78.7.90:12500/play/a06g/index.m3u8
-#EXTINF:-1,La Red
-http://189.50.210.3:8008/play/a07k/index.m3u8
-#EXTINF:-1,Las Estrellas
-http://189.50.210.3:8008/play/a07o/index.m3u8
-#EXTINF:-1,Latina
-http://189.50.210.3:8008/play/a04m/index.m3u8
-#EXTINF:-1,Lifetime
-http://189.50.210.3:8008/play/a05w/index.m3u8
-#EXTINF:-1,Love Nature
-http://189.50.210.3:8008/play/a03m/index.m3u8
+#EXTINF:-1,LAS ESTRELLAS
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=178&f=.ts
+#EXTINF:-1,LATINA
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=193&f=.ts
+#EXTINF:-1,LIFETIME
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=144&f=.ts
+#EXTINF:-1,LIGA 1
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=49&f=.ts
+#EXTINF:-1,LIGA 1 MAX
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=50&f=.ts
+#EXTINF:-1,LOVE NATURE
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=114&f=.ts
+#EXTINF:-1,MOVISTAR LA LIGA
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=72&f=.ts
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=70&f=.ts
+#EXTINF:-1,MULTIPREMIER
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=160&f=.ts
 #EXTINF:-1,MTV
-http://200.113.4.75:7210/play/a01h/index.m3u8
-#EXTINF:-1,Mega
-http://189.50.210.3:8008/play/a02r/index.m3u8
-#EXTINF:-1,Movistar Informa
-http://189.50.210.3:8008/play/a061/index.m3u8
-#EXTINF:-1,Musica Popular
-http://181.78.7.90:12500/play/MUSICAPOPULAR/index.m3u8
-#EXTINF:-1,Musica Reggaeton
-http://181.78.7.90:12500/play/MUSICAREGGAETON/index.m3u8
-#EXTINF:-1,Musica Romantica
-http://181.78.7.90:12500/play/a0cp/index.m3u8
-#EXTINF:-1,Musica Salsa
-http://181.78.7.90:12500/play/a0co/index.m3u8
-#EXTINF:-1,NTN 24 Horas
-http://189.50.210.3:8008/play/a06p/index.m3u8
-#EXTINF:-1,Nat Geo
-http://200.113.4.75:7210/play/a01c/index.m3u8
-#EXTINF:-1,Nick
-http://189.50.210.3:8008/play/a035/index.m3u8
-#EXTINF:-1,Nick Jr
-http://189.50.210.3:8008/play/a05n/index.m3u8
-#EXTINF:-1,Nick Jr
-http://200.113.4.75:7210/play/a025/index.m3u8
-#EXTINF:-1,Paramount
-http://189.50.210.3:8008/play/a04g/index.m3u8
-#EXTINF:-1,Pasiones
-http://189.50.210.3:8008/play/a07b/index.m3u8
-#EXTINF:-1,Peru Magico
-http://189.50.210.3:8008/play/a06v/index.m3u8
-#EXTINF:-1,RAI
-http://189.50.210.3:8008/play/a06t/index.m3u8
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=157&f=.ts
+#EXTINF:-1,MTV 00S
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=113&f=.ts
+#EXTINF:-1,NAT GEO
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=155&f=.ts
+#EXTINF:-1,NICK
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=141&f=.ts
+#EXTINF:-1,NICK JR
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=140&f=.ts
+#EXTINF:-1,PANICO
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=130&f=.ts
+#EXTINF:-1,PARAMOUNT CHANNEL
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=158&f=.ts
+#EXTINF:-1,PASIONES
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=89&f=.ts
 #EXTINF:-1,RCN
-http://189.50.210.3:8008/play/a04i/index.m3u8
-#EXTINF:-1,RCN Novelas
-http://200.113.4.75:7210/play/a01t/index.m3u8
-#EXTINF:-1,REC TV
-http://189.50.210.3:8008/play/a075/index.m3u8
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=117&f=.ts
+#EXTINF:-1,RTS ECUADOR
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=96&f=.ts
+#EXTINF:-1,SALVADOR: TCS PLUS
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=95&f=.ts
 #EXTINF:-1,Señal Colombia
 http://189.50.210.3:8008/play/a069/index.m3u8
-#EXTINF:-1,Sony
-http://200.113.4.75:7210/play/a021/index.m3u8
-#EXTINF:-1,Space
-http://189.50.210.3:8008/play/a02y/index.m3u8
-#EXTINF:-1,Star Channel
-http://189.50.210.3:8008/play/a02w/index.m3u8
-#EXTINF:-1,Star Channel
-http://200.113.4.75:7210/play/a01l/index.m3u8
-#EXTINF:-1,Studio Universal
-http://189.50.210.3:8008/play/a05x/index.m3u8
-#EXTINF:-1,Sun Channel
-http://189.50.210.3:8008/play/a07t/index.m3u8
-#EXTINF:-1,SyFy
-http://200.113.4.75:7210/play/a02l/index.m3u8
-#EXTINF:-1,TLC
-http://189.50.210.3:8008/play/a05r/index.m3u8
-#EXTINF:-1,TNT
-http://189.50.210.3:8008/play/a049/index.m3u8
-#EXTINF:-1,TNT Novelas
-http://189.50.210.3:8008/play/a05t/index.m3u8
-#EXTINF:-1,TNT Series
-http://189.50.210.3:8008/play/a04f/index.m3u8
-#EXTINF:-1,TNT Sports 2
-http://200.113.4.75:7210/play/a00c/index.m3u8
-#EXTINF:-1,TNT Sports 3
-http://200.113.4.75:7210/play/a011/index.m3u8
-#EXTINF:-1,TNT Sports Premium
-http://189.50.210.3:8008/play/a031/index.m3u8
-#EXTINF:-1,TV+
-http://189.50.210.3:8008/play/a07i/index.m3u8
-#EXTINF:-1,TVN
-http://189.50.210.3:8008/play/a079/index.m3u8
-#EXTINF:-1,TVN
-http://189.50.210.3:8008/play/a045/index.m3u8
-#EXTINF:-1,Telecafe
-http://189.50.210.3:8008/play/a06f/index.m3u8
+#EXTINF:-1,SKY SPORTS BUNDESLIGA
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=79&f=.ts
+#EXTINF:-1,SKY SPORTS LA LIGA
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=78&f=.ts
+#EXTINF:-1,SONY CINE
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=99&f=.ts
+#EXTINF:-1,SONY MOVIES
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=100&f=.ts
+#EXTINF:-1,SPACE
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=191&f=.ts
+#EXTINF:-1,STAR CHANNEL
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=189&f=.ts
+#EXTINF:-1,STUDIO UNIVERSAL
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=161&f=.ts
+#EXTINF:-1,SUN CHANNEL
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=102&f=.ts
+#EXTINF:-1,SYFY | USA
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=177&f=.ts
+#EXTINF:-1,TCM
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=199&f=.ts
+#EXTINF:-1,TEEN NICK
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=196&f=.ts
+#EXTINF:-1,TELE AMAZONAS
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=115&f=.ts
+#EXTINF:-1,TELEFE
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=83&f=.ts
 #EXTINF:-1,Telecaribe
 http://189.50.210.3:8008/play/a06b/index.m3u8
-#EXTINF:-1,Teleislas
-http://189.50.210.3:8008/play/a06i/index.m3u8
-#EXTINF:-1,Telemundo
-http://200.113.4.75:7210/play/a018/index.m3u8
-#EXTINF:-1,Telenovelas
-http://189.50.210.3:8008/play/a06n/index.m3u8
-#EXTINF:-1,Telepacifico
-http://189.50.210.3:8008/play/a06c/index.m3u8
-#EXTINF:-1,TyC Sports
-http://189.50.210.3:8008/play/a06x/index.m3u8
-#EXTINF:-1,USA
-http://189.50.210.3:8008/play/a06z/index.m3u8
-#EXTINF:-1,Universal
-http://200.113.4.75:7210/play/a01f/index.m3u8
-#EXTINF:-1,Via X Esports
-http://189.50.210.3:8008/play/a06y/index.m3u8
-#EXTINF:-1,ViaX
-http://200.113.4.75:7210/play/a014/index.m3u8
-#EXTINF:-1,WILLAX
-http://189.50.210.3:8008/play/a05m/index.m3u8
-#EXTINF:-1,Warner
-http://200.113.4.75:7210/play/a00u/index.m3u8
-#EXTINF:-1,Warner Channel
-http://189.50.210.3:8008/play/a02x/index.m3u8
-#EXTINF:-1,Win Sports+
-http://189.50.210.3:8008/play/a04n/index.m3u8
+#EXTINF:-1,TELECINCO
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=195&f=.ts
+#EXTINF:-1,TELEHIT
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=197&f=.ts
+#EXTINF:-1,TELEHIT MUSICA
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=198&f=.ts
+#EXTINF:-1,TELEMUNDO 51
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=85&f=.ts
+#EXTINF:-1,TELEMUNDO INTERNACIONAL
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=87&f=.ts
+#EXTINF:-1,TELEMUNDO INTERNACIONAL
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=126&f=.ts
+#EXTINF:-1,TELEMUNDO PUERTO RICO
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=86&f=.ts
+#EXTINF:-1,TELEMUNDO PUERTO RICO
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=135&f=.ts
+#EXTINF:-1,TLNOVELAS
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=179&f=.ts
+#EXTINF:-1,TN ARGENTINA
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=104&f=.ts
+#EXTINF:-1,TNT
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=190&f=.ts
+#EXTINF:-1,TNT NOVELAS
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=122&f=.ts
+#EXTINF:-1,TNT SERIES
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=165&f=.ts
+#EXTINF:-1,TNT SPORTS
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=11&f=.ts
+#EXTINF:-1,TNT SPORTS CHILE
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=77&f=.ts
+#EXTINF:-1,TOONCAST
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=137&f=.ts
+#EXTINF:-1,TUDN
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=16&f=.ts
+#EXTINF:-1,TV PUBLICA
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=84&f=.ts
+#EXTINF:-1,TYC SPORTS ARGENTINA
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=206&f=.ts
+#EXTINF:-1,TYC SPORTS INTERNACIONAL
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=207&f=.ts
+#EXTINF:-1,UNICABLE
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=173&f=.ts
+#EXTINF:-1,UNIVERSAL CINEMA
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=121&f=.ts
+#EXTINF:-1,UNIVERSAL PREMIERE
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=123&f=.ts
+#EXTINF:-1,UNIVERSAL TV
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=162&f=.ts
+#EXTINF:-1,UNIVISION
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=88&f=.ts
+#EXTINF:-1,UNIVISION
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=174&f=.ts
+#EXTINF:-1,WARNER BROS TV
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=127&f=.ts
+#EXTINF:-1,WILLAX TV
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=134&f=.ts
+#EXTINF:-1,WIN SPORTS
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=73&f=.ts
+#EXTINF:-1,WIN SPORTS PLUS
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=83&f=.ts
