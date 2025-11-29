@@ -1,87 +1,47 @@
 #EXTM3U
-
-# --- DEPORTES ---
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/200px-ESPN_wordmark.svg.png",ESPN
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=26&f=.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/200px-ESPN_wordmark.svg.png",ESPN 2
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=28&f=.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/200px-ESPN_wordmark.svg.png",ESPN 3
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=29&f=.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/200px-ESPN_wordmark.svg.png",ESPN 4
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=84&f=.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/200px-ESPN_wordmark.svg.png",ESPN EXTRA/PREMIUM
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=12&f=.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Fox_Sports_Espanol.png/200px-Fox_Sports_Espanol.png",FOX SPORTS
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=19&f=.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Fox_Sports_Espanol.png/200px-Fox_Sports_Espanol.png",FOX SPORTS 2
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=20&f=.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Fox_Sports_Espanol.png/200px-Fox_Sports_Espanol.png",FOX SPORTS 3
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=22&f=.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/TyC_Sports_logo.svg/200px-TyC_Sports_logo.svg.png",TYC SPORTS ARGENTINA
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=206&f=.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Directv_sports_logo.png/200px-Directv_sports_logo.png",DIRECTV SPORTS
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=32&f=.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/TUDN_logo_2019.svg/200px-TUDN_logo_2019.svg.png",TUDN
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=16&f=.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_Argentina.svg/200px-TNT_Sports_Argentina.svg.png",TNT SPORTS
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=11&f=.ts
-
-# --- ARGENTINA (NOTICIAS Y AIRE) ---
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Am%C3%A9rica_TV_logo_2016.png/200px-Am%C3%A9rica_TV_logo_2016.png",AMERICA TV
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=192&f=.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/A24_logo.svg/200px-A24_logo.svg.png",A24 ARGENTINA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/A24_logo.svg/512px-A24_logo.svg.png",A24 ARGENTINA
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=109&f=.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/C5N_Logo_2015.png/200px-C5N_Logo_2015.png",C5N
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=105&f=.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Logo_TN_2016.svg/200px-Logo_TN_2016.svg.png",TN ARGENTINA
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=104&f=.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/El_trece_logo_2016.svg/200px-El_trece_logo_2016.svg.png",EL TRECE
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=82&f=.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Telefe_2018.svg/200px-Telefe_2018.svg.png",TELEFE
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=83&f=.ts
-
-# --- CINE Y SERIES ---
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/TNT_logo_2016.svg/200px-TNT_logo_2016.svg.png",TNT
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=190&f=.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HBO_logo.svg/200px-HBO_logo.svg.png",CINEMAX
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=188&f=.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Cinecanal_logo_2019.png/200px-Cinecanal_logo_2019.png",CINECANAL
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=187&f=.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Star_Channel_Logo.png/200px-Star_Channel_Logo.png",STAR CHANNEL
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=189&f=.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/AMC_Networks_logo.svg/200px-AMC_Networks_logo.svg.png",AMC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/AMC_TV_Latin_America_Logo.svg/512px-AMC_TV_Latin_America_Logo.svg.png",AMC
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=159&f=.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Warner_TV_logo_2015.png/200px-Warner_TV_logo_2015.png",WARNER
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=127&f=.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/AXN_logo_2016.svg/200px-AXN_logo_2016.svg.png",AXN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Am%C3%A9rica_TV_logo_2016.png/512px-Am%C3%A9rica_TV_logo_2016.png",AMERICA TV
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=192&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Am%C3%A9rica_TV_logo_2016.png/512px-Am%C3%A9rica_TV_logo_2016.png",AMERICA TV ARGENTINA
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=106&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Animal_Planet_logo_2018.svg/512px-Animal_Planet_logo_2018.svg.png",ANIMAL PLANET
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=154&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Antena_3_%282017%29.svg/512px-Antena_3_%282017%29.svg.png",ANTENA 3
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=129&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/ATV_Peru_logo_2017.svg/512px-ATV_Peru_logo_2017.svg.png",ATV
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=175&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/AXN_logo_2016.svg/512px-AXN_logo_2016.svg.png",AXN
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=163&f=.ts
-
-# --- MÉXICO Y OTROS (Sin logo para evitar error, o genéricos) ---
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Canal_5_Televisa_Logo_2016.svg/200px-Canal_5_Televisa_Logo_2016.svg.png",CANAL 5
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=81&f=.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Azteca_7_logo.png/200px-Azteca_7_logo.png",AZTECA 7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Azteca_7_logo.png/512px-Azteca_7_logo.png",AZTECA 7
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=80&f=.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Las_Estrellas_2016.svg/200px-Las_Estrellas_2016.svg.png",LAS ESTRELLAS
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=178&f=.ts
-#EXTINF:-1,AZTECA INTERNACIONAL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Azteca_Deportes_logo_2019.png/512px-Azteca_Deportes_logo_2019.png",AZTECA DEPORTES
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=76&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Azteca_Uno_logo.svg/512px-Azteca_Uno_logo.svg.png",AZTECA INTERNACIONAL
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=181&f=.ts
-#EXTINF:-1,AZTECA UNO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Azteca_Uno_logo.svg/512px-Azteca_Uno_logo.svg.png",AZTECA UNO
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=182&f=.ts
 #EXTINF:-1,BabyFirst
 http://200.113.4.75:7210/play/a02j/index.m3u8
 #EXTINF:-1,BEIN SPORTS XTRA
 https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=71&f=.ts
-#EXTINF:-1,CANAL N
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=103&f=.ts
-#EXTINF:-1,CANAL SONY
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=164&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/C5N_Logo_2015.png/512px-C5N_Logo_2015.png",C5N
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=105&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Canal_5_Televisa_Logo_2016.svg/512px-Canal_5_Televisa_Logo_2016.svg.png",CANAL 5
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=81&f=.ts
 #EXTINF:-1,CANAL INFANTIL
 http://181.78.7.90:12500/play/CANALINFANTIL/index.m3u8
-#EXTINF:-1,Caracol
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Canal_N_logo.svg/512px-Canal_N_logo.svg.png",CANAL N
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=103&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Canal_Sony_logo_2019.png/512px-Canal_Sony_logo_2019.png",CANAL SONY
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=164&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png",Caracol
 http://189.50.210.3:8008/play/a04j/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png",CARTOON NETWORK
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png",CARTOON NETWORK
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=139&f=.ts
-#EXTINF:-1,CARTOONITO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cartoonito_2021.svg/512px-Cartoonito_2021.svg.png",CARTOONITO
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=138&f=.ts
 #EXTINF:-1,Cine Familiar
 http://181.78.7.90:12500/play/CINEFAMILIAR/index.m3u8
@@ -89,51 +49,89 @@ http://181.78.7.90:12500/play/CINEFAMILIAR/index.m3u8
 http://181.78.7.90:12500/play/a0cm/index.m3u8
 #EXTINF:-1,Cine Premium
 http://181.78.7.90:12500/play/a0cn/index.m3u8
-#EXTINF:-1,COMEDY CENTRAL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Cinecanal_logo_2019.png/512px-Cinecanal_logo_2019.png",CINECANAL
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=187&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Cinemax_2016.svg/512px-Cinemax_2016.svg.png",CINEMAX
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=188&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Comedy_Central_2019.svg/512px-Comedy_Central_2019.svg.png",COMEDY CENTRAL
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=156&f=.ts
-#EXTINF:-1,DAZN F1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/DAZN_F1_Logo.svg/512px-DAZN_F1_Logo.svg.png",DAZN F1
 https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=69&f=.ts
-#EXTINF:-1,DAZN LA LIGA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Dazn_laliga.png/512px-Dazn_laliga.png",DAZN LA LIGA
 https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=82&f=.ts
 #EXTINF:-1,DHE
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=118&f=.ts
-#EXTINF:-1,DIRECTV SPORTS 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Directv_sports_logo.png/512px-Directv_sports_logo.png",DIRECTV SPORTS
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=32&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Directv_sports_logo.png/512px-Directv_sports_logo.png",DIRECTV SPORTS 2
 https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=33&f=.ts
-#EXTINF:-1,DIRECTV SPORTS PLUS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Directv_sports_logo.png/512px-Directv_sports_logo.png",DIRECTV SPORTS PLUS
 https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=34&f=.ts
 #EXTINF:-1,DISCOVERY A&E
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=149&f=.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Discovery_Channel_2019.svg/200px-Discovery_Channel_2019.svg.png",DISCOVERY CHANNEL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Discovery_Channel_2019.svg/512px-Discovery_Channel_2019.svg.png",DISCOVERY CHANNEL
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=153&f=.ts
-#EXTINF:-1,DISCOVERY HYH
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Discovery_Home_%26_Health_2019.svg/512px-Discovery_Home_%26_Health_2019.svg.png",DISCOVERY HYH
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=151&f=.ts
-#EXTINF:-1,DISCOVERY KIDS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Discovery_Kids_2016.svg/512px-Discovery_Kids_2016.svg.png",DISCOVERY KIDS
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=136&f=.ts
-#EXTINF:-1,DISCOVERY TLC
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=148&f=.ts
 #EXTINF:-1,DISCOVERY THEATER
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=147&f=.ts
-#EXTINF:-1,DISCOVERY TURBO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TLC_2009.svg/512px-TLC_2009.svg.png",DISCOVERY TLC
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=148&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Discovery_Turbo_2019.svg/512px-Discovery_Turbo_2019.svg.png",DISCOVERY TURBO
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=152&f=.ts
-#EXTINF:-1,DISCOVERY WORLD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Discovery_World_2019.svg/512px-Discovery_World_2019.svg.png",DISCOVERY WORLD
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=146&f=.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Disney_Channel_logo_2019.svg/200px-Disney_Channel_logo_2019.svg.png",DISNEY CHANNEL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Disney_Channel_logo_2019.svg/512px-Disney_Channel_logo_2019.svg.png",DISNEY CHANNEL
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=125&f=.ts
-#EXTINF:-1,DISNEY JR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Disney_Junior_logo_2012.svg/512px-Disney_Junior_logo_2012.svg.png",DISNEY JR
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=142&f=.ts
-#EXTINF:-1,DISTRITO COMEDIA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Distrito_Comedia_logo_2018.png/512px-Distrito_Comedia_logo_2018.png",DISTRITO COMEDIA
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=186&f=.ts
 #EXTINF:-1,DPELICULA
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=124&f=.ts
-#EXTINF:-1,DW ESPAÑOL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/DW_TV_Latinoam%C3%A9rica_Logo_2012.svg/512px-DW_TV_Latinoam%C3%A9rica_Logo_2012.svg.png",DW ESPAÑOL
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=132&f=.ts
-#EXTINF:-1,ECUADOR TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Ecuador_TV_logo_2018.svg/512px-Ecuador_TV_logo_2018.svg.png",ECUADOR TV
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=101&f=.ts
-#EXTINF:-1,EL GOURMET
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/El_Gourmet_logo.svg/512px-El_Gourmet_logo.svg.png",EL GOURMET
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=143&f=.ts
-#EXTINF:-1,EL NUEVE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/El_Nueve_logo_2018.svg/512px-El_Nueve_logo_2018.svg.png",EL NUEVE
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=108&f=.ts
-#EXTINF:-1,EUROPA EUROPA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/El_trece_logo_2016.svg/512px-El_trece_logo_2016.svg.png",EL TRECE
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=82&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",ESPN
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=26&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",ESPN 2
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=28&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",ESPN 2 MEXICO
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=46&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",ESPN 3
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=29&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",ESPN 3 MEXICO
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=48&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",ESPN 4
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=84&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",ESPN 4 MEXICO
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=74&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",ESPN 5
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=66&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",ESPN 5 MEXICO
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=75&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",ESPN 6
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=67&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",ESPN 7
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=68&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",ESPN ARGENTINA
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=85&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",ESPN MEXICO
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=41&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",ESPN PREMIUM
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=12&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",ESPN PREMIUM ARGENTINA
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=86&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Europa_Europa_logo_2016.svg/512px-Europa_Europa_logo_2016.svg.png",EUROPA EUROPA
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=116&f=.ts
 #EXTINF:-1,EVERYTHING
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=145&f=.ts
@@ -143,73 +141,103 @@ https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=128&f=.ts
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=119&f=.ts
 #EXTINF:-1,FM HOT MOVIES
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=120&f=.ts
-#EXTINF:-1,FX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Fox_Sports_Espanol.png/512px-Fox_Sports_Espanol.png",FOX SPORTS
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=19&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Fox_Sports_Espanol.png/512px-Fox_Sports_Espanol.png",FOX SPORTS 2
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=20&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Fox_Sports_Espanol.png/512px-Fox_Sports_Espanol.png",FOX SPORTS 2 MEXICO
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=36&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Fox_Sports_Espanol.png/512px-Fox_Sports_Espanol.png",FOX SPORTS 3
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=22&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Fox_Sports_Espanol.png/512px-Fox_Sports_Espanol.png",FOX SPORTS 3 MEXICO
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=37&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Fox_Sports_Espanol.png/512px-Fox_Sports_Espanol.png",FOX SPORTS MEXICO
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=35&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Fox_Sports_Espanol.png/512px-Fox_Sports_Espanol.png",FOX SPORTS PREMIUM
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=65&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/FX_logo_2013.svg/512px-FX_logo_2013.svg.png",FX
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=171&f=.ts
-#EXTINF:-1,GALAVISION
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Galavisi%C3%B3n_logo.svg/512px-Galavisi%C3%B3n_logo.svg.png",GALAVISION
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=180&f=.ts
 #EXTINF:-1,GEX TV
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=200&f=.ts
 #EXTINF:-1,GLOBAL TV
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=133&f=.ts
-#EXTINF:-1,GOLDEN
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=131&f=.ts
-#EXTINF:-1,GOLDEN
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=170&f=.ts
-#EXTINF:-1,GOLDEN EDGE
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=168&f=.ts
-#EXTINF:-1,GOLDEN PLUS
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=169&f=.ts
-#EXTINF:-1,GOLDEN PREMIER
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=166&f=.ts
 #EXTINF:-1,GOL PERU
 https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=7&f=.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/200px-History_Logo.svg.png",HISTORY
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Golden_logo_2016.svg/512px-Golden_logo_2016.svg.png",GOLDEN
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=131&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Golden_logo_2016.svg/512px-Golden_logo_2016.svg.png",GOLDEN
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=170&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Golden_Edge_logo_2016.svg/512px-Golden_Edge_logo_2016.svg.png",GOLDEN EDGE
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=168&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Golden_Plus_logo_2018.png/512px-Golden_Plus_logo_2018.png",GOLDEN PLUS
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=169&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Golden_Premier_logo_2016.svg/512px-Golden_Premier_logo_2016.svg.png",GOLDEN PREMIER
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=166&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HBO_logo.svg/512px-HBO_logo.svg.png",HBO
+http://189.50.210.3:8008/play/a077/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HBO_logo.svg/512px-HBO_logo.svg.png",HBO
+http://189.50.210.3:8008/play/a032/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/HBO_Family.svg/512px-HBO_Family.svg.png",HBO Family
+http://189.50.210.3:8008/play/a07r/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/HBO_Mundi_logo_2019.svg/512px-HBO_Mundi_logo_2019.svg.png",HBO MUNDI
+http://189.50.210.3:8008/play/a071/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HBO_Pop_logo_2019.svg/512px-HBO_Pop_logo_2019.svg.png",HBO POP
+http://189.50.210.3:8008/play/a034/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HBO_Pop_logo_2019.svg/512px-HBO_Pop_logo_2019.svg.png",HBO POP
+http://189.50.210.3:8008/play/a07e/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/HBO_Xtreme_logo_2019.svg/512px-HBO_Xtreme_logo_2019.svg.png",HBO Xtreme
+http://189.50.210.3:8008/play/a07s/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/512px-History_Logo.svg.png",HISTORY
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=184&f=.ts
-#EXTINF:-1,HISTORY 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/H2_logo_2016.svg/512px-H2_logo_2016.svg.png",HISTORY 2
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=183&f=.ts
-#EXTINF:-1,ID INVESTIGATION
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Investigation_Discovery_logo.svg/512px-Investigation_Discovery_logo.svg.png",ID INVESTIGATION
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=150&f=.ts
-#EXTINF:-1,IMAGEN TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Imagen_Televisi%C3%B3n_logo.svg/512px-Imagen_Televisi%C3%B3n_logo.svg.png",IMAGEN TV
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=172&f=.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/La_Naci%C3%B3n_%2B.png/200px-La_Naci%C3%B3n_%2B.png",LA NACION ARGENTINA
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=107&f=.ts
 #EXTINF:-1,La Kalle
 http://181.78.7.90:12500/play/a06g/index.m3u8
-#EXTINF:-1,LATINA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/La_Naci%C3%B3n_%2B.png/512px-La_Naci%C3%B3n_%2B.png",LA NACION ARGENTINA
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=107&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Las_Estrellas_2016.svg/512px-Las_Estrellas_2016.svg.png",LAS ESTRELLAS
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=178&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Latina_Televisi%C3%B3n_logo_2019.svg/512px-Latina_Televisi%C3%B3n_logo_2019.svg.png",LATINA
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=193&f=.ts
-#EXTINF:-1,LIFETIME
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Lifetime_Latin_America_logo_2017.svg/512px-Lifetime_Latin_America_logo_2017.svg.png",LIFETIME
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=144&f=.ts
-#EXTINF:-1,LIGA 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Liga1_Televisi%C3%B3n_logo.svg/512px-Liga1_Televisi%C3%B3n_logo.svg.png",LIGA 1
 https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=49&f=.ts
-#EXTINF:-1,LIGA 1 MAX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/L1_Max_logo_2024.svg/512px-L1_Max_logo_2024.svg.png",LIGA 1 MAX
 https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=50&f=.ts
-#EXTINF:-1,LOVE NATURE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Love_Nature_logo.svg/512px-Love_Nature_logo.svg.png",LOVE NATURE
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=114&f=.ts
 #EXTINF:-1,MOVISTAR LA LIGA
 https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=72&f=.ts
 #EXTINF:-1,MOVISTAR LIGA DE CAMPEONES
 https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=70&f=.ts
-#EXTINF:-1,MULTIPREMIER
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=160&f=.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_logo.svg/200px-MTV_logo.svg.png",MTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_logo.svg/512px-MTV_logo.svg.png",MTV
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=157&f=.ts
 #EXTINF:-1,MTV 00S
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=113&f=.ts
-#EXTINF:-1,NAT GEO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Multipremier_logo_2016.svg/512px-Multipremier_logo_2016.svg.png",MULTIPREMIER
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=160&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/National_Geographic_logo.svg/512px-National_Geographic_logo.svg.png",NAT GEO
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=155&f=.ts
-#EXTINF:-1,NICK
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Nickelodeon_logo_2009.svg/512px-Nickelodeon_logo_2009.svg.png",NICK
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=141&f=.ts
-#EXTINF:-1,NICK JR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nick_Jr_logo_2009.svg/512px-Nick_Jr_logo_2009.svg.png",NICK JR
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=140&f=.ts
-#EXTINF:-1,PANICO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/P%C3%A1nico_logo_2017.png/512px-P%C3%A1nico_logo_2017.png",PANICO
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=130&f=.ts
-#EXTINF:-1,PARAMOUNT CHANNEL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Paramount_Network_logo.svg/512px-Paramount_Network_logo.svg.png",PARAMOUNT CHANNEL
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=158&f=.ts
-#EXTINF:-1,PASIONES
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Pasiones_TV_logo_2016.png/512px-Pasiones_TV_logo_2016.png",PASIONES
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=89&f=.ts
-#EXTINF:-1,RCN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/RCN_Televisi%C3%B3n_2019.svg/512px-RCN_Televisi%C3%B3n_2019.svg.png",RCN
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=117&f=.ts
-#EXTINF:-1,RTS ECUADOR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/RTS_logo_2024.png/512px-RTS_logo_2024.png",RTS ECUADOR
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=96&f=.ts
 #EXTINF:-1,SALVADOR: TCS PLUS
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=95&f=.ts
@@ -219,71 +247,87 @@ http://189.50.210.3:8008/play/a069/index.m3u8
 https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=79&f=.ts
 #EXTINF:-1,SKY SPORTS LA LIGA
 https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=78&f=.ts
-#EXTINF:-1,SONY CINE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Canal_Sony_logo_2019.png/512px-Canal_Sony_logo_2019.png",SONY CINE
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=99&f=.ts
-#EXTINF:-1,SONY MOVIES
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Sony_Movies_logo_2023.svg/512px-Sony_Movies_logo_2023.svg.png",SONY MOVIES
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=100&f=.ts
-#EXTINF:-1,SPACE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Space_logo_2016.svg/512px-Space_logo_2016.svg.png",SPACE
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=191&f=.ts
-#EXTINF:-1,STUDIO UNIVERSAL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Star_Channel_Logo.png/512px-Star_Channel_Logo.png",STAR CHANNEL
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=189&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Studio_Universal_logo_2016.svg/512px-Studio_Universal_logo_2016.svg.png",STUDIO UNIVERSAL
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=161&f=.ts
-#EXTINF:-1,SUN CHANNEL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Sun_Channel_logo_2015.svg/512px-Sun_Channel_logo_2015.svg.png",SUN CHANNEL
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=102&f=.ts
-#EXTINF:-1,SYFY | USA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Syfy_logo_2017.svg/512px-Syfy_logo_2017.svg.png",SYFY | USA
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=177&f=.ts
-#EXTINF:-1,TCM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/TCM_logo_Latin_America.svg/512px-TCM_logo_Latin_America.svg.png",TCM
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=199&f=.ts
-#EXTINF:-1,TEEN NICK
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/TeenNick_logo_2009.svg/512px-TeenNick_logo_2009.svg.png",TEEN NICK
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=196&f=.ts
-#EXTINF:-1,TELE AMAZONAS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Teleamazonas_logo_2017.svg/512px-Teleamazonas_logo_2017.svg.png",TELE AMAZONAS
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=115&f=.ts
 #EXTINF:-1,Telecaribe
 http://189.50.210.3:8008/play/a06b/index.m3u8
-#EXTINF:-1,TELECINCO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Telecinco_2008.svg/512px-Telecinco_2008.svg.png",TELECINCO
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=195&f=.ts
-#EXTINF:-1,TELEHIT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Telefe_2018.svg/512px-Telefe_2018.svg.png",TELEFE
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=83&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Telehit_logo_2017.svg/512px-Telehit_logo_2017.svg.png",TELEHIT
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=197&f=.ts
-#EXTINF:-1,TELEHIT MUSICA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Telehit_M%C3%BAsica_logo_2020.svg/512px-Telehit_M%C3%BAsica_logo_2020.svg.png",TELEHIT MUSICA
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=198&f=.ts
-#EXTINF:-1,TELEMUNDO 51
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png",TELEMUNDO 51
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=85&f=.ts
-#EXTINF:-1,TELEMUNDO INTERNACIONAL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png",TELEMUNDO INTERNACIONAL
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=87&f=.ts
-#EXTINF:-1,TELEMUNDO INTERNACIONAL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png",TELEMUNDO INTERNACIONAL
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=126&f=.ts
-#EXTINF:-1,TELEMUNDO PUERTO RICO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png",TELEMUNDO PUERTO RICO
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=86&f=.ts
-#EXTINF:-1,TELEMUNDO PUERTO RICO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png",TELEMUNDO PUERTO RICO
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=135&f=.ts
-#EXTINF:-1,TLNOVELAS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Tlnovelas_logo_2019.svg/512px-Tlnovelas_logo_2019.svg.png",TLNOVELAS
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=179&f=.ts
-#EXTINF:-1,TNT NOVELAS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Logo_TN_2016.svg/512px-Logo_TN_2016.svg.png",TN ARGENTINA
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=104&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/TNT_logo_2016.svg/512px-TNT_logo_2016.svg.png",TNT
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=190&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/TNT_Novelas_Logo.svg/512px-TNT_Novelas_Logo.svg.png",TNT NOVELAS
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=122&f=.ts
-#EXTINF:-1,TNT SERIES
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TNT_Series_logo_2016.svg/512px-TNT_Series_logo_2016.svg.png",TNT SERIES
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=165&f=.ts
-#EXTINF:-1,TNT SPORTS CHILE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_Argentina.svg/512px-TNT_Sports_Argentina.svg.png",TNT SPORTS
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=11&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/TNT_Sports_Chile_logo_2022.svg/512px-TNT_Sports_Chile_logo_2022.svg.png",TNT SPORTS CHILE
 https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=77&f=.ts
-#EXTINF:-1,TOONCAST
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Tooncast_logo_2021.svg/512px-Tooncast_logo_2021.svg.png",TOONCAST
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=137&f=.ts
-#EXTINF:-1,TV PUBLICA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/TUDN_logo_2019.svg/512px-TUDN_logo_2019.svg.png",TUDN
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=16&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Televisi%C3%B3n_P%C3%BAblica_Argentina_logo_2016.svg/512px-Televisi%C3%B3n_P%C3%BAblica_Argentina_logo_2016.svg.png",TV PUBLICA
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=84&f=.ts
-#EXTINF:-1,TYC SPORTS INTERNACIONAL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/TyC_Sports_logo.svg/512px-TyC_Sports_logo.svg.png",TYC SPORTS ARGENTINA
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=206&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/TyC_Sports_logo.svg/512px-TyC_Sports_logo.svg.png",TYC SPORTS INTERNACIONAL
 https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=207&f=.ts
-#EXTINF:-1,UNICABLE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Unicable_logo_2018.svg/512px-Unicable_logo_2018.svg.png",UNICABLE
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=173&f=.ts
-#EXTINF:-1,UNIVERSAL CINEMA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Universal_Cinema_Logo.png/512px-Universal_Cinema_Logo.png",UNIVERSAL CINEMA
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=121&f=.ts
-#EXTINF:-1,UNIVERSAL PREMIERE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Universal_Premiere_Logo.png/512px-Universal_Premiere_Logo.png",UNIVERSAL PREMIERE
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=123&f=.ts
-#EXTINF:-1,UNIVERSAL TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Universal_TV_logo_2018.svg/512px-Universal_TV_logo_2018.svg.png",UNIVERSAL TV
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=162&f=.ts
-#EXTINF:-1,UNIVISION
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Univision_logo_2019.svg/512px-Univision_logo_2019.svg.png",UNIVISION
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=88&f=.ts
-#EXTINF:-1,UNIVISION
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Univision_logo_2019.svg/512px-Univision_logo_2019.svg.png",UNIVISION
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=174&f=.ts
-#EXTINF:-1,WILLAX TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Warner_TV_logo_2015.png/512px-Warner_TV_logo_2015.png",WARNER
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=127&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Willax_Televisi%C3%B3n_logo_2020.png/512px-Willax_Televisi%C3%B3n_logo_2020.png",WILLAX TV
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=134&f=.ts
-#EXTINF:-1,WIN SPORTS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Win_Sports_logo_2020.svg/512px-Win_Sports_logo_2020.svg.png",WIN SPORTS
 https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=73&f=.ts
-#EXTINF:-1,WIN SPORTS PLUS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Win_Sports%2B_logo_2020.svg/512px-Win_Sports%2B_logo_2020.svg.png",WIN SPORTS PLUS
 https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=83&f=.ts
