@@ -160,8 +160,6 @@ http://189.50.210.3:8008/play/a07s/index.m3u8
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=150&f=.ts
 #EXTINF:-1 tvg-id="imagenmx_1" tvg-logo="https://img.teleclub.xyz/imagentv.png" group-title="Mundo", IMAGEN TV
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=172&f=.ts
-#EXTINF:-1 tvg-id="lanacion" tvg-logo="https://img.teleclub.xyz/lanacion.png" group-title="Noticias", LA NACION ARGENTINA
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=107&f=.ts
 #EXTINF:-1 tvg-id="lakalle" tvg-logo="https://img.teleclub.xyz/lakalle.png" group-title="Música", La Kalle
 http://181.78.7.90:12500/play/a06g/index.m3u8
 #EXTINF:-1 tvg-id="lasestrellas_1" tvg-logo="https://img.teleclub.xyz/lasestrellas.png" group-title="Mundo", LAS ESTRELLAS
@@ -248,8 +246,6 @@ https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=86&f=.ts
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=135&f=.ts
 #EXTINF:-1 tvg-id="tlnovelas_1" tvg-logo="https://img.teleclub.xyz/tlnovelas.png" group-title="Mundo", TLNOVELAS
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=179&f=.ts
-#EXTINF:-1 tvg-id="tn_argentina" tvg-logo="https://img.teleclub.xyz/tn.png" group-title="Noticias", TN ARGENTINA
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=104&f=.ts
 #EXTINF:-1 tvg-id="tnt_1" tvg-logo="https://img.teleclub.xyz/tnt.png" group-title="Entretenimiento", TNT
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=190&f=.ts
 #EXTINF:-1 tvg-id="tntnovelas_1" tvg-logo="https://img.teleclub.xyz/tntnovelas.png" group-title="Entretenimiento", TNT NOVELAS
