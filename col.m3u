@@ -1,478 +1,289 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rNn09bM.png",A24 ARGENTINA
-# A24 ARGENTINA: Canal de noticias de Argentina.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=109&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9nFfA2Z.png",AMERICA TV
-# AMERICA TV: Canal de programación general y noticias.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=192&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9nFfA2Z.png",AMERICA TV ARGENTINA
-# AMERICA TV ARGENTINA: Versión argentina del canal de programación general.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=106&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g8V0o2E.png",AMC
-# AMC: Canal de series y películas populares.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=159&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M6L7e0I.png",ANIMAL PLANET
-# ANIMAL PLANET: Canal dedicado a la vida salvaje y naturaleza.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=154&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7w34K0j.png",ANTENA 3
-# ANTENA 3: Canal de televisión generalista de España.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=129&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rLz9g0X.png",ATV
-# ATV: Canal de televisión abierta de Perú.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=175&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qj0Y6nE.png",AXN
-# AXN: Canal de series y películas de acción y crimen.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=163&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/495NlFv.png",AZTECA 7
-# AZTECA 7: Canal de TV abierta mexicano con entretenimiento.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=80&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/495NlFv.png",AZTECA DEPORTES
-# AZTECA DEPORTES: Canal dedicado a la cobertura deportiva mexicana.
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=76&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/495NlFv.png",AZTECA INTERNACIONAL
-# AZTECA INTERNACIONAL: Versión internacional de la programación de TV Azteca.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=181&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/495NlFv.png",AZTECA UNO
-# AZTECA UNO: Canal principal de TV abierta mexicano.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=182&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/o5X4u0n.png",BabyFirst
-# BabyFirst: Canal de programación para bebés.
-http://200.113.4.75:7210/play/a02j/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bK4Y0mG.png",BEIN SPORTS XTRA
-# BEIN SPORTS XTRA: Canal deportivo con ligas internacionales.
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=71&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H2h8o4t.png",C5N
-# C5N: Canal de noticias 24 horas de Argentina.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=105&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XqU7R2H.png",CANAL 5
-# CANAL 5: Canal de televisión abierta de México (Televisa).
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=81&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qL3Zt8W.png",CANAL N
-# CANAL N: Canal de noticias de Perú.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=103&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9nFfA2Z.png",CANAL SONY
-# CANAL SONY: Canal con series y películas de Sony.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=164&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/s6E7s8K.png",CANAL INFANTIL
-# CANAL INFANTIL: Programación para niños.
-http://181.78.7.90:12500/play/CANALINFANTIL/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S8W4E2e.png",Caracol
-# Caracol: Canal de televisión abierta de Colombia.
-http://189.50.210.3:8008/play/a04j/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F3bLg3S.png",CARTOON NETWORK
-# CARTOON NETWORK: Canal de animación infantil.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=139&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tC7Fq8h.png",CARTOONITO
-# CARTOONITO: Canal para preescolares de Cartoon Network.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=138&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A6j5dY8.png",Cine Familiar
-# Cine Familiar: Canal dedicado a películas para toda la familia.
-http://181.78.7.90:12500/play/CINEFAMILIAR/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A6j5dY8.png",Cine Hispano
-# Cine Hispano: Canal de películas en español.
-http://181.78.7.90:12500/play/a0cm/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A6j5dY8.png",Cine Premium
-# Cine Premium: Canal de películas de alta calidad.
-http://181.78.7.90:12500/play/a0cn/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7g5L4rW.png",CINECANAL
-# CINECANAL: Canal de películas.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=187&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WJ9mR9r.png",CINEMAX
-# CINEMAX: Canal de películas de éxito y acción.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=188&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N7b0P1z.png",COMEDY CENTRAL
-# COMEDY CENTRAL: Canal dedicado a la comedia.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=156&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h5TjG3K.png",DAZN F1
-# DAZN F1: Canal dedicado a las carreras de Fórmula 1.
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=69&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h5TjG3K.png",DAZN LA LIGA
-# DAZN LA LIGA: Canal con partidos de fútbol de La Liga española.
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=82&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kS7fL0J.png",DHE
-# DHE: Canal de películas y entretenimiento.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=118&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4g2G0yD.png",DIRECTV SPORTS
-# DIRECTV SPORTS: Canal deportivo con cobertura de eventos y ligas.
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=32&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4g2G0yD.png",DIRECTV SPORTS 2
-# DIRECTV SPORTS 2: Segundo canal deportivo de DIRECTV.
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=33&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4g2G0yD.png",DIRECTV SPORTS PLUS
-# DIRECTV SPORTS PLUS: Canal deportivo adicional de DIRECTV.
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=34&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w1p0XzL.png",DISCOVERY A&E
-# DISCOVERY A&E: Canal con documentales y programas de investigación.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=149&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B9P6w3o.png",DISCOVERY CHANNEL
-# DISCOVERY CHANNEL: Canal de ciencia, tecnología e historia.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=153&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B9P6w3o.png",DISCOVERY HYH
-# DISCOVERY HYH: Canal con contenido sobre hogar y jardín (Home & Health).
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=151&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1E4lM1t.png",DISCOVERY KIDS
-# DISCOVERY KIDS: Canal educativo y de entretenimiento infantil.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=136&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B9P6w3o.png",DISCOVERY TLC
-# DISCOVERY TLC: Canal de estilo de vida y realidad (The Learning Channel).
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=148&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B9P6w3o.png",DISCOVERY THEATER
-# DISCOVERY THEATER: Canal con documentales de diversas temáticas.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=147&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B9P6w3o.png",DISCOVERY TURBO
-# DISCOVERY TURBO: Canal dedicado a la temática automotriz y motor.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=152&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B9P6w3o.png",DISCOVERY WORLD
-# DISCOVERY WORLD: Canal de documentales sobre cultura y viajes.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=146&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u5jQW0e.png",DISNEY CHANNEL
-# DISNEY CHANNEL: Canal de series y películas juveniles de Disney.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=125&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n4X5p1d.png",DISNEY JR
-# DISNEY JR: Canal para niños en edad preescolar.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=142&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/f9W8g3o.png",DISTRITO COMEDIA
-# DISTRITO COMEDIA: Canal de comedia mexicana.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=186&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vH1Z2jQ.png",DPELICULA
-# DPELICULA: Canal de cine.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=124&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/s8K4e7W.png",DW ESPAÑOL
-# DW ESPAÑOL: Canal de noticias y programas de Alemania en español.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=132&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tY7g8Z9.png",ECUADOR TV
-# ECUADOR TV: Canal de televisión pública de Ecuador.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=101&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/T0xM7nN.png",EL GOURMET
-# EL GOURMET: Canal dedicado a la cocina, viajes y estilo de vida.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=143&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e7qQ5R9.png",EL NUEVE
-# EL NUEVE: Canal de televisión abierta de Argentina.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=108&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/z1P6tWk.png",EL TRECE
-# EL TRECE: Canal de televisión abierta de Argentina.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=82&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jM8V9xK.png",ESPN
-# ESPN: Canal principal de deportes.
+
+# --- DEPORTES ---
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/200px-ESPN_wordmark.svg.png",ESPN
 https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=26&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jM8V9xK.png",ESPN 2
-# ESPN 2: Canal secundario de deportes.
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/200px-ESPN_wordmark.svg.png",ESPN 2
 https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=28&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jM8V9xK.png",ESPN 2 MEXICO
-# ESPN 2 MEXICO: Versión mexicana del canal deportivo.
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=46&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jM8V9xK.png",ESPN 3
-# ESPN 3: Tercer canal de deportes de la cadena.
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/200px-ESPN_wordmark.svg.png",ESPN 3
 https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=29&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jM8V9xK.png",ESPN 3 MEXICO
-# ESPN 3 MEXICO: Versión mexicana del tercer canal.
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=48&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jM8V9xK.png",ESPN 4
-# ESPN 4: Cuarto canal de deportes de la cadena.
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/200px-ESPN_wordmark.svg.png",ESPN 4
 https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=84&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jM8V9xK.png",ESPN 4 MEXICO
-# ESPN 4 MEXICO: Versión mexicana del cuarto canal.
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=74&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jM8V9xK.png",ESPN 5
-# ESPN 5: Quinto canal de deportes.
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=66&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jM8V9xK.png",ESPN 5 MEXICO
-# ESPN 5 MEXICO: Versión mexicana del quinto canal.
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=75&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jM8V9xK.png",ESPN 6
-# ESPN 6: Sexto canal de deportes.
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=67&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jM8V9xK.png",ESPN 7
-# ESPN 7: Séptimo canal de deportes.
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=68&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jM8V9xK.png",ESPN ARGENTINA
-# ESPN ARGENTINA: Versión regional con foco en deportes argentinos.
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=85&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jM8V9xK.png",ESPN MEXICO
-# ESPN MEXICO: Versión regional con foco en deportes mexicanos.
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=41&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jM8V9xK.png",ESPN PREMIUM
-# ESPN PREMIUM: Canal premium de deportes.
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/200px-ESPN_wordmark.svg.png",ESPN EXTRA/PREMIUM
 https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=12&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jM8V9xK.png",ESPN PREMIUM ARGENTINA
-# ESPN PREMIUM ARGENTINA: Canal premium para fútbol argentino.
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=86&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kS7fL0J.png",EUROPA EUROPA
-# EUROPA EUROPA: Canal dedicado al cine de arte y series europeas.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=116&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vH1Z2jQ.png",EVERYTHING
-# EVERYTHING: Canal de programación variada.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=145&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2s4Z6wU.png",EXTREMA TV
-# EXTREMA TV: Canal de entretenimiento.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=128&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A6j5dY8.png",FM HOT KIDS
-# FM HOT KIDS: Canal de programación infantil.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=119&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A6j5dY8.png",FM HOT MOVIES
-# FM HOT MOVIES: Canal de películas.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=120&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0F9kR4S.png",FOX SPORTS
-# FOX SPORTS: Canal principal de deportes.
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Fox_Sports_Espanol.png/200px-Fox_Sports_Espanol.png",FOX SPORTS
 https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=19&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0F9kR4S.png",FOX SPORTS 2
-# FOX SPORTS 2: Segundo canal de deportes.
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Fox_Sports_Espanol.png/200px-Fox_Sports_Espanol.png",FOX SPORTS 2
 https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=20&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0F9kR4S.png",FOX SPORTS 2 MEXICO
-# FOX SPORTS 2 MEXICO: Versión mexicana del segundo canal.
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=36&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0F9kR4S.png",FOX SPORTS 3
-# FOX SPORTS 3: Tercer canal de deportes.
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Fox_Sports_Espanol.png/200px-Fox_Sports_Espanol.png",FOX SPORTS 3
 https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=22&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0F9kR4S.png",FOX SPORTS 3 MEXICO
-# FOX SPORTS 3 MEXICO: Versión mexicana del tercer canal.
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=37&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0F9kR4S.png",FOX SPORTS MEXICO
-# FOX SPORTS MEXICO: Versión regional con foco en deportes mexicanos.
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=35&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0F9kR4S.png",FOX SPORTS PREMIUM
-# FOX SPORTS PREMIUM: Canal premium de deportes.
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=65&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vH1Z2jQ.png",FX
-# FX: Canal de series, películas y entretenimiento.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=171&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A8j2X5t.png",GALAVISION
-# GALAVISION: Canal de entretenimiento de Televisa.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=180&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2s4Z6wU.png",GEX TV
-# GEX TV: Canal de televisión general.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=200&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2s4Z6wU.png",GLOBAL TV
-# GLOBAL TV: Canal de televisión general.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=133&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N7b0P1z.png",GOLDEN
-# GOLDEN: Canal de películas de varios géneros.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=131&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N7b0P1z.png",GOLDEN
-# GOLDEN: Canal de películas de varios géneros (Repetido).
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=170&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N7b0P1z.png",GOLDEN EDGE
-# GOLDEN EDGE: Canal de películas de acción y suspenso.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=168&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N7b0P1z.png",GOLDEN PLUS
-# GOLDEN PLUS: Canal de películas adicional.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=169&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N7b0P1z.png",GOLDEN PREMIER
-# GOLDEN PREMIER: Canal de estrenos de cine.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=166&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V7w8s0z.png",GOL PERU
-# GOL PERU: Canal de fútbol peruano.
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=7&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x0R4c2V.png",HISTORY
-# HISTORY: Canal dedicado a la historia y documentales.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=184&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x0R4c2V.png",HISTORY 2
-# HISTORY 2: Segundo canal con más documentales históricos.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=183&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8Q4pL9D.png",ID INVESTIGATION
-# ID INVESTIGATION: Canal de crímenes e investigación.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=150&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7w34K0j.png",IMAGEN TV
-# IMAGEN TV: Canal de televisión abierta de México.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=172&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jM8V9xK.png",LA NACION ARGENTINA
-# LA NACION ARGENTINA: Canal de noticias del diario La Nación.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=107&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S8W4E2e.png",La Kalle
-# La Kalle: Canal de música y entretenimiento colombiano.
-http://181.78.7.90:12500/play/a06g/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A8j2X5t.png",LAS ESTRELLAS
-# LAS ESTRELLAS: Canal principal de Televisa, con telenovelas y shows.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=178&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rLz9g0X.png",LATINA
-# LATINA: Canal de televisión abierta de Perú.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=193&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vH1Z2jQ.png",LIFETIME
-# LIFETIME: Canal de películas y series enfocadas en mujeres.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=144&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V7w8s0z.png",LIGA 1
-# LIGA 1: Canal dedicado a la liga de fútbol peruano.
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=49&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V7w8s0z.png",LIGA 1 MAX
-# LIGA 1 MAX: Canal premium de fútbol peruano.
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=50&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/s8K4e7W.png",LOVE NATURE
-# LOVE NATURE: Canal de documentales sobre naturaleza.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=114&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h5TjG3K.png",MOVISTAR LA LIGA
-# MOVISTAR LA LIGA: Canal con partidos de fútbol de La Liga española.
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=72&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h5TjG3K.png",MOVISTAR LIGA DE CAMPEONES
-# MOVISTAR LIGA DE CAMPEONES: Canal con partidos de la UEFA Champions League.
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=70&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N7b0P1z.png",MULTIPREMIER
-# MULTIPREMIER: Canal de películas y entretenimiento.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=160&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9vY0Z8s.png",MTV
-# MTV: Canal de música, reality shows y entretenimiento juvenil.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=157&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9vY0Z8s.png",MTV 00S
-# MTV 00S: Canal de música centrado en la década de 2000.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=113&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/l5K8m0T.png",NAT GEO
-# NAT GEO: Canal de documentales sobre ciencia, geografía y exploración.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=155&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9vY0Z8s.png",NICK
-# NICK: Canal de programación infantil y juvenil (Nickelodeon).
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=141&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9vY0Z8s.png",NICK JR
-# NICK JR: Canal para niños en edad preescolar.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=140&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2s4Z6wU.png",PANICO
-# PANICO: Canal dedicado a películas de terror y suspenso.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=130&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9vY0Z8s.png",PARAMOUNT CHANNEL
-# PARAMOUNT CHANNEL: Canal de películas y series de Paramount.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=158&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w1p0XzL.png",PASIONES
-# PASIONES: Canal dedicado a la emisión de telenovelas y dramas.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=89&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S8W4E2e.png",RCN
-# RCN: Canal de televisión abierta de Colombia.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=117&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tY7g8Z9.png",RTS ECUADOR
-# RTS ECUADOR: Canal de televisión abierta de Ecuador.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=96&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e3R1Q5T.png",SALVADOR: TCS PLUS
-# SALVADOR: TCS PLUS: Canal de El Salvador.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=95&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S8W4E2e.png",Señal Colombia
-# Señal Colombia: Canal de televisión pública y cultural de Colombia.
-http://189.50.210.3:8008/play/a069/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7w34K0j.png",SKY SPORTS BUNDESLIGA
-# SKY SPORTS BUNDESLIGA: Canal de deportes con la liga de fútbol alemana.
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=79&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7w34K0j.png",SKY SPORTS LA LIGA
-# SKY SPORTS LA LIGA: Canal de deportes con la liga de fútbol española.
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=78&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9nFfA2Z.png",SONY CINE
-# SONY CINE: Canal de cine.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=99&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9nFfA2Z.png",SONY MOVIES
-# SONY MOVIES: Canal de películas.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=100&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qj0Y6nE.png",SPACE
-# SPACE: Canal de películas y series de acción, thriller y terror.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=191&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vH1Z2jQ.png",STAR CHANNEL
-# STAR CHANNEL: Canal de series y películas (antes Fox Channel).
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=189&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rNn09bM.png",STUDIO UNIVERSAL
-# STUDIO UNIVERSAL: Canal de cine de Hollywood.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=161&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2s4Z6wU.png",SUN CHANNEL
-# SUN CHANNEL: Canal de estilo de vida, viajes y turismo.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=102&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rNn09bM.png",SYFY | USA
-# SYFY | USA: Canal dedicado a la ciencia ficción y fantasía.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=177&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F3bLg3S.png",TCM
-# TCM: Canal de cine clásico.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=199&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9vY0Z8s.png",TEEN NICK
-# TEEN NICK: Canal con contenido para adolescentes.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=196&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tY7g8Z9.png",TELE AMAZONAS
-# TELE AMAZONAS: Canal de televisión abierta de Ecuador.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=115&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e7qQ5R9.png",TELEFE
-# TELEFE: Canal de televisión abierta de Argentina.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=83&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S8W4E2e.png",Telecaribe
-# Telecaribe: Canal regional de Colombia.
-http://189.50.210.3:8008/play/a06b/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7w34K0j.png",TELECINCO
-# TELECINCO: Canal de televisión generalista de España.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=195&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A8j2X5t.png",TELEHIT
-# TELEHIT: Canal de videos musicales y entretenimiento.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=197&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A8j2X5t.png",TELEHIT MUSICA
-# TELEHIT MUSICA: Canal dedicado exclusivamente a videos musicales.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=198&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WJ9mR9r.png",TELEMUNDO 51
-# TELEMUNDO 51: Versión regional de Telemundo.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=85&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WJ9mR9r.png",TELEMUNDO INTERNACIONAL
-# TELEMUNDO INTERNACIONAL: Canal con telenovelas, noticias y shows.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=87&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WJ9mR9r.png",TELEMUNDO INTERNACIONAL
-# TELEMUNDO INTERNACIONAL: Canal internacional (Repetido).
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=126&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WJ9mR9r.png",TELEMUNDO PUERTO RICO
-# TELEMUNDO PUERTO RICO: Versión regional de Puerto Rico.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=86&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WJ9mR9r.png",TELEMUNDO PUERTO RICO
-# TELEMUNDO PUERTO RICO: Versión regional de Puerto Rico (Repetido).
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=135&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A8j2X5t.png",TLNOVELAS
-# TLNOVELAS: Canal dedicado a la emisión de telenovelas clásicas y modernas.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=179&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H2h8o4t.png",TN ARGENTINA
-# TN ARGENTINA: Canal de noticias 24 horas (Todo Noticias).
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=104&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qj0Y6nE.png",TNT
-# TNT: Canal de películas, series y eventos en vivo.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=190&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qj0Y6nE.png",TNT NOVELAS
-# TNT NOVELAS: Canal de telenovelas y dramas.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=122&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qj0Y6nE.png",TNT SERIES
-# TNT SERIES: Canal dedicado a la emisión de series de televisión.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=165&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qj0Y6nE.png",TNT SPORTS
-# TNT SPORTS: Canal premium de deportes.
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=11&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qj0Y6nE.png",TNT SPORTS CHILE
-# TNT SPORTS CHILE: Canal premium de deportes con foco en Chile.
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=77&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F3bLg3S.png",TOONCAST
-# TOONCAST: Canal de animación clásica y contemporánea.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=137&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XqU7R2H.png",TUDN
-# TUDN: Canal de deportes de TelevisaUnivision.
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=16&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jM8V9xK.png",TV PUBLICA
-# TV PUBLICA: Canal de televisión pública de Argentina.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=84&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e7qQ5R9.png",TYC SPORTS ARGENTINA
-# TYC SPORTS ARGENTINA: Canal deportivo con foco en Argentina.
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/TyC_Sports_logo.svg/200px-TyC_Sports_logo.svg.png",TYC SPORTS ARGENTINA
 https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=206&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e7qQ5R9.png",TYC SPORTS INTERNACIONAL
-# TYC SPORTS INTERNACIONAL: Canal deportivo con cobertura internacional.
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=207&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A8j2X5t.png",UNICABLE
-# UNICABLE: Canal de entretenimiento y series.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=173&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rNn09bM.png",UNIVERSAL CINEMA
-# UNIVERSAL CINEMA: Canal de cine de Universal.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=121&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rNn09bM.png",UNIVERSAL PREMIERE
-# UNIVERSAL PREMIERE: Canal de estrenos de Universal.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=123&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rNn09bM.png",UNIVERSAL TV
-# UNIVERSAL TV: Canal de series y películas.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=162&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A8j2X5t.png",UNIVISION
-# UNIVISION: Canal de televisión abierta en EE. UU. enfocado en la audiencia hispana.
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=88&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A8j2X5t.png",UNIVISION
-# UNIVISION: Canal de televisión (Repetido).
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=174&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qj0Y6nE.png",WARNER 
-# WARNER: Canal de series y películas de Warner Bros.
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Directv_sports_logo.png/200px-Directv_sports_logo.png",DIRECTV SPORTS
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=32&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/TUDN_logo_2019.svg/200px-TUDN_logo_2019.svg.png",TUDN
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=16&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_Argentina.svg/200px-TNT_Sports_Argentina.svg.png",TNT SPORTS
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=11&f=.ts
+
+# --- ARGENTINA (NOTICIAS Y AIRE) ---
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Am%C3%A9rica_TV_logo_2016.png/200px-Am%C3%A9rica_TV_logo_2016.png",AMERICA TV
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=192&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/A24_logo.svg/200px-A24_logo.svg.png",A24 ARGENTINA
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=109&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/C5N_Logo_2015.png/200px-C5N_Logo_2015.png",C5N
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=105&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Logo_TN_2016.svg/200px-Logo_TN_2016.svg.png",TN ARGENTINA
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=104&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/El_trece_logo_2016.svg/200px-El_trece_logo_2016.svg.png",EL TRECE
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=82&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Telefe_2018.svg/200px-Telefe_2018.svg.png",TELEFE
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=83&f=.ts
+
+# --- CINE Y SERIES ---
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/TNT_logo_2016.svg/200px-TNT_logo_2016.svg.png",TNT
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=190&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HBO_logo.svg/200px-HBO_logo.svg.png",CINEMAX
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=188&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Cinecanal_logo_2019.png/200px-Cinecanal_logo_2019.png",CINECANAL
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=187&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Star_Channel_Logo.png/200px-Star_Channel_Logo.png",STAR CHANNEL
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=189&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/AMC_Networks_logo.svg/200px-AMC_Networks_logo.svg.png",AMC
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=159&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Warner_TV_logo_2015.png/200px-Warner_TV_logo_2015.png",WARNER
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=127&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rLz9g0X.png",WILLAX TV
-# WILLAX TV: Canal de televisión abierta de Perú.
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/AXN_logo_2016.svg/200px-AXN_logo_2016.svg.png",AXN
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=163&f=.ts
+
+# --- MÉXICO Y OTROS (Sin logo para evitar error, o genéricos) ---
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Canal_5_Televisa_Logo_2016.svg/200px-Canal_5_Televisa_Logo_2016.svg.png",CANAL 5
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=81&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Azteca_7_logo.png/200px-Azteca_7_logo.png",AZTECA 7
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=80&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Las_Estrellas_2016.svg/200px-Las_Estrellas_2016.svg.png",LAS ESTRELLAS
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=178&f=.ts
+#EXTINF:-1,AZTECA INTERNACIONAL
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=181&f=.ts
+#EXTINF:-1,AZTECA UNO
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=182&f=.ts
+#EXTINF:-1,BabyFirst
+http://200.113.4.75:7210/play/a02j/index.m3u8
+#EXTINF:-1,BEIN SPORTS XTRA
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=71&f=.ts
+#EXTINF:-1,CANAL N
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=103&f=.ts
+#EXTINF:-1,CANAL SONY
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=164&f=.ts
+#EXTINF:-1,CANAL INFANTIL
+http://181.78.7.90:12500/play/CANALINFANTIL/index.m3u8
+#EXTINF:-1,Caracol
+http://189.50.210.3:8008/play/a04j/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png",CARTOON NETWORK
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=139&f=.ts
+#EXTINF:-1,CARTOONITO
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=138&f=.ts
+#EXTINF:-1,Cine Familiar
+http://181.78.7.90:12500/play/CINEFAMILIAR/index.m3u8
+#EXTINF:-1,Cine Hispano
+http://181.78.7.90:12500/play/a0cm/index.m3u8
+#EXTINF:-1,Cine Premium
+http://181.78.7.90:12500/play/a0cn/index.m3u8
+#EXTINF:-1,COMEDY CENTRAL
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=156&f=.ts
+#EXTINF:-1,DAZN F1
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=69&f=.ts
+#EXTINF:-1,DAZN LA LIGA
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=82&f=.ts
+#EXTINF:-1,DHE
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=118&f=.ts
+#EXTINF:-1,DIRECTV SPORTS 2
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=33&f=.ts
+#EXTINF:-1,DIRECTV SPORTS PLUS
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=34&f=.ts
+#EXTINF:-1,DISCOVERY A&E
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=149&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Discovery_Channel_2019.svg/200px-Discovery_Channel_2019.svg.png",DISCOVERY CHANNEL
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=153&f=.ts
+#EXTINF:-1,DISCOVERY HYH
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=151&f=.ts
+#EXTINF:-1,DISCOVERY KIDS
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=136&f=.ts
+#EXTINF:-1,DISCOVERY TLC
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=148&f=.ts
+#EXTINF:-1,DISCOVERY THEATER
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=147&f=.ts
+#EXTINF:-1,DISCOVERY TURBO
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=152&f=.ts
+#EXTINF:-1,DISCOVERY WORLD
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=146&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Disney_Channel_logo_2019.svg/200px-Disney_Channel_logo_2019.svg.png",DISNEY CHANNEL
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=125&f=.ts
+#EXTINF:-1,DISNEY JR
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=142&f=.ts
+#EXTINF:-1,DISTRITO COMEDIA
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=186&f=.ts
+#EXTINF:-1,DPELICULA
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=124&f=.ts
+#EXTINF:-1,DW ESPAÑOL
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=132&f=.ts
+#EXTINF:-1,ECUADOR TV
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=101&f=.ts
+#EXTINF:-1,EL GOURMET
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=143&f=.ts
+#EXTINF:-1,EL NUEVE
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=108&f=.ts
+#EXTINF:-1,EUROPA EUROPA
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=116&f=.ts
+#EXTINF:-1,EVERYTHING
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=145&f=.ts
+#EXTINF:-1,EXTREMA TV
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=128&f=.ts
+#EXTINF:-1,FM HOT KIDS
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=119&f=.ts
+#EXTINF:-1,FM HOT MOVIES
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=120&f=.ts
+#EXTINF:-1,FX
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=171&f=.ts
+#EXTINF:-1,GALAVISION
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=180&f=.ts
+#EXTINF:-1,GEX TV
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=200&f=.ts
+#EXTINF:-1,GLOBAL TV
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=133&f=.ts
+#EXTINF:-1,GOLDEN
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=131&f=.ts
+#EXTINF:-1,GOLDEN
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=170&f=.ts
+#EXTINF:-1,GOLDEN EDGE
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=168&f=.ts
+#EXTINF:-1,GOLDEN PLUS
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=169&f=.ts
+#EXTINF:-1,GOLDEN PREMIER
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=166&f=.ts
+#EXTINF:-1,GOL PERU
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=7&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/200px-History_Logo.svg.png",HISTORY
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=184&f=.ts
+#EXTINF:-1,HISTORY 2
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=183&f=.ts
+#EXTINF:-1,ID INVESTIGATION
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=150&f=.ts
+#EXTINF:-1,IMAGEN TV
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=172&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/La_Naci%C3%B3n_%2B.png/200px-La_Naci%C3%B3n_%2B.png",LA NACION ARGENTINA
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=107&f=.ts
+#EXTINF:-1,La Kalle
+http://181.78.7.90:12500/play/a06g/index.m3u8
+#EXTINF:-1,LATINA
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=193&f=.ts
+#EXTINF:-1,LIFETIME
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=144&f=.ts
+#EXTINF:-1,LIGA 1
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=49&f=.ts
+#EXTINF:-1,LIGA 1 MAX
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=50&f=.ts
+#EXTINF:-1,LOVE NATURE
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=114&f=.ts
+#EXTINF:-1,MOVISTAR LA LIGA
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=72&f=.ts
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=70&f=.ts
+#EXTINF:-1,MULTIPREMIER
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=160&f=.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_logo.svg/200px-MTV_logo.svg.png",MTV
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=157&f=.ts
+#EXTINF:-1,MTV 00S
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=113&f=.ts
+#EXTINF:-1,NAT GEO
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=155&f=.ts
+#EXTINF:-1,NICK
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=141&f=.ts
+#EXTINF:-1,NICK JR
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=140&f=.ts
+#EXTINF:-1,PANICO
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=130&f=.ts
+#EXTINF:-1,PARAMOUNT CHANNEL
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=158&f=.ts
+#EXTINF:-1,PASIONES
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=89&f=.ts
+#EXTINF:-1,RCN
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=117&f=.ts
+#EXTINF:-1,RTS ECUADOR
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=96&f=.ts
+#EXTINF:-1,SALVADOR: TCS PLUS
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=95&f=.ts
+#EXTINF:-1,Señal Colombia
+http://189.50.210.3:8008/play/a069/index.m3u8
+#EXTINF:-1,SKY SPORTS BUNDESLIGA
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=79&f=.ts
+#EXTINF:-1,SKY SPORTS LA LIGA
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=78&f=.ts
+#EXTINF:-1,SONY CINE
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=99&f=.ts
+#EXTINF:-1,SONY MOVIES
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=100&f=.ts
+#EXTINF:-1,SPACE
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=191&f=.ts
+#EXTINF:-1,STUDIO UNIVERSAL
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=161&f=.ts
+#EXTINF:-1,SUN CHANNEL
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=102&f=.ts
+#EXTINF:-1,SYFY | USA
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=177&f=.ts
+#EXTINF:-1,TCM
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=199&f=.ts
+#EXTINF:-1,TEEN NICK
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=196&f=.ts
+#EXTINF:-1,TELE AMAZONAS
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=115&f=.ts
+#EXTINF:-1,Telecaribe
+http://189.50.210.3:8008/play/a06b/index.m3u8
+#EXTINF:-1,TELECINCO
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=195&f=.ts
+#EXTINF:-1,TELEHIT
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=197&f=.ts
+#EXTINF:-1,TELEHIT MUSICA
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=198&f=.ts
+#EXTINF:-1,TELEMUNDO 51
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=85&f=.ts
+#EXTINF:-1,TELEMUNDO INTERNACIONAL
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=87&f=.ts
+#EXTINF:-1,TELEMUNDO INTERNACIONAL
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=126&f=.ts
+#EXTINF:-1,TELEMUNDO PUERTO RICO
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=86&f=.ts
+#EXTINF:-1,TELEMUNDO PUERTO RICO
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=135&f=.ts
+#EXTINF:-1,TLNOVELAS
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=179&f=.ts
+#EXTINF:-1,TNT NOVELAS
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=122&f=.ts
+#EXTINF:-1,TNT SERIES
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=165&f=.ts
+#EXTINF:-1,TNT SPORTS CHILE
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=77&f=.ts
+#EXTINF:-1,TOONCAST
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=137&f=.ts
+#EXTINF:-1,TV PUBLICA
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=84&f=.ts
+#EXTINF:-1,TYC SPORTS INTERNACIONAL
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=207&f=.ts
+#EXTINF:-1,UNICABLE
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=173&f=.ts
+#EXTINF:-1,UNIVERSAL CINEMA
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=121&f=.ts
+#EXTINF:-1,UNIVERSAL PREMIERE
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=123&f=.ts
+#EXTINF:-1,UNIVERSAL TV
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=162&f=.ts
+#EXTINF:-1,UNIVISION
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=88&f=.ts
+#EXTINF:-1,UNIVISION
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=174&f=.ts
+#EXTINF:-1,WILLAX TV
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=134&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S8W4E2e.png",WIN SPORTS
-# WIN SPORTS: Canal de deportes colombiano.
+#EXTINF:-1,WIN SPORTS
 https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=73&f=.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S8W4E2e.png",WIN SPORTS PLUS
-# WIN SPORTS PLUS: Canal premium de deportes colombiano.
+#EXTINF:-1,WIN SPORTS PLUS
 https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=83&f=.ts
