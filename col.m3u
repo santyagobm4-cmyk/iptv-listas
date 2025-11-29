@@ -152,7 +152,7 @@ https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=7&f=.ts
 #EXTINF:-1 tvg-id="history_1" tvg-logo="https://img.teleclub.xyz/history.png" group-title="Cultura", HISTORY
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=184&f=.ts
 #EXTINF:-1 tvg-id="h2_1" tvg-logo="https://img.teleclub.xyz/h2.png" group-title="Cultura", HISTORY 2
-#EXTINF:-1 group-title="Entretenimiento",HBO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/hbofamily-la.png" group-title="Entretenimiento",HBO
 http://189.50.210.3:8008/play/a077/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento",HBO Family 
 http://189.50.210.3:8008/play/a07r/index.m3u8
