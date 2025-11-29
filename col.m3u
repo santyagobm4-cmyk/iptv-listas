@@ -226,7 +226,7 @@ http://189.50.210.3:8008/play/a069/index.m3u8
 https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=79&f=.ts
 #EXTINF:-1 tvg-id="sky_sports_la_liga" tvg-logo="https://img.teleclub.xyz/skysportslaliga.png" group-title="Deportes", SKY SPORTS LA LIGA
 https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=78&f=.ts
-#EXTINF:-1 tvg-id="sony_cine" tvg-logo="https://img.teleclub.xyz/sonycine.png" group-title="Entretenimiento", SONY CINE
+#EXTINF:-1 tvg-id="sony_cine" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cine-sony-us.png" group-title="Entretenimiento",SONY CINE
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=99&f=.ts
 #EXTINF:-1 tvg-id="sony_movies" tvg-logo="https://img.teleclub.xyz/sonymovies.png" group-title="Entretenimiento", SONY MOVIES
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=100&f=.ts
