@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="a24_arg" tvg-logo="https://img.teleclub.xyz/a24.png" group-title="Noticias", A24 ARGENTINA
+#EXTINF:-1 tvg-id="a24_arg" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/america-ar.png" group-title="Noticias", A24 ARGENTINA
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=109&f=.ts
 #EXTINF:-1 tvg-id="america_tv" tvg-logo="https://img.teleclub.xyz/america.png" group-title="Mundo", AMERICA TV
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=192&f=.ts
