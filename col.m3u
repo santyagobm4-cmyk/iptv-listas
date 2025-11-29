@@ -39,7 +39,7 @@ https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=164&f=.ts
 http://181.78.7.90:12500/play/CANALINFANTIL/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_IPTV_Latino/master/logos/caracol.png",Caracol
 http://189.50.210.3:8008/play/a04j/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_IPTV_Latino/master/logos/cartoonnetwork.png",CARTOON NETWORK
+#EXTINF:-1 tvg-id="cartoonnetwork_1" tvg-logo="https://img.teleclub.xyz/cartoonnetwork.png" group-title="Infantil", Cartoon Network
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=139&f=.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_IPTV_Latino/master/logos/cartoonito.png",CARTOONITO
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=138&f=.ts
@@ -285,5 +285,5 @@ https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=127&f=.ts
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=134&f=.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_IPTV_Latino/master/logos/winsports.png",WIN SPORTS
 https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=73&f=.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_IPTV_Latino/master/logos/winsportsplus.png",WIN SPORTS PLUS
+#EXTINF:-1 tvg-id="winsportsplus_2" tvg-logo="https://img.teleclub.xyz/winsportsplus.png" group-title="Deportes", Win Sports Plus
 https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=83&f=.ts
