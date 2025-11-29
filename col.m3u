@@ -5,7 +5,7 @@ https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=109&f=.ts
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=192&f=.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_IPTV_Latino/master/logos/americatv.png",AMERICA TV ARGENTINA
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=106&f=.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_IPTV_Latino/master/logos/amc.png",AMC
+#EXTINF:-1 tvg-id="amc_1" tvg-logo="https://img.teleclub.xyz/amc.png" group-title="Entretenimiento", AMC
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=159&f=.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_IPTV_Latino/master/logos/animalplanet.png",ANIMAL PLANET
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=154&f=.ts
@@ -13,7 +13,7 @@ https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=154&f=.ts
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=129&f=.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_IPTV_Latino/master/logos/atv.png",ATV
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=175&f=.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_IPTV_Latino/master/logos/axn.png",AXN
+#EXTINF:-1 tvg-id="axn_1" tvg-logo="https://img.teleclub.xyz/axn.png" group-title="Entretenimiento", AXN
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=163&f=.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_IPTV_Latino/master/logos/azteca7.png",AZTECA 7
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=80&f=.ts
