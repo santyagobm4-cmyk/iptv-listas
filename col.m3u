@@ -185,7 +185,7 @@ https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=157&f=.ts
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=113&f=.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_IPTV_Latino/master/logos/natgeo.png",NAT GEO
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=155&f=.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_IPTV_Latino/master/logos/nickelodeon.png",NICK
+#EXTINF:-1 tvg-id="nick_1" tvg-logo="https://img.teleclub.xyz/nick.png" group-title="Infantil", Nick
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=141&f=.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_IPTV_Latino/master/logos/nickjr.png",NICK JR
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=140&f=.ts
