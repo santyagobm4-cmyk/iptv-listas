@@ -49,11 +49,11 @@ http://181.78.7.90:12500/play/CINEFAMILIAR/index.m3u8
 http://181.78.7.90:12500/play/a0cm/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uF8Tq5F.png",Cine Premium
 http://181.78.7.90:12500/play/a0cn/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_IPTV_Latino/master/logos/cinecanal.png",CINECANAL
+#EXTINF:-1 tvg-id="cinecanal_1" tvg-logo="https://img.teleclub.xyz/cinecanal.png" group-title="Entretenimiento", Cinecanal
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=187&f=.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_IPTV_Latino/master/logos/cinemax.png",CINEMAX
+#EXTINF:-1 tvg-id="cinemax_3" tvg-logo="https://img.teleclub.xyz/cinemax.png" group-title="Entretenimiento", Cinemax
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=188&f=.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_IPTV_Latino/master/logos/comedycentral.png",COMEDY CENTRAL
+#EXTINF:-1 tvg-id="comedycentral_1" tvg-logo="https://img.teleclub.xyz/comedycentral.png" group-title="Entretenimiento", Comedy Central
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=156&f=.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_IPTV_Latino/master/logos/daznf1.png",DAZN F1
 https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=69&f=.ts
@@ -89,7 +89,7 @@ https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=125&f=.ts
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=142&f=.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_IPTV_Latino/master/logos/distritocomedia.png",DISTRITO COMEDIA
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=186&f=.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_IPTV_Latino/master/logos/dpelicula.png",DPELICULA
+#EXTINF:-1 tvg-id="depelicula_1" tvg-logo="https://img.teleclub.xyz/depelicula.png" group-title="Entretenimiento", DPelicula
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=124&f=.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_IPTV_Latino/master/logos/dw.png",DW ESPAÑOL
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=132&f=.ts
@@ -129,7 +129,7 @@ https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=20&f=.ts
 https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=22&f=.ts
 #EXTINF:-1 tvg-id="foxsportspremiummx_2" tvg-logo="https://img.teleclub.xyz/foxsportspremium.png" group-title="Deportes", Fox Sports Premium
 https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=65&f=.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_IPTV_Latino/master/logos/fx.png",FX
+#EXTINF:-1 tvg-id="fx_1" tvg-logo="https://img.teleclub.xyz/fx.png" group-title="Entretenimiento", FX
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=171&f=.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_IPTV_Latino/master/logos/galavision.png",GALAVISION
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=180&f=.ts
@@ -137,15 +137,15 @@ https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=180&f=.ts
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=200&f=.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_IPTV_Latino/master/logos/globaltv.png",GLOBAL TV
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=133&f=.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_IPTV_Latino/master/logos/golden.png",GOLDEN
+#EXTINF:-1 tvg-id="golden_3" tvg-logo="https://img.teleclub.xyz/golden.png" group-title="Entretenimiento", Golden
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=131&f=.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_IPTV_Latino/master/logos/golden.png",GOLDEN
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=170&f=.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_IPTV_Latino/master/logos/goldenedge.png",GOLDEN EDGE
+#EXTINF:-1 tvg-id="goldenedge_1" tvg-logo="https://img.teleclub.xyz/goldenedge.png" group-title="Entretenimiento", Golden Edge
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=168&f=.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_IPTV_Latino/master/logos/goldenplus.png",GOLDEN PLUS
+#EXTINF:-1 tvg-id="goldenplus_1" tvg-logo="https://img.teleclub.xyz/golden.png" group-title="Entretenimiento", Golden Plus
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=169&f=.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_IPTV_Latino/master/logos/goldenpremier.png",GOLDEN PREMIER
+#EXTINF:-1 tvg-id="goldenpremier_1" tvg-logo="https://img.teleclub.xyz/golden.png" group-title="Entretenimiento", Golden Premier
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=166&f=.ts
 #EXTINF:-1 tvg-id="golperu_2" tvg-logo="https://img.teleclub.xyz/golperu.png" group-title="Deportes", Gol Peru
 https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=7&f=.ts
