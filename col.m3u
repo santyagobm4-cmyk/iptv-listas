@@ -85,7 +85,7 @@ https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=152&f=.ts
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=146&f=.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_IPTV_Latino/master/logos/disneychannel.png",DISNEY CHANNEL
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=125&f=.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_IPTV_Latino/master/logos/disneyjunior.png",DISNEY JR
+#EXTINF:-1 tvg-id="disney_jr_1" tvg-logo="https://img.teleclub.xyz/disneyjr.png" group-title="Infantil", Disney Jr
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=142&f=.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_IPTV_Latino/master/logos/distritocomedia.png",DISTRITO COMEDIA
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=186&f=.ts
