@@ -113,7 +113,6 @@ https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=84&f=.ts
 https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=66&f=.ts
 #EXTINF:-1 tvg-id="espnpremium_2" tvg-logo="https://img.teleclub.xyz/espnpremium.png" group-title="Deportes", ESPN Premium
 https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=12&f=.ts
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=116&f=.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8Qj8j3X.png",EVERYTHING
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=145&f=.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_IPTV_Latino/master/logos/extrematv.png",EXTREMA TV
@@ -122,19 +121,13 @@ https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=128&f=.ts
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=119&f=.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8Qj8j3X.png",FM HOT MOVIES
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=120&f=.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_IPTV_Latino/master/logos/foxsports.png",FOX SPORTS
+#EXTINF:-1 tvg-id="foxsports1_2" tvg-logo="https://img.teleclub.xyz/foxsports.png" group-title="Deportes", Fox Sports 1
 https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=19&f=.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_IPTV_Latino/master/logos/foxsports2.png",FOX SPORTS 2
+#EXTINF:-1 tvg-id="foxsports2_2" tvg-logo="https://img.teleclub.xyz/foxsports2.png" group-title="Deportes", Fox Sports 2
 https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=20&f=.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_IPTV_Latino/master/logos/foxsports2.png",FOX SPORTS 2 MEXICO
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=36&f=.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_IPTV_Latino/master/logos/foxsports3.png",FOX SPORTS 3
+#EXTINF:-1 tvg-id="foxsports3_2" tvg-logo="https://img.teleclub.xyz/foxsports3.png" group-title="Deportes", Fox Sports 3
 https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=22&f=.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_IPTV_Latino/master/logos/foxsports3.png",FOX SPORTS 3 MEXICO
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=37&f=.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_IPTV_Latino/master/logos/foxsports.png",FOX SPORTS MEXICO
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=35&f=.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_IPTV_Latino/master/logos/foxsportspremium.png",FOX SPORTS PREMIUM
+#EXTINF:-1 tvg-id="foxsportspremiummx_2" tvg-logo="https://img.teleclub.xyz/foxsportspremium.png" group-title="Deportes", Fox Sports Premium
 https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=65&f=.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_IPTV_Latino/master/logos/fx.png",FX
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=171&f=.ts
@@ -154,7 +147,7 @@ https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=168&f=.ts
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=169&f=.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_IPTV_Latino/master/logos/goldenpremier.png",GOLDEN PREMIER
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=166&f=.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_IPTV_Latino/master/logos/golperu.png",GOL PERU
+#EXTINF:-1 tvg-id="golperu_2" tvg-logo="https://img.teleclub.xyz/golperu.png" group-title="Deportes", Gol Peru
 https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=7&f=.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_IPTV_Latino/master/logos/history.png",HISTORY
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=184&f=.ts
@@ -264,20 +257,16 @@ https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=190&f=.ts
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=122&f=.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_IPTV_Latino/master/logos/tntseries.png",TNT SERIES
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=165&f=.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_IPTV_Latino/master/logos/tntsports.png",TNT SPORTS
+#EXTINF:-1 tvg-id="tntsports_2" tvg-logo="https://img.teleclub.xyz/tntsports.png" group-title="Deportes", TNT Sports
 https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=11&f=.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_IPTV_Latino/master/logos/tntsportschile.png",TNT SPORTS CHILE
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=77&f=.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_IPTV_Latino/master/logos/tooncast.png",TOONCAST
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=137&f=.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_IPTV_Latino/master/logos/tudn.png",TUDN
+#EXTINF:-1 tvg-id="tudn_2" tvg-logo="https://img.teleclub.xyz/tudn.png" group-title="Deportes", TUDN
 https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=16&f=.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_IPTV_Latino/master/logos/tvpublica.png",TV PUBLICA
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=84&f=.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_IPTV_Latino/master/logos/tycsports.png",TYC SPORTS ARGENTINA
+#EXTINF:-1 tvg-id="tycsports_2" tvg-logo="https://img.teleclub.xyz/tycsports.png" group-title="Deportes", TyC Sports
 https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=206&f=.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_IPTV_Latino/master/logos/tycsports.png",TYC SPORTS INTERNACIONAL
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=207&f=.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_IPTV_Latino/master/logos/unicable.png",UNICABLE
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=173&f=.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_IPTV_Latino/master/logos/universalcinema.png",UNIVERSAL CINEMA
