@@ -41,7 +41,7 @@ http://181.78.7.90:12500/play/CANALINFANTIL/index.m3u8
 http://189.50.210.3:8008/play/a04j/index.m3u8
 #EXTINF:-1 tvg-id="cartoonnetwork_1" tvg-logo="https://img.teleclub.xyz/cartoonnetwork.png" group-title="Infantil", Cartoon Network
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=139&f=.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_IPTV_Latino/master/logos/cartoonito.png",CARTOONITO
+#EXTINF:-1 tvg-id="cartoonito_1" tvg-logo="https://img.teleclub.xyz/cartoonito.png" group-title="Infantil", Cartoonito
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=138&f=.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uF8Tq5F.png",Cine Familiar
 http://181.78.7.90:12500/play/CINEFAMILIAR/index.m3u8
@@ -73,7 +73,7 @@ https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=149&f=.ts
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=153&f=.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_IPTV_Latino/master/logos/discoveryhh.png",DISCOVERY HYH
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=151&f=.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_IPTV_Latino/master/logos/discoverykids.png",DISCOVERY KIDS
+#EXTINF:-1 tvg-id="discoverykids_1" tvg-logo="https://img.teleclub.xyz/discoverykids.png" group-title="Infantil", Discovery Kids
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=136&f=.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/Canales_IPTV_Latino/master/logos/discoverytlc.png",DISCOVERY TLC
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=148&f=.ts
