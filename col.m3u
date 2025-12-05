@@ -1,61 +1,320 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/a24.png", A24 ARGENTINA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/ar/a24.png" group-title="Noticias",A24 ARGENTINA
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=109&f=.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/america-ar.png", AMERICA TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/ar/america-tv.png" group-title="General Argentina",AMERICA TV
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=192&f=.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/america-ar.png", AMERICA TV ARGENTINA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/ar/america-tv.png" group-title="General Argentina",AMERICA TV ARGENTINA
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=106&f=.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/cable/amc-us.png", AMC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/us/amc.png" group-title="Series y Películas",AMC
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=159&f=.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/cable/animal_planet.png", ANIMAL PLANET
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/us/animal-planet.png" group-title="Documentales",ANIMAL PLANET
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=154&f=.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/antena3-es.png", ANTENA 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/es/antena-3.png" group-title="General España",ANTENA 3
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=129&f=.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/peru/atv-pe.png", ATV
+#EXTINF:-1 group-title="General Perú",ATV
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=175&f=.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/cable/axn.png", AXN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/us/axn.png" group-title="Series y Películas",AXN
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=163&f=.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/azteca7.png", AZTECA 7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mx/azteca-7.png" group-title="General México",AZTECA 7
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=80&f=.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/azteca-deportes.png", AZTECA DEPORTES
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mx/azteca-deportes.png" group-title="Deportes",AZTECA DEPORTES
 https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=76&f=.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/azteca-internacional.png", AZTECA INTERNACIONAL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mx/azteca-internacional.png" group-title="General México",AZTECA INTERNACIONAL
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=181&f=.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/azteca-uno.png", AZTECA UNO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mx/azteca-uno.png" group-title="General México",AZTECA UNO
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=182&f=.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/cable/babyfirst.png", BabyFirst
+#EXTINF:-1 group-title="Infantil",BabyFirst
 http://200.113.4.75:7210/play/a02j/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/cable/bein-sports-xtra.png", BEIN SPORTS XTRA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/us/bein-sports-xtra.png" group-title="Deportes",BEIN SPORTS XTRA
 https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=71&f=.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/c5n.png", C5N
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/ar/c5n.png" group-title="Noticias",C5N
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=105&f=.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/canal5.png", CANAL 5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mx/canal-5.png" group-title="General México",CANAL 5
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=81&f=.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/peru/canal-n-pe.png", CANAL N
+#EXTINF:-1 group-title="Noticias",CANAL N
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=103&f=.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/cable/sony-channel.png", CANAL SONY
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/us/sony.png" group-title="Series y Películas",CANAL SONY
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=164&f=.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/cable/cartoon_network.png", CARTOON NETWORK
+#EXTINF:-1 group-title="Infantil",CANAL INFANTIL
+http://181.78.7.90:12500/play/CANALINFANTIL/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/co/caracol.png" group-title="General Colombia",Caracol
+http://189.50.210.3:8008/play/a04j/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/us/cartoon-network.png" group-title="Infantil",CARTOON NETWORK
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=139&f=.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/cable/cartoonito.png", CARTOONITO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/us/cartoonito.png" group-title="Infantil",CARTOONITO
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=138&f=.ts
+#EXTINF:-1 group-title="Películas",Cine Familiar
+http://181.78.7.90:12500/play/CINEFAMILIAR/index.m3u8
+#EXTINF:-1 group-title="Películas",Cine Hispano
+http://181.78.7.90:12500/play/a0cm/index.m3u8
+#EXTINF:-1 group-title="Películas",Cine Premium
+http://181.78.7.90:12500/play/a0cn/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/us/cinecanal.png" group-title="Películas",CINECANAL
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=187&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/us/cinemax.png" group-title="Películas",CINEMAX
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=188&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/us/comedy-central.png" group-title="Entretenimiento",COMEDY CENTRAL
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=156&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/es/dazn-f1.png" group-title="Deportes",DAZN F1
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=69&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/es/dazn-la-liga.png" group-title="Deportes",DAZN LA LIGA
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=82&f=.ts
+#EXTINF:-1 group-title="Series y Películas",DHE
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=118&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/directv-sports.png" group-title="Deportes",DIRECTV SPORTS
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=32&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/directv-sports-2.png" group-title="Deportes",DIRECTV SPORTS 2
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=33&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/directv-sports-plus.png" group-title="Deportes",DIRECTV SPORTS PLUS
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=34&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/us/a&e.png" group-title="Documentales",DISCOVERY A&E
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=149&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/us/discovery-channel.png" group-title="Documentales",DISCOVERY CHANNEL
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=153&f=.ts
+#EXTINF:-1 group-title="Documentales",DISCOVERY HYH
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=151&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/us/discovery-kids.png" group-title="Infantil",DISCOVERY KIDS
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=136&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/us/tlc.png" group-title="Documentales",DISCOVERY TLC
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=148&f=.ts
+#EXTINF:-1 group-title="Documentales",DISCOVERY THEATER
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=147&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/us/discovery-turbo.png" group-title="Documentales",DISCOVERY TURBO
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=152&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/us/discovery-world.png" group-title="Documentales",DISCOVERY WORLD
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=146&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/us/disney-channel.png" group-title="Infantil",DISNEY CHANNEL
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=125&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/us/disney-junior.png" group-title="Infantil",DISNEY JR
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=142&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mx/distrito-comedia.png" group-title="Entretenimiento",DISTRITO COMEDIA
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=186&f=.ts
+#EXTINF:-1 group-title="Películas",DPELICULA
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=124&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/de/dw-espanol.png" group-title="Noticias",DW ESPAÑOL
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=132&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/ec/ecuador-tv.png" group-title="General Ecuador",ECUADOR TV
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=101&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/ar/el-gourmet.png" group-title="Estilo de Vida",EL GOURMET
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=143&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/ar/el-nueve.png" group-title="General Argentina",EL NUEVE
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=108&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/ar/el-trece.png" group-title="General Argentina",EL TRECE
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=82&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/us/espn.png" group-title="Deportes",ESPN
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=26&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/us/espn-2.png" group-title="Deportes",ESPN 2
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=28&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mx/espn-2.png" group-title="Deportes México",ESPN 2 MEXICO
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=46&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/us/espn-3.png" group-title="Deportes",ESPN 3
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=29&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mx/espn-3.png" group-title="Deportes México",ESPN 3 MEXICO
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=48&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/us/espn-4.png" group-title="Deportes",ESPN 4
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=84&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mx/espn-4.png" group-title="Deportes México",ESPN 4 MEXICO
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=74&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/us/espn-5.png" group-title="Deportes",ESPN 5
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=66&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mx/espn-5.png" group-title="Deportes México",ESPN 5 MEXICO
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=75&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/us/espn-6.png" group-title="Deportes",ESPN 6
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=67&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/us/espn-7.png" group-title="Deportes",ESPN 7
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=68&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/ar/espn-argentina.png" group-title="Deportes Argentina",ESPN ARGENTINA
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=85&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mx/espn.png" group-title="Deportes México",ESPN MEXICO
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=41&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/ar/espn-premium.png" group-title="Deportes",ESPN PREMIUM
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=12&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/ar/espn-premium.png" group-title="Deportes Argentina",ESPN PREMIUM ARGENTINA
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=86&f=.ts
+#EXTINF:-1 group-title="Películas",EUROPA EUROPA
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=116&f=.ts
+#EXTINF:-1 group-title="Documentales",EVERYTHING
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=145&f=.ts
+#EXTINF:-1 group-title="Entretenimiento",EXTREMA TV
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=128&f=.ts
+#EXTINF:-1 group-title="Infantil",FM HOT KIDS
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=119&f=.ts
+#EXTINF:-1 group-title="Películas",FM HOT MOVIES
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=120&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/us/fox-sports.png" group-title="Deportes",FOX SPORTS
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=19&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/us/fox-sports-2.png" group-title="Deportes",FOX SPORTS 2
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=20&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mx/fox-sports-2.png" group-title="Deportes México",FOX SPORTS 2 MEXICO
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=36&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/us/fox-sports-3.png" group-title="Deportes",FOX SPORTS 3
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=22&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mx/fox-sports-3.png" group-title="Deportes México",FOX SPORTS 3 MEXICO
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=37&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mx/fox-sports.png" group-title="Deportes México",FOX SPORTS MEXICO
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=35&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/ar/fox-sports-premium.png" group-title="Deportes",FOX SPORTS PREMIUM
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=65&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/us/fx.png" group-title="Series y Películas",FX
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=171&f=.ts
+#EXTINF:-1 group-title="General México",GALAVISION
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=180&f=.ts
+#EXTINF:-1 group-title="Entretenimiento",GEX TV
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=200&f=.ts
+#EXTINF:-1 group-title="General",GLOBAL TV
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=133&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mx/golden.png" group-title="Películas",GOLDEN
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=131&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mx/golden.png" group-title="Películas",GOLDEN
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=170&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mx/golden-edge.png" group-title="Películas",GOLDEN EDGE
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=168&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mx/golden-plus.png" group-title="Películas",GOLDEN PLUS
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=169&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mx/golden-premier.png" group-title="Películas",GOLDEN PREMIER
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=166&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/pe/gol-peru.png" group-title="Deportes Perú",GOL PERU
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=7&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/us/history.png" group-title="Documentales",HISTORY
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=184&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/us/history-2.png" group-title="Documentales",HISTORY 2
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=183&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/us/investigation-discovery.png" group-title="Documentales",ID INVESTIGATION
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=150&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mx/imagen-tv.png" group-title="General México",IMAGEN TV
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=172&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/ar/la-nacion.png" group-title="Noticias",LA NACION ARGENTINA
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=107&f=.ts
+#EXTINF:-1 group-title="General Colombia",La Kalle
+http://181.78.7.90:12500/play/a06g/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mx/las-estrellas.png" group-title="General México",LAS ESTRELLAS
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=178&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/pe/latina.png" group-title="General Perú",LATINA
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=193&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/us/lifetime.png" group-title="Series y Películas",LIFETIME
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=144&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/pe/liga-1.png" group-title="Deportes Perú",LIGA 1
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=49&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/pe/liga-1-max.png" group-title="Deportes Perú",LIGA 1 MAX
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=50&f=.ts
+#EXTINF:-1 group-title="Documentales",LOVE NATURE
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=114&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/es/movistar-la-liga.png" group-title="Deportes España",MOVISTAR LA LIGA
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=72&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/es/movistar-liga-de-campeones.png" group-title="Deportes España",MOVISTAR LIGA DE CAMPEONES
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=70&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mx/multipremier.png" group-title="Series y Películas",MULTIPREMIER
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=160&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/us/mtv.png" group-title="Música",MTV
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=157&f=.ts
+#EXTINF:-1 group-title="Música",MTV 00S
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=113&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/us/nat-geo.png" group-title="Documentales",NAT GEO
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=155&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/us/nick.png" group-title="Infantil",NICK
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=141&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/us/nick-jr.png" group-title="Infantil",NICK JR
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=140&f=.ts
+#EXTINF:-1 group-title="Películas",PANICO
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=130&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/us/paramount-channel.png" group-title="Series y Películas",PARAMOUNT CHANNEL
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=158&f=.ts
+#EXTINF:-1 group-title="Series y Novelas",PASIONES
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=89&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/co/rcn.png" group-title="General Colombia",RCN
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=117&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/ec/rts.png" group-title="General Ecuador",RTS ECUADOR
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=96&f=.ts
+#EXTINF:-1 group-title="General",SALVADOR: TCS PLUS
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=95&f=.ts
+#EXTINF:-1 group-title="General Colombia",Señal Colombia
+http://189.50.210.3:8008/play/a069/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/de/sky-sports-bundesliga.png" group-title="Deportes",SKY SPORTS BUNDESLIGA
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=79&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/es/sky-sports-la-liga.png" group-title="Deportes España",SKY SPORTS LA LIGA
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=78&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/us/sony-cine.png" group-title="Series y Películas",SONY CINE
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=99&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/us/sony-movies.png" group-title="Series y Películas",SONY MOVIES
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=100&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/space.png" group-title="Series y Películas",SPACE
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=191&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/star-channel.png" group-title="Series y Películas",STAR CHANNEL
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=189&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/us/studio-universal.png" group-title="Películas",STUDIO UNIVERSAL
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=161&f=.ts
+#EXTINF:-1 group-title="Estilo de Vida",SUN CHANNEL
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=102&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/us/syfy.png" group-title="Series y Películas",SYFY | USA
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=177&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/us/tcm.png" group-title="Películas",TCM
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=199&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/us/teen-nick.png" group-title="Infantil",TEEN NICK
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=196&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/ec/tele-amazonas.png" group-title="General Ecuador",TELE AMAZONAS
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=115&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/ar/telefe.png" group-title="General Argentina",TELEFE
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=83&f=.ts
+#EXTINF:-1 group-title="General Colombia",Telecaribe
+http://189.50.210.3:8008/play/a06b/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/es/telecinco.png" group-title="General España",TELECINCO
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=195&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mx/telehit.png" group-title="Música",TELEHIT
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=197&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mx/telehit-musica.png" group-title="Música",TELEHIT MUSICA
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=198&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/us/telemundo-51.png" group-title="General USA",TELEMUNDO 51
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=85&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/international/telemundo-internacional.png" group-title="Series y Novelas",TELEMUNDO INTERNACIONAL
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=87&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/international/telemundo-internacional.png" group-title="Series y Novelas",TELEMUNDO INTERNACIONAL
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=126&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/us/telemundo-puerto-rico.png" group-title="General USA",TELEMUNDO PUERTO RICO
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=86&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/us/telemundo-puerto-rico.png" group-title="General USA",TELEMUNDO PUERTO RICO
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=135&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mx/tlnovelas.png" group-title="Series y Novelas",TLNOVELAS
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=179&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/ar/tn.png" group-title="Noticias",TN ARGENTINA
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=104&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/us/tnt.png" group-title="Series y Películas",TNT
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=190&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/tnt-novelas.png" group-title="Series y Novelas",TNT NOVELAS
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=122&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/tnt-series.png" group-title="Series y Películas",TNT SERIES
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=165&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/ar/tnt-sports.png" group-title="Deportes Argentina",TNT SPORTS
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=11&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/cl/tnt-sports-hd.png" group-title="Deportes Chile",TNT SPORTS CHILE
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=77&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/us/tooncast.png" group-title="Infantil",TOONCAST
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=137&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/us/tudn.png" group-title="Deportes",TUDN
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=16&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/ar/tv-publica.png" group-title="General Argentina",TV PUBLICA
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=84&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/ar/tyc-sports.png" group-title="Deportes Argentina",TYC SPORTS ARGENTINA
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=206&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/international/tyc-sports-internacional.png" group-title="Deportes",TYC SPORTS INTERNACIONAL
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=207&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mx/unicable.png" group-title="Series y Novelas",UNICABLE
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=173&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/universal-cinema.png" group-title="Películas",UNIVERSAL CINEMA
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=121&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/universal-premiere.png" group-title="Películas",UNIVERSAL PREMIERE
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=123&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/us/universal-tv.png" group-title="Series y Películas",UNIVERSAL TV
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=162&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/us/univision.png" group-title="General USA",UNIVISION
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=88&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/us/univision.png" group-title="General USA",UNIVISION
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=174&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/us/warner-channel.png" group-title="Series y Películas",WARNER 
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=127&f=.ts
+#EXTINF:-1 group-title="General Perú",WILLAX TV
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=134&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/co/win-sports.png" group-title="Deportes Colombia",WIN SPORTS
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=73&f=.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/co/win-sports-plus.png" group-title="Deportes Colombia",WIN SPORTS PLUS
+https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=83&f=.ts
