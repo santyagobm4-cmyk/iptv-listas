@@ -1,232 +1,61 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/america-ar.png" group-title="Mundo", AMERICA TV
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/a24.png", A24 ARGENTINA
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=109&f=.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/america-ar.png", AMERICA TV
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=192&f=.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/america-ar.png", AMERICA TV ARGENTINA
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=106&f=.ts
 
-#EXTINF:-1 tvg-id="amc_1" tvg-logo="https://img.teleclub.xyz/amc.png" group-title="Entretenimiento", AMC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/cable/amc-us.png", AMC
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=159&f=.ts
 
-#EXTINF:-1 tvg-id="animalplanet_1" tvg-logo="https://img.teleclub.xyz/animalplanet.png" group-title="Cultura", ANIMAL PLANET
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/cable/animal_planet.png", ANIMAL PLANET
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=154&f=.ts
 
-#EXTINF:-1 tvg-id="antena_3" tvg-logo="https://img.teleclub.xyz/antena3.png" group-title="Mundo", ANTENA 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/antena3-es.png", ANTENA 3
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=129&f=.ts
 
-#EXTINF:-1 tvg-id="atv_1" tvg-logo="https://img.teleclub.xyz/atvl.png" group-title="Mundo", ATV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/peru/atv-pe.png", ATV
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=175&f=.ts
 
-#EXTINF:-1 tvg-id="axn_1" tvg-logo="https://img.teleclub.xyz/axn.png" group-title="Entretenimiento", AXN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/cable/axn.png", AXN
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=163&f=.ts
 
-#EXTINF:-1 tvg-id="azteca7_1" tvg-logo="https://img.teleclub.xyz/azteca7.png" group-title="Mundo", AZTECA 7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/azteca7.png", AZTECA 7
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=80&f=.ts
 
-#EXTINF:-1 tvg-id="azteca_deportes" tvg-logo="https://img.teleclub.xyz/aztecadeportes.png" group-title="Deportes", AZTECA DEPORTES
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/azteca-deportes.png", AZTECA DEPORTES
 https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=76&f=.ts
 
-#EXTINF:-1 tvg-id="aztecauno_1" tvg-logo="https://img.teleclub.xyz/azteca1.png" group-title="Mundo", AZTECA UNO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/azteca-internacional.png", AZTECA INTERNACIONAL
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=181&f=.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/azteca-uno.png", AZTECA UNO
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=182&f=.ts
 
-#EXTINF:-1 tvg-id="babyfirst" tvg-logo="https://img.teleclub.xyz/babyfirst.png" group-title="Infantil", BabyFirst
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/cable/babyfirst.png", BabyFirst
 http://200.113.4.75:7210/play/a02j/index.m3u8
 
-#EXTINF:-1 tvg-id="bein_sports_xtra" tvg-logo="https://img.teleclub.xyz/beinsports.png" group-title="Deportes", BEIN SPORTS XTRA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/cable/bein-sports-xtra.png", BEIN SPORTS XTRA
 https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=71&f=.ts
 
-#EXTINF:-1 tvg-id="canal5_1" tvg-logo="https://img.teleclub.xyz/canal5.png" group-title="Mundo", CANAL 5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/c5n.png", C5N
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=105&f=.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/canal5.png", CANAL 5
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=81&f=.ts
 
-#EXTINF:-1 tvg-id="sony_1" tvg-logo="https://img.teleclub.xyz/sony.png" group-title="Entretenimiento", CANAL SONY
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/peru/canal-n-pe.png", CANAL N
+https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=103&f=.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/cable/sony-channel.png", CANAL SONY
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=164&f=.ts
 
-#EXTINF:-1 tvg-id="caracol_1" tvg-logo="https://img.teleclub.xyz/caracol.png" group-title="Mundo", Caracol
-http://189.50.210.3:8008/play/a04j/index.m3u8
-
-#EXTINF:-1 tvg-id="cartoonnetwork_1" tvg-logo="https://img.teleclub.xyz/cartoonnetwork.png" group-title="Infantil", Cartoon Network
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/cable/cartoon_network.png", CARTOON NETWORK
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=139&f=.ts
 
-#EXTINF:-1 tvg-id="cartoonito_1" tvg-logo="https://img.teleclub.xyz/cartoonito.png" group-title="Infantil", CARTOONITO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/cable/cartoonito.png", CARTOONITO
 https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=138&f=.ts
-
-#EXTINF:-1 tvg-id="cine_familiar" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/cine-familiar-la.png" group-title="Entretenimiento", Cine Familiar
-http://181.78.7.90:12500/play/CINEFAMILIAR/index.m3u8
-
-#EXTINF:-1 tvg-id="cine_hispano" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/cine-hispano-la.png" group-title="Entretenimiento", Cine Hispano
-http://181.78.7.90:12500/play/a0cm/index.m3u8
-
-#EXTINF:-1 tvg-id="cine_premium" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/latin-america/cine-premium-la.png" group-title="Entretenimiento", Cine Premium
-http://181.78.7.90:12500/play/a0cn/index.m3u8
-
-#EXTINF:-1 tvg-id="cinecanal_1" tvg-logo="https://img.teleclub.xyz/cinecanal.png" group-title="Entretenimiento", Cinecanal
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=187&f=.ts
-
-#EXTINF:-1 tvg-id="cinemax_3" tvg-logo="https://img.teleclub.xyz/cinemax.png" group-title="Entretenimiento", Cinemax
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=188&f=.ts
-
-#EXTINF:-1 tvg-id="comedycentral_1" tvg-logo="https://img.teleclub.xyz/comedycentral.png" group-title="Entretenimiento", Comedy Central
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=156&f=.ts
-
-#EXTINF:-1 tvg-id="dazn_f1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/dazn-us.png" group-title="Deportes", DAZN F1
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=69&f=.ts
-
-#EXTINF:-1 tvg-id="dazn_la_liga" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/dazn-us.png" group-title="Deportes", DAZN LA LIGA
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=82&f=.ts
-
-#EXTINF:-1 tvg-id="dhe_1" tvg-logo="https://img.teleclub.xyz/dhe.png" group-title="Entretenimiento", DHE
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=118&f=.ts
-
-#EXTINF:-1 tvg-id="directvsportsplus_2" tvg-logo="https://img.teleclub.xyz/directvsports.png" group-title="Deportes", Directv Sports
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=32&f=.ts
-
-#EXTINF:-1 tvg-id="directvsports2_2" tvg-logo="https://img.teleclub.xyz/directvsports2.png" group-title="Deportes", Directv Sports 2
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=33&f=.ts
-
-#EXTINF:-1 tvg-id="directvsports_2" tvg-logo="https://img.teleclub.xyz/directvsports.png" group-title="Deportes", Directv Sports +
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=34&f=.ts
-
-#EXTINF:-1 tvg-id="a_e_1" tvg-logo="https://img.teleclub.xyz/ae.png" group-title="Entretenimiento", DISCOVERY A&E
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=149&f=.ts
-
-#EXTINF:-1 tvg-id="discoverychannel_1" tvg-logo="https://img.teleclub.xyz/discoverychannel.png" group-title="Cultura", DISCOVERY CHANNEL
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=153&f=.ts
-
-#EXTINF:-1 tvg-id="discoveryh_h_1" tvg-logo="https://img.teleclub.xyz/discoveryhh.png" group-title="Cultura", DISCOVERY H&H
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=151&f=.ts
-
-#EXTINF:-1 tvg-id="discoverykids_1" tvg-logo="https://img.teleclub.xyz/discoverykids.png" group-title="Infantil", DISCOVERY KIDS
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=136&f=.ts
-
-#EXTINF:-1 tvg-id="tlc_1" tvg-logo="https://img.teleclub.xyz/tlc.png" group-title="Mundo", DISCOVERY TLC
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=148&f=.ts
-
-#EXTINF:-1 tvg-id="discoverytheater_1" tvg-logo="https://img.teleclub.xyz/discoverytheater.png" group-title="Cultura", DISCOVERY THEATER
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=147&f=.ts
-
-#EXTINF:-1 tvg-id="discoveryturbo_1" tvg-logo="https://img.teleclub.xyz/discoveryturbo.png" group-title="Cultura", DISCOVERY TURBO
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=152&f=.ts
-
-#EXTINF:-1 tvg-id="discoveryworld_1" tvg-logo="https://img.teleclub.xyz/discoveryworld.png" group-title="Cultura", DISCOVERY WORLD
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=146&f=.ts
-
-#EXTINF:-1 tvg-id="disney_channel_1" tvg-logo="https://img.teleclub.xyz/disneychannel.png" group-title="Infantil", DISNEY CHANNEL
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=125&f=.ts
-
-#EXTINF:-1 tvg-id="disney_jr_1" tvg-logo="https://img.teleclub.xyz/disneyjr.png" group-title="Infantil", DISNEY JR
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=142&f=.ts
-
-#EXTINF:-1 tvg-id="distritocomedia_1" tvg-logo="https://img.teleclub.xyz/distritocomedia.png" group-title="Entretenimiento", DISTRITO COMEDIA
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=186&f=.ts
-
-#EXTINF:-1 tvg-id="depelicula_1" tvg-logo="https://img.teleclub.xyz/depelicula.png" group-title="Entretenimiento", DPelicula
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=124&f=.ts
-
-#EXTINF:-1 tvg-id="dwchannel_1" tvg-logo="https://img.teleclub.xyz/dwchannel.png" group-title="Mundo", DW ESPAÑOL
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=132&f=.ts
-
-#EXTINF:-1 tvg-id="ecuavisa_1" tvg-logo="https://img.teleclub.xyz/ecuavisa.png" group-title="Mundo", ECUADOR TV
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=101&f=.ts
-
-#EXTINF:-1 tvg-id="elgourmet_1" tvg-logo="https://img.teleclub.xyz/elgourmet.png" group-title="Cultura", EL GOURMET
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=143&f=.ts
-
-#EXTINF:-1 tvg-id="elnueve" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/elnueve-ar.png" group-title="Mundo", EL NUEVE
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=108&f=.ts
-
-#EXTINF:-1 tvg-id="eltrece_1" tvg-logo="https://img.teleclub.xyz/trecel.png" group-title="Mundo", EL TRECE
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=82&f=.ts
-
-#EXTINF:-1 tvg-id="espn1_2" tvg-logo="https://img.teleclub.xyz/espn.png" group-title="Deportes", ESPN 1
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=26&f=.ts
-
-#EXTINF:-1 tvg-id="espn2_2" tvg-logo="https://img.teleclub.xyz/espn2.png" group-title="Deportes", ESPN 2
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=28&f=.ts
-
-#EXTINF:-1 tvg-id="espn3_2" tvg-logo="https://img.teleclub.xyz/espn3.png" group-title="Deportes", ESPN 3
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=29&f=.ts
-
-#EXTINF:-1 tvg-id="espn4_2" tvg-logo="https://img.teleclub.xyz/espn4.png" group-title="Deportes", ESPN 4
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=84&f=.ts
-
-#EXTINF:-1 tvg-id="espn5_2" tvg-logo="https://img.teleclub.xyz/espn.png" group-title="Deportes", ESPN 5
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=66&f=.ts
-
-#EXTINF:-1 tvg-id="espnpremium_2" tvg-logo="https://img.teleclub.xyz/espnpremium.png" group-title="Deportes", ESPN Premium
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=12&f=.ts
-
-#EXTINF:-1 tvg-id="fm_hot_kids" tvg-logo="https://img.teleclub.xyz/kids.png" group-title="Infantil", FM HOT KIDS
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=119&f=.ts
-
-#EXTINF:-1 tvg-id="foxsports1_2" tvg-logo="https://img.teleclub.xyz/foxsports.png" group-title="Deportes", Fox Sports 1
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=19&f=.ts
-
-#EXTINF:-1 tvg-id="foxsports2_2" tvg-logo="https://img.teleclub.xyz/foxsports2.png" group-title="Deportes", Fox Sports 2
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=20&f=.ts
-
-#EXTINF:-1 tvg-id="foxsports3_2" tvg-logo="https://img.teleclub.xyz/foxsports3.png" group-title="Deportes", Fox Sports 3
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=22&f=.ts
-
-#EXTINF:-1 tvg-id="foxsportspremiummx_2" tvg-logo="https://img.teleclub.xyz/foxsportspremium.png" group-title="Deportes", Fox Sports Premium
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=65&f=.ts
-
-#EXTINF:-1 tvg-id="fx_1" tvg-logo="https://img.teleclub.xyz/fx.png" group-title="Entretenimiento", FX
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=171&f=.ts
-
-#EXTINF:-1 tvg-id="galavision_1" tvg-logo="https://img.teleclub.xyz/galavson.png" group-title="Mundo", GALAVISION
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=180&f=.ts
-
-#EXTINF:-1 tvg-id="golden_3" tvg-logo="https://img.teleclub.xyz/golden.png" group-title="Entretenimiento", Golden
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=131&f=.ts
-
-#EXTINF:-1 tvg-id="golden_1" tvg-logo="https://img.teleclub.xyz/golden.png" group-title="Entretenimiento", GOLDEN
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=170&f=.ts
-
-#EXTINF:-1 tvg-id="goldenedge_1" tvg-logo="https://img.teleclub.xyz/goldenedge.png" group-title="Entretenimiento", Golden Edge
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=168&f=.ts
-
-#EXTINF:-1 tvg-id="goldenplus_1" tvg-logo="https://img.teleclub.xyz/golden.png" group-title="Entretenimiento", Golden Plus
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=169&f=.ts
-
-#EXTINF:-1 tvg-id="goldenpremier_1" tvg-logo="https://img.teleclub.xyz/golden.png" group-title="Entretenimiento", Golden Premier
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=166&f=.ts
-
-#EXTINF:-1 tvg-id="golperu_2" tvg-logo="https://img.teleclub.xyz/golperu.png" group-title="Deportes", Gol Peru
-https://deportes.ksdjugfsddeports.com/Y6gMx4s18]WB.php?stream=7&f=.ts
-
-#EXTINF:-1 tvg-id="history_1" tvg-logo="https://img.teleclub.xyz/history.png" group-title="Cultura", HISTORY
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=184&f=.ts
-
-#EXTINF:-1 tvg-id="h2_1" tvg-logo="https://img.teleclub.xyz/h2.png" group-title="Cultura", HISTORY 2
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=183&f=.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/hbo-ar.png" group-title="Entretenimiento", HBO
-http://189.50.210.3:8008/play/a077/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/hbo-family-ar.png" group-title="Entretenimiento", HBO Family
-http://189.50.210.3:8008/play/a07r/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/hbo-ar.png" group-title="Entretenimiento", HBO
-http://189.50.210.3:8008/play/a032/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/hbo-mundi-ar.png" group-title="Entretenimiento", HBO Mundi
-http://189.50.210.3:8008/play/a071/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/hbo-pop-ar.png" group-title="Entretenimiento", HBO POP
-http://189.50.210.3:8008/play/a034/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/hbo-xtreme-ar.png" group-title="Entretenimiento", HBO Xtreme
-http://189.50.210.3:8008/play/a07s/index.m3u8
-
-#EXTINF:-1 tvg-id="discoveryid_1" tvg-logo="https://img.teleclub.xyz/did.png" group-title="Cultura", ID INVESTIGATION
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=150&f=.ts
-
-#EXTINF:-1 tvg-id="imagenmx_1" tvg-logo="https://img.teleclub.xyz/imagentv.png" group-title="Mundo", IMAGEN TV
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=172&f=.ts
-
-#EXTINF:-1 tvg-id="lakalle" tvg-logo="https://img.teleclub.xyz/lakalle.png" group-title="Música", La Kalle
-http://181.78.7.90:12500/play/a06g/index.m3u8
-
-#EXTINF:-1 tvg-id="lasestrellas_1" tvg-logo="https://img.teleclub.xyz/lasestrellas.png" group-title="Mundo", LAS ESTRELLAS
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=178&f=.ts
-
-#EXTINF:-1 tvg-id="latina_1" tvg-logo="https://img.teleclub.xyz/latinatv.png" group-title="Mundo", LATINA
-https://live.saohgdasregions.fun/Y6gMx4s18]WB.php?stream=193&f=.ts
-
