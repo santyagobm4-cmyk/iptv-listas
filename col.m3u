@@ -12,10 +12,16 @@ http://200.113.4.75:7210/play/a00t/index.m3u8
 http://189.50.210.3:8008/play/a06s/index.m3u8
 #EXTINF:-1,AXN
 http://200.113.4.75:7210/play/a022/index.m3u8
+#EXTINF:-1,Azteca 7 
+http://38.49.128.38:8000/play/a0la/index.m3u8
 #EXTINF:-1,BabyFirst
 http://200.113.4.75:7210/play/a02j/index.m3u8
+#EXTINF:-1,BABY TV
+http://38.49.128.38:8000/play/a0b9/index.m3u8
 #EXTINF:-1,Canal 13 
 http://189.50.210.3:8008/play/a02s/index.m3u8
+#EXTINF:-1,Canal 5 
+http://38.49.128.38:8000/play/a0n6/index.m3u8
 #EXTINF:-1,Canal 24 Horas
 http://189.50.210.3:8008/play/a07l/index.m3u8
 #EXTINF:-1,Canal Capital
@@ -32,6 +38,10 @@ http://189.50.210.3:8008/play/a068/index.m3u8
 http://189.50.210.3:8008/play/a06e/index.m3u8
 #EXTINF:-1,Caracol 
 http://181.78.7.90:12500/play/a06b/index.m3u8
+#EXTINF:-1,Cartoonito
+http://38.49.128.38:8000/play/a0c1/index.m3u8
+#EXTINF:-1,Cartoon Network
+http://38.49.128.38:8000/play/a0c0/index.m3u8
 #EXTINF:-1,CHV
 http://200.113.4.75:7210/play/a009/index.m3u8
 #EXTINF:-1,Cinecanal HD
