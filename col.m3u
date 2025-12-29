@@ -1,353 +1,307 @@
 #EXTM3U
 
-#EXTINF:-1,24 HORAS
-http://200.113.4.75:7210/play/a00m/index.m3u8
-#EXTINF:-1,AE Mundo
-http://200.113.4.75:7210/play/a012/index.m3u8
-#EXTINF:-1,A&E HD
-http://45.5.119.43:4000/play/a0gt/index.m3u8
-#EXTINF:-1,AMC HD
-http://45.5.119.43:4000/play/a0gu/index.m3u8
-#EXTINF:-1,America TV 
-http://189.50.210.3:8008/play/a04k/index.m3u8
-#EXTINF:-1,Animal Planet
-http://200.113.4.75:7210/play/a00t/index.m3u8
-#EXTINF:-1,Antena 3
-http://189.50.210.3:8008/play/a06s/index.m3u8
-#EXTINF:-1,AXN
-http://200.113.4.75:7210/play/a022/index.m3u8
-#EXTINF:-1,Azteca 7 
-http://38.49.128.38:8000/play/a0la/index.m3u8
-#EXTINF:-1,BabyFirst
-http://200.113.4.75:7210/play/a02j/index.m3u8
-#EXTINF:-1,BABY TV
-http://38.49.128.38:8000/play/a0b9/index.m3u8
-#EXTINF:-1,Canal 13 
-http://189.50.210.3:8008/play/a02s/index.m3u8
-#EXTINF:-1,Canal 5 
-http://38.49.128.38:8000/play/a0n6/index.m3u8
-#EXTINF:-1,Canal 24 Horas
-http://189.50.210.3:8008/play/a07l/index.m3u8
-#EXTINF:-1,Canal Capital
-http://189.50.210.3:8008/play/a06g/index.m3u8
-#EXTINF:-1,Canal Congreso
-http://181.78.7.90:12500/play/a003/index.m3u8
-#EXTINF:-1,Canal Estrellas
-http://200.113.4.75:7210/play/a015/index.m3u8
-#EXTINF:-1,Canal INFANTIL
-http://181.78.7.90:12500/play/CANALINFANTIL/index.m3u8
-#EXTINF:-1,Canal Institucional
-http://189.50.210.3:8008/play/a068/index.m3u8
-#EXTINF:-1,Canal TRO
-http://189.50.210.3:8008/play/a06e/index.m3u8
-#EXTINF:-1,Caracol 
-http://181.78.7.90:12500/play/a06b/index.m3u8
-#EXTINF:-1,Cartoonito
-http://38.49.128.38:8000/play/a0c1/index.m3u8
-#EXTINF:-1,Cartoon Network
-http://45.5.119.43:4000/play/a0l0/index.m3u8
-#EXTINF:-1,CHV
-http://200.113.4.75:7210/play/a009/index.m3u8
-#EXTINF:-1,Cinecanal HD
-http://189.50.210.3:8008/play/a02z/index.m3u8
-#EXTINF:-1,CINEFAMILIAR
-http://181.78.7.90:12500/play/CINEFAMILIAR/index.m3u8
-#EXTINF:-1,CINE HISPANO
-http://181.78.7.90:12500/play/a0cm/index.m3u8
-#EXTINF:-1,Cinemax
-http://200.113.4.75:7210/play/a020/index.m3u8
-#EXTINF:-1,CINE PREMIUM
-http://181.78.7.90:12500/play/a0cn/index.m3u8
-#EXTINF:-1,City TV
-http://189.50.210.3:8008/play/a06h/index.m3u8
-#EXTINF:-1,CNN Chile
-http://200.113.4.75:7210/play/a01k/index.m3u8
-#EXTINF:-1,Conemtel Television
-http://38.51.232.68:8000/play/a0aq/index.m3u8?token=conemteltv
-#EXTINF:-1,Cristovision
-http://190.102.123.28:8097/play/a0dd/index.m3u8
-#EXTINF:-1,DHE
-http://189.50.210.3:8008/play/a07p/index.m3u8
-#EXTINF:-1,Discovery Channel
-http://200.113.4.75:7210/play/a00s/index.m3u8
-#EXTINF:-1,Discovery H&H 
-http://189.50.210.3:8008/play/a047/index.m3u8
-#EXTINF:-1,Discovery 
-http://189.50.210.3:8008/play/a039/index.m3u8
-#EXTINF:-1,Discovery ID
-http://200.113.4.75:7210/play/a01u/index.m3u8
-#EXTINF:-1,Discovery Kids 
-http://189.50.210.3:8008/play/a05o/index.m3u8
-#EXTINF:-1,Discovery Science
-http://189.50.210.3:8008/play/a05s/index.m3u8
-#EXTINF:-1,Discovery Theater 
-http://189.50.210.3:8008/play/a048/index.m3u8
-#EXTINF:-1,Discovery Turbo
-http://200.113.4.75:7210/play/a026/index.m3u8
-#EXTINF:-1,Discovery World HD
-http://189.50.210.3:8008/play/a02v/index.m3u8
-#EXTINF:-1,Disney HD
-http://189.50.210.3:8008/play/a02t/index.m3u8
-#EXTINF:-1,Disney Jr
-http://200.113.4.75:7210/play/a00l/index.m3u8
-#EXTINF:-1,DW Español
-http://189.50.210.3:8008/play/a06u/index.m3u8
-#EXTINF:-1,E Entertainment
-http://200.113.4.75:7210/play/a00v/index.m3u8
-#EXTINF:-1,Ecuavisa
-http://189.50.210.3:8008/play/a03v/index.m3u8
-#EXTINF:-1,Enlace
-http://200.113.4.75:7210/play/a01q/index.m3u8
-#EXTINF:-1,Esne TV
-http://200.113.4.75:7210/play/a027/index.m3u8
-#EXTINF:-1,ESPN 
-http://189.50.210.3:8008/play/a04h/index.m3u8
-#EXTINF:-1,ESPN 2
-http://200.113.4.75:7210/play/a00n/index.m3u8
-#EXTINF:-1,ESPN 3
-http://200.113.4.75:7210/play/a028/index.m3u8
-#EXTINF:-1,ESPN 4
-http://189.50.210.3:8008/play/a04a/index.m3u8
-#EXTINF:-1,ESPN 5
-http://189.50.210.3:8008/play/a05u/index.m3u8
-#EXTINF:-1,ESPN 6
-http://189.50.210.3:8008/play/a03z/index.m3u8
-#EXTINF:-1,ESPN 6
-http://189.50.210.3:8008/play/a04c/index.m3u8
-#EXTINF:-1,ESPN 7
-http://189.50.210.3:8008/play/a05v/index.m3u8
-#EXTINF:-1,ESPN Premium HD
-http://189.50.210.3:8008/play/a04l/index.m3u8
-#EXTINF:-1,ET Canal El Tiempo
-http://190.102.123.28:8097/play/a0dj/index.m3u8
-#EXTINF:-1,Europa Europa
-http://189.50.210.3:8008/play/a070/index.m3u8
-#EXTINF:-1,Film&Arts
-http://189.50.210.3:8008/play/a06m/index.m3u8
-#EXTINF:-1,Food Network
-http://189.50.210.3:8008/play/a07n/index.m3u8
-#EXTINF:-1,Food Network SD
-#EXTINF:-1,France 24
-http://190.102.123.28:8097/play/a0dh/index.m3u8
-#EXTINF:-1,FX 
-http://189.50.210.3:8008/play/a036/index.m3u8
-#EXTINF:-1,Gol TV
-http://189.50.210.3:8008/play/a06w/index.m3u8
-#EXTINF:-1,Golden
-http://45.5.119.43:4000/play/a0jv/index.m3u8
-#EXTINF:-1,HBO 
-http://189.50.210.3:8008/play/a032/index.m3u8
-#EXTINF:-1,HBO Family 
-http://189.50.210.3:8008/play/a07r/index.m3u8
-#EXTINF:-1,HBO MUNDI
-http://189.50.210.3:8008/play/a071/index.m3u8
-#EXTINF:-1,HBO Plus
-http://200.113.4.75:7210/play/a00i/index.m3u8
-#EXTINF:-1,HBO POP 
-http://189.50.210.3:8008/play/a034/index.m3u8
-#EXTINF:-1,HBO Xtreme 
-http://189.50.210.3:8008/play/a07s/index.m3u8
-#EXTINF:-1,HGTV
-http://189.50.210.3:8008/play/a03n/index.m3u8
-#EXTINF:-1,History 2
-http://189.50.210.3:8008/play/a06l/index.m3u8
-#EXTINF:-1,History Channel
-http://200.113.4.75:7210/play/a01d/index.m3u8
-#EXTINF:-1,HTV
-http://189.50.210.3:8008/play/a03p/index.m3u8
-#EXTINF:-1,Kanal D Drama 
-http://181.78.7.90:12500/play/a07d/index.m3u8
-#EXTINF:-1,La Kalle
-http://181.78.7.90:12500/play/a06g/index.m3u8
-#EXTINF:-1,La Red
-http://200.113.4.75:7210/play/a006/index.m3u8
-#EXTINF:-1,Las Estrellas 
-http://189.50.210.3:8008/play/a07o/index.m3u8
-#EXTINF:-1,La Liga
-http://45.5.119.43:4000/play/a05r/index.m3u8
-#EXTINF:-1,Latina 
-http://189.50.210.3:8008/play/a04m/index.m3u8
-#EXTINF:-1,Lifetime
-http://200.113.4.75:7210/play/a02k/index.m3u8
-#EXTINF:-1,Love Nature
-http://189.50.210.3:8008/play/a03m/index.m3u8
-#EXTINF:-1,LOVENATURENUEVO
-http://181.78.7.90:12500/play/LOVENATURE2/index.m3u8
-#EXTINF:-1,MEGA HD
-http://189.50.210.3:8008/play/a02r/index.m3u8
-#EXTINF:-1,MTV
-http://200.113.4.75:7210/play/a01h/index.m3u8
-#EXTINF:-1,MUSICA POPULAR
-http://181.78.7.90:12500/play/MUSICAPOPULAR/index.m3u8
-#EXTINF:-1,MUSICA REGGAETON
-http://181.78.7.90:12500/play/MUSICAREGGAETON/index.m3u8
-#EXTINF:-1,MUSICA ROMANTICA
-http://181.78.7.90:12500/play/a0cp/index.m3u8
-#EXTINF:-1,MUSICA SALSA
-http://181.78.7.90:12500/play/a0co/index.m3u8
-#EXTINF:-1,Nick 
-http://189.50.210.3:8008/play/a035/index.m3u8
-#EXTINF:-1,Nick Jr
-http://200.113.4.75:7210/play/a025/index.m3u8
-#EXTINF:-1,NTN 24 Horas
-http://189.50.210.3:8008/play/a06p/index.m3u8
-#EXTINF:-1,NTV
-http://200.113.4.75:7210/play/a00o/index.m3u8
-#EXTINF:-1,Panamericana
-http://190.102.123.28:8097/play/a0am/index.m3u8
-#EXTINF:-1,Paramount 
-http://189.50.210.3:8008/play/a04g/index.m3u8
-#EXTINF:-1,Pasiones 
-http://189.50.210.3:8008/play/a07b/index.m3u8
-#EXTINF:-1,Perú Mágico
-http://189.50.210.3:8008/play/a06v/index.m3u8
-#EXTINF:-1,RAI
-http://189.50.210.3:8008/play/a06t/index.m3u8
-#EXTINF:-1,RCN 
-http://189.50.210.3:8008/play/a04i/index.m3u8
-#EXTINF:-1,RCN  2
-http://181.78.7.90:12500/play/a06l/index.m3u8
-#EXTINF:-1,RCN Novelas
-http://200.113.4.75:7210/play/a01t/index.m3u8
-#EXTINF:-1,REC TV
-http://189.50.210.3:8008/play/a075/index.m3u8
-#EXTINF:-1,Señal Colombia
-http://181.78.7.90:12500/play/a06e/index.m3u8
-#EXTINF:-1,ShowVen TV
-http://190.102.123.28:8097/play/a08e/index.m3u8
-#EXTINF:-1,Sony
-http://200.113.4.75:7210/play/a021/index.m3u8
-#EXTINF:-1,Space 
-http://189.50.210.3:8008/play/a02y/index.m3u8
-#EXTINF:-1,STAR CHANNEL 
-http://189.50.210.3:8008/play/a02w/index.m3u8
-#EXTINF:-1,Studio Universal
-http://189.50.210.3:8008/play/a05x/index.m3u8
-#EXTINF:-1,Sun Channel HD
-http://189.50.210.3:8008/play/a07t/index.m3u8
-#EXTINF:-1,SyFy
-http://200.113.4.75:7210/play/a02l/index.m3u8
-#EXTINF:-1,TCM
-http://200.113.4.75:7210/play/a01m/index.m3u8
-#EXTINF:-1,Teleantioquia
-http://181.78.7.90:12500/play/a0b2/index.m3u8
-#EXTINF:-1,Telecafe
-http://181.78.7.90:12500/play/a00c/index.m3u8
-#EXTINF:-1,Telecaribe
-http://181.78.7.90:12500/play/a00d/index.m3u8
-#EXTINF:-1,Teleislas
-http://190.102.123.28:8097/play/a0dg/index.m3u8
-#EXTINF:-1,Telemundo
-http://200.113.4.75:7210/play/a018/index.m3u8
-#EXTINF:-1,Telenovelas
-http://181.78.7.90:12500/play/a0b4/index.m3u8
-#EXTINF:-1,Telepacifico
-http://189.50.210.3:8008/play/a06c/index.m3u8
-#EXTINF:-1,Telesur
-http://181.78.7.90:12500/play/a01o/index.m3u8
-#EXTINF:-1,TLC
-http://200.113.4.75:7210/play/a013/index.m3u8
-#EXTINF:-1,TNT 
-http://181.78.7.90:12500/play/a00p/index.m3u8
-#EXTINF:-1,TNT Novelas
-http://200.113.4.75:7210/play/a02m/index.m3u8
-#EXTINF:-1,TNT Series 
-http://189.50.210.3:8008/play/a04f/index.m3u8
-#EXTINF:-1,TNT SPORTS 2
-http://200.113.4.75:7210/play/a00c/index.m3u8
-#EXTINF:-1,TNT SPORTS 3
-http://200.113.4.75:7210/play/a011/index.m3u8
-#EXTINF:-1,TNT Sports 
-http://189.50.210.3:8008/play/a074/index.m3u8
-#EXTINF:-1,TVE
-http://200.113.4.75:7210/play/a01r/index.m3u8
-#EXTINF:-1,TVN
-http://200.113.4.75:7210/play/a007/index.m3u8
-#EXTINF:-1,TV+
-http://189.50.210.3:8008/play/a07i/index.m3u8
-#EXTINF:-1,TyC Sports
-http://189.50.210.3:8008/play/a06x/index.m3u8
-#EXTINF:-1,Universal
-http://200.113.4.75:7210/play/a01f/index.m3u8
-#EXTINF:-1,USA
-http://189.50.210.3:8008/play/a06z/index.m3u8
-#EXTINF:-1,ViaX
-http://200.113.4.75:7210/play/a014/index.m3u8
-#EXTINF:-1,Via X Esports
-http://189.50.210.3:8008/play/a06y/index.m3u8
-#EXTINF:-1,Warner Channel 
-http://189.50.210.3:8008/play/a02x/index.m3u8
-#EXTINF:-1,WILLAX
-http://189.50.210.3:8008/play/a05m/index.m3u8
-#EXTINF:-1,Win Sports+ HD
-http://189.50.210.3:8008/play/a04n/index.m3u8
-#EXTINF:-1,Zona Latina
-http://200.113.4.75:7210/play/a01i/index.m3u8
+# --- CATEGORÍA: INFANTILES ---
+#EXTINF:-1 group-title="Infantiles",BabyFirst
+[cite_start]http://200.113.4.75:7210/play/a02j/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Infantiles",BABY TV
+[cite_start]http://38.49.128.38:8000/play/a0b9/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Infantiles",Canal INFANTIL
+[cite_start]http://181.78.7.90:12500/play/CANALINFANTIL/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Infantiles",Cartoonito
+[cite_start]http://38.49.128.38:8000/play/a0c1/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Infantiles",Cartoon Network
+[cite_start]http://45.5.119.43:4000/play/a0l0/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Infantiles",Discovery Kids
+[cite_start]http://189.50.210.3:8008/play/a05o/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Infantiles",Disney HD
+[cite_start]http://189.50.210.3:8008/play/a02t/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Infantiles",Disney Jr
+[cite_start]http://200.113.4.75:7210/play/a00l/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Infantiles",Nick
+[cite_start]http://189.50.210.3:8008/play/a035/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Infantiles",Nick Jr
+[cite_start]http://200.113.4.75:7210/play/a025/index.m3u8 [cite: 1]
 
+# --- CATEGORÍA: NACIONALES ---
+#EXTINF:-1 group-title="Nacionales",24 HORAS
+[cite_start]http://200.113.4.75:7210/play/a00m/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Nacionales",America TV
+[cite_start]http://189.50.210.3:8008/play/a04k/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Nacionales",Azteca 7
+[cite_start]http://38.49.128.38:8000/play/a0la/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Nacionales",Canal 13
+[cite_start]http://189.50.210.3:8008/play/a02s/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Nacionales",Canal 5
+[cite_start]http://38.49.128.38:8000/play/a0n6/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Nacionales",Canal 24 Horas
+[cite_start]http://189.50.210.3:8008/play/a07l/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Nacionales",Canal Capital
+[cite_start]http://189.50.210.3:8008/play/a06g/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Nacionales",Canal Congreso
+[cite_start]http://181.78.7.90:12500/play/a003/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Nacionales",Canal Institucional
+[cite_start]http://189.50.210.3:8008/play/a068/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Nacionales",Canal TRO
+[cite_start]http://189.50.210.3:8008/play/a06e/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Nacionales",Caracol
+[cite_start]http://181.78.7.90:12500/play/a06b/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Nacionales",City TV
+[cite_start]http://189.50.210.3:8008/play/a06h/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Nacionales",CHV
+[cite_start]http://200.113.4.75:7210/play/a009/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Nacionales",Ecuavisa
+[cite_start]http://189.50.210.3:8008/play/a03v/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Nacionales",ET Canal El Tiempo
+[cite_start]http://190.102.123.28:8097/play/a0dj/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Nacionales",La Red
+[cite_start]http://200.113.4.75:7210/play/a006/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Nacionales",Latina
+[cite_start]http://189.50.210.3:8008/play/a04m/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Nacionales",MEGA HD
+[cite_start]http://189.50.210.3:8008/play/a02r/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Nacionales",NTN 24 Horas
+[cite_start]http://189.50.210.3:8008/play/a06p/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Nacionales",NTV
+[cite_start]http://200.113.4.75:7210/play/a00o/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Nacionales",Panamericana
+[cite_start]http://190.102.123.28:8097/play/a0am/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Nacionales",Perú Mágico
+[cite_start]http://189.50.210.3:8008/play/a06v/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Nacionales",RCN
+[cite_start]http://189.50.210.3:8008/play/a04i/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Nacionales",RCN 2
+[cite_start]http://181.78.7.90:12500/play/a06l/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Nacionales",Señal Colombia
+[cite_start]http://181.78.7.90:12500/play/a06e/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Nacionales",Teleantioquia
+[cite_start]http://181.78.7.90:12500/play/a0b2/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Nacionales",Telecafe
+[cite_start]http://181.78.7.90:12500/play/a00c/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Nacionales",Telecaribe
+[cite_start]http://181.78.7.90:12500/play/a00d/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Nacionales",Teleislas
+[cite_start]http://190.102.123.28:8097/play/a0dg/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Nacionales",Telepacifico
+[cite_start]http://189.50.210.3:8008/play/a06c/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Nacionales",TVN
+[cite_start]http://200.113.4.75:7210/play/a007/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Nacionales",TV+
+[cite_start]http://189.50.210.3:8008/play/a07i/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Nacionales",WILLAX
+[cite_start]http://189.50.210.3:8008/play/a05m/index.m3u8 [cite: 1]
 
+# --- CATEGORÍA: DEPORTES ---
+#EXTINF:-1 group-title="Deportes",ESPN
+[cite_start]http://189.50.210.3:8008/play/a04h/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Deportes",ESPN 2
+[cite_start]http://200.113.4.75:7210/play/a00n/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Deportes",ESPN 3
+[cite_start]http://200.113.4.75:7210/play/a028/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Deportes",ESPN 4
+[cite_start]http://189.50.210.3:8008/play/a04a/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Deportes",ESPN 5
+[cite_start]http://189.50.210.3:8008/play/a05u/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Deportes",ESPN 6
+[cite_start]http://189.50.210.3:8008/play/a03z/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Deportes",ESPN 7
+[cite_start]http://189.50.210.3:8008/play/a05v/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Deportes",ESPN Premium HD
+[cite_start]http://189.50.210.3:8008/play/a04l/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Deportes",Gol TV
+[cite_start]http://189.50.210.3:8008/play/a06w/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Deportes",La Liga
+[cite_start]http://45.5.119.43:4000/play/a05r/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Deportes",TNT SPORTS 2
+[cite_start]http://200.113.4.75:7210/play/a00c/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Deportes",TNT SPORTS 3
+[cite_start]http://200.113.4.75:7210/play/a011/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Deportes",TNT Sports
+[cite_start]http://189.50.210.3:8008/play/a074/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Deportes",TyC Sports
+[cite_start]http://189.50.210.3:8008/play/a06x/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Deportes",Win Sports+ HD
+[cite_start]http://189.50.210.3:8008/play/a04n/index.m3u8 [cite: 1]
 
-#EXTINF:-1 tvg-id="5ddd7cb2cbb9010009b4fe32" tvg-name="Nick Jr. Club" tvg-logo="https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/colorLogoPNG_1748446493242.png" group-title="Pluto tv" tvg-chno="1402", Nick Jr. Club
-https://stitcher.pluto.tv/stitch/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f1346bbd-b0b3-11f0-ab21-da2bce2249f9
+# --- CATEGORÍA: CULTURALES ---
+#EXTINF:-1 group-title="Culturales",Animal Planet
+[cite_start]http://200.113.4.75:7210/play/a00t/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Culturales",Discovery Channel
+[cite_start]http://200.113.4.75:7210/play/a00s/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Culturales",Discovery Science
+[cite_start]http://189.50.210.3:8008/play/a05s/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Culturales",Discovery Theater
+[cite_start]http://189.50.210.3:8008/play/a048/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Culturales",Discovery World HD
+[cite_start]http://189.50.210.3:8008/play/a02v/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Culturales",DW Español
+[cite_start]http://189.50.210.3:8008/play/a06u/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Culturales",Film&Arts
+[cite_start]http://189.50.210.3:8008/play/a06m/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Culturales",France 24
+[cite_start]http://190.102.123.28:8097/play/a0dh/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Culturales",History Channel
+[cite_start]http://200.113.4.75:7210/play/a01d/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Culturales",History 2
+[cite_start]http://189.50.210.3:8008/play/a06l/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Culturales",Love Nature
+[cite_start]http://189.50.210.3:8008/play/a03m/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Culturales",LOVENATURENUEVO
+[cite_start]http://181.78.7.90:12500/play/LOVENATURE2/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Culturales",Sun Channel HD
+[cite_start]http://189.50.210.3:8008/play/a07t/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Culturales",Telesur
+[cite_start]http://181.78.7.90:12500/play/a01o/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Culturales",Cristovision
+[cite_start]http://190.102.123.28:8097/play/a0dd/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Culturales",Enlace
+[cite_start]http://200.113.4.75:7210/play/a01q/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Culturales",Esne TV
+[cite_start]http://200.113.4.75:7210/play/a027/index.m3u8 [cite: 1]
 
-#EXTINF:-1 tvg-id="619d5e6a093e7c0007489211" tvg-name="Baby Shark TV" tvg-logo="https://images.pluto.tv/channels/619d5e6a093e7c0007489211/colorLogoPNG.png" group-title="Pluto tv" tvg-chno="1410", Baby Shark TV
-https://stitcher.pluto.tv/stitch/hls/channel/619d5e6a093e7c0007489211/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f1346bbd-b0b3-11f0-ab21-da2bce2249f9
+# --- CATEGORÍA: ENTRETENIMIENTO ---
+#EXTINF:-1 group-title="Entretenimiento",AE Mundo
+[cite_start]http://200.113.4.75:7210/play/a012/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Entretenimiento",A&E HD
+[cite_start]http://45.5.119.43:4000/play/a0gt/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Entretenimiento",AMC HD
+[cite_start]http://45.5.119.43:4000/play/a0gu/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Entretenimiento",Antena 3
+[cite_start]http://189.50.210.3:8008/play/a06s/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Entretenimiento",AXN
+[cite_start]http://200.113.4.75:7210/play/a022/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Entretenimiento",Cinecanal HD
+[cite_start]http://189.50.210.3:8008/play/a02z/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Entretenimiento",CINEFAMILIAR
+[cite_start]http://181.78.7.90:12500/play/CINEFAMILIAR/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Entretenimiento",CINE HISPANO
+[cite_start]http://181.78.7.90:12500/play/a0cm/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Entretenimiento",Cinemax
+[cite_start]http://200.113.4.75:7210/play/a020/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Entretenimiento",CINE PREMIUM
+[cite_start]http://181.78.7.90:12500/play/a0cn/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Entretenimiento",DHE
+[cite_start]http://189.50.210.3:8008/play/a07p/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Entretenimiento",Discovery H&H
+[cite_start]http://189.50.210.3:8008/play/a047/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Entretenimiento",Discovery ID
+[cite_start]http://200.113.4.75:7210/play/a01u/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Entretenimiento",Discovery Turbo
+[cite_start]http://200.113.4.75:7210/play/a026/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Entretenimiento",E Entertainment
+[cite_start]http://200.113.4.75:7210/play/a00v/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Entretenimiento",Europa Europa
+[cite_start]http://189.50.210.3:8008/play/a070/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Entretenimiento",FX
+[cite_start]http://189.50.210.3:8008/play/a036/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Entretenimiento",Golden
+[cite_start]http://45.5.119.43:4000/play/a0jv/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Entretenimiento",HBO
+[cite_start]http://189.50.210.3:8008/play/a032/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Entretenimiento",HBO Family
+[cite_start]http://189.50.210.3:8008/play/a07r/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Entretenimiento",HBO MUNDI
+[cite_start]http://189.50.210.3:8008/play/a071/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Entretenimiento",HBO Plus
+[cite_start]http://200.113.4.75:7210/play/a00i/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Entretenimiento",HBO POP
+[cite_start]http://189.50.210.3:8008/play/a034/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Entretenimiento",HBO Xtreme
+[cite_start]http://189.50.210.3:8008/play/a07s/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Entretenimiento",HGTV
+[cite_start]http://189.50.210.3:8008/play/a03n/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Entretenimiento",HTV
+[cite_start]http://189.50.210.3:8008/play/a03p/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Entretenimiento",Kanal D Drama
+[cite_start]http://181.78.7.90:12500/play/a07d/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Entretenimiento",Las Estrellas
+[cite_start]http://189.50.210.3:8008/play/a07o/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Entretenimiento",Lifetime
+[cite_start]http://200.113.4.75:7210/play/a02k/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Entretenimiento",MTV
+[cite_start]http://200.113.4.75:7210/play/a01h/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Entretenimiento",MUSICA ROMANTICA
+[cite_start]http://181.78.7.90:12500/play/a0cp/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Entretenimiento",MUSICA SALSA
+[cite_start]http://181.78.7.90:12500/play/a0co/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Entretenimiento",Paramount
+[cite_start]http://189.50.210.3:8008/play/a04g/index.m3u8 [cite: 2]
+#EXTINF:-1 group-title="Entretenimiento",Pasiones
+[cite_start]http://189.50.210.3:8008/play/a07b/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Entretenimiento",RCN Novelas
+[cite_start]http://200.113.4.75:7210/play/a01t/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Entretenimiento",REC TV
+[cite_start]http://189.50.210.3:8008/play/a075/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Entretenimiento",Sony
+[cite_start]http://200.113.4.75:7210/play/a021/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Entretenimiento",Space
+[cite_start]http://189.50.210.3:8008/play/a02y/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Entretenimiento",STAR CHANNEL
+[cite_start]http://189.50.210.3:8008/play/a02w/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Entretenimiento",Studio Universal
+[cite_start]http://189.50.210.3:8008/play/a05x/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Entretenimiento",SyFy
+[cite_start]http://200.113.4.75:7210/play/a02l/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Entretenimiento",TCM
+[cite_start]http://200.113.4.75:7210/play/a01m/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Entretenimiento",Telemundo
+[cite_start]http://200.113.4.75:7210/play/a018/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Entretenimiento",Telenovelas
+[cite_start]http://181.78.7.90:12500/play/a0b4/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Entretenimiento",TLC
+[cite_start]http://200.113.4.75:7210/play/a013/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Entretenimiento",TNT
+[cite_start]http://181.78.7.90:12500/play/a00p/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Entretenimiento",TNT Novelas
+[cite_start]http://200.113.4.75:7210/play/a02m/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Entretenimiento",TNT Series
+[cite_start]http://189.50.210.3:8008/play/a04f/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Entretenimiento",TVE
+[cite_start]http://200.113.4.75:7210/play/a01r/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Entretenimiento",Universal
+[cite_start]http://200.113.4.75:7210/play/a01f/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Entretenimiento",USA
+[cite_start]http://189.50.210.3:8008/play/a06z/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Entretenimiento",ViaX
+[cite_start]http://200.113.4.75:7210/play/a014/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Entretenimiento",Via X Esports
+[cite_start]http://189.50.210.3:8008/play/a06y/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Entretenimiento",Warner Channel
+[cite_start]http://189.50.210.3:8008/play/a02x/index.m3u8 [cite: 1]
+#EXTINF:-1 group-title="Entretenimiento",Zona Latina
+[cite_start]http://200.113.4.75:7210/play/a01i/index.m3u8 [cite: 1]
 
-#EXTINF:-1 tvg-id="5ebac49ce4dc8b00078b23bc" tvg-name="Babyfirst" tvg-logo="https://images.pluto.tv/channels/5ebac49ce4dc8b00078b23bc/colorLogoPNG.png" group-title="Pluto tv" tvg-chno="1415", Babyfirst
-https://stitcher.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f1346bbd-b0b3-11f0-ab21-da2bce2249f9
-
-#EXTINF:-1 tvg-id="5dcde2ac4bc6c500094ab45b" tvg-name="Pluto TV Junior" tvg-logo="https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/colorLogoPNG.png" group-title="Pluto tv" tvg-chno="1420", Pluto TV Junior
-https://stitcher.pluto.tv/stitch/hls/channel/5dcde2ac4bc6c500094ab45b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f1346bbd-b0b3-11f0-ab21-da2bce2249f9
-
-#EXTINF:-1 tvg-id="5f29ada4bdaebd000708d49d" tvg-name="Barney" tvg-logo="https://images.pluto.tv/channels/5f29ada4bdaebd000708d49d/colorLogoPNG.png" group-title="Pluto tv" tvg-chno="1425", Barney
-https://stitcher.pluto.tv/stitch/hls/channel/5f29ada4bdaebd000708d49d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f1346bbd-b0b3-11f0-ab21-da2bce2249f9
-
-#EXTINF:-1 tvg-id="5f4d3d06fb60d8000781fce8" tvg-name="El Reino Infantil" tvg-logo="https://images.pluto.tv/channels/5f4d3d06fb60d8000781fce8/colorLogoPNG.png" group-title="Pluto tv" tvg-chno="1435", El Reino Infantil
-https://stitcher.pluto.tv/stitch/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f1346bbd-b0b3-11f0-ab21-da2bce2249f9
-
-#EXTINF:-1 tvg-id="6824cda00101510f9eeaa011" tvg-name="Nickelodeon Clásico" tvg-logo="https://images.pluto.tv/channels/6824cda00101510f9eeaa011/colorLogoPNG_1750110888810.png" group-title="Pluto tv" tvg-chno="1440", Nickelodeon Clásico
-https://stitcher.pluto.tv/stitch/hls/channel/6824cda00101510f9eeaa011/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f1346bbd-b0b3-11f0-ab21-da2bce2249f9
-
-#EXTINF:-1 tvg-id="66c79221b1a34600087e264d" tvg-name="Hey Arnold!" tvg-logo="https://images.pluto.tv/channels/66c79221b1a34600087e264d/colorLogoPNG.png" group-title="Pluto tv" tvg-chno="1441", Hey Arnold!
-https://stitcher.pluto.tv/stitch/hls/channel/66c79221b1a34600087e264d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f1346bbd-b0b3-11f0-ab21-da2bce2249f9
-
-#EXTINF:-1 tvg-id="6759ee82bd523200083b4f0f" tvg-name="Avatar: La Leyenda de Aang" tvg-logo="https://images.pluto.tv/channels/6759ee82bd523200083b4f0f/colorLogoPNG.png" group-title="Pluto tv" tvg-chno="1443", Avatar: La Leyenda de Aang
-https://stitcher.pluto.tv/stitch/hls/channel/6759ee82bd523200083b4f0f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f1346bbd-b0b3-11f0-ab21-da2bce2249f9
-
-#EXTINF:-1 tvg-id="5ea7215005d66d0007e8128a" tvg-name="Rugrats" tvg-logo="https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/colorLogoPNG.png" group-title="Pluto tv" tvg-chno="1445", Rugrats
-https://stitcher.pluto.tv/stitch/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f1346bbd-b0b3-11f0-ab21-da2bce2249f9
-
-#EXTINF:-1 tvg-id="645952687cb4b100084ed52e" tvg-name="Nickelodeon Toons" tvg-logo="https://images.pluto.tv/channels/645952687cb4b100084ed52e/colorLogoPNG_1754038340046.png" group-title="Pluto tv" tvg-chno="1455", Nickelodeon Toons
-https://stitcher.pluto.tv/stitch/hls/channel/645952687cb4b100084ed52e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f1346bbd-b0b3-11f0-ab21-da2bce2249f9
-
-#EXTINF:-1 tvg-id="6254598f5083f800076d8563" tvg-name="Bob Esponja Pantalones Cuadrados" tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG_1753975707864.png" group-title="Pluto tv" tvg-chno="1460", Bob Esponja Pantalones Cuadrados
-https://stitcher.pluto.tv/stitch/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f1346bbd-b0b3-11f0-ab21-da2bce2249f9
-
-#EXTINF:-1 tvg-id="6322099c822bbc00074857db" tvg-name="Los Padrinos Mágicos" tvg-logo="https://images.pluto.tv/channels/6322099c822bbc00074857db/colorLogoPNG-1667576393608.png" group-title="Pluto tv" tvg-chno="1465", Los Padrinos Mágicos
-https://stitcher.pluto.tv/stitch/hls/channel/6322099c822bbc00074857db/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f1346bbd-b0b3-11f0-ab21-da2bce2249f9
-
-#EXTINF:-1 tvg-id="63dd5d7a4e83e700088fbca8" tvg-name="Las Tortugas Ninja" tvg-logo="https://images.pluto.tv/channels/63dd5d7a4e83e700088fbca8/colorLogoPNG.png" group-title="Pluto tv" tvg-chno="1470", Las Tortugas Ninja
-https://stitcher.pluto.tv/stitch/hls/channel/63dd5d7a4e83e700088fbca8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f1346bbd-b0b3-11f0-ab21-da2bce2249f9
-
-#EXTINF:-1 tvg-id="5dd6dae8ce788b0009eaf77b" tvg-name="Pluto TV Kids" tvg-logo="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png" group-title="Pluto tv" tvg-chno="1480", Pluto TV Kids
-https://stitcher.pluto.tv/stitch/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f1346bbd-b0b3-11f0-ab21-da2bce2249f9
-
-#EXTINF:-1 tvg-id="5ee92e72fb286e0007285fec" tvg-name="Naruto" tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png" group-title="Pluto tv" tvg-chno="1259", Naruto
-https://stitcher.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
-
-#EXTINF:-1 tvg-id="64c92fea3c3344000869e8a9" tvg-name="Naruto Shippuden" tvg-logo="https://images.pluto.tv/channels/64c92fea3c3344000869e8a9/colorLogoPNG.png" group-title="Pluto tv" tvg-chno="1260", Naruto Shippuden
-https://stitcher.pluto.tv/stitch/hls/channel/64c92fea3c3344000869e8a9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
-
-#EXTINF:-1 tvg-id="656f37f257fe4a000884dfee" tvg-name="Boruto: Naruto Next Generations" tvg-logo="https://images.pluto.tv/channels/656f37f257fe4a000884dfee/colorLogoPNG.png" group-title="Pluto tv" tvg-chno="1261", Boruto: Naruto Next Generations
-https://stitcher.pluto.tv/stitch/hls/channel/656f37f257fe4a000884dfee/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
-
-#EXTINF:-1 tvg-id="65d916a2f7f0af0008b6540d" tvg-name="Hunter x Hunter" tvg-logo="https://images.pluto.tv/channels/65d916a2f7f0af0008b6540d/colorLogoPNG.png" group-title="Pluto tv" tvg-chno="1263", Hunter x Hunter
-https://stitcher.pluto.tv/stitch/hls/channel/65d916a2f7f0af0008b6540d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
-
-#EXTINF:-1 tvg-id="626c2ed933a2890007e91422" tvg-name="Death Note" tvg-logo="https://images.pluto.tv/channels/626c2ed933a2890007e91422/colorLogoPNG.png" group-title="Pluto tv" tvg-chno="1264", Death Note
-https://stitcher.pluto.tv/stitch/hls/channel/626c2ed933a2890007e91422/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
-
-#EXTINF:-1 tvg-id="5fceaab478f2af00080ff51f" tvg-name="Yu-Gi-Oh" tvg-logo="https://images.pluto.tv/channels/5fceaab478f2af00080ff51f/colorLogoPNG.png" group-title="Pluto tv" tvg-chno="1269", Yu-Gi-Oh
-https://stitcher.pluto.tv/stitch/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
-
-#EXTINF:-1 tvg-id="64666345f3f5b1000882bfb4" tvg-name="Captain Tsubasa" tvg-logo="https://images.pluto.tv/channels/64666345f3f5b1000882bfb4/colorLogoPNG.png" group-title="Pluto tv" tvg-chno="1271", Captain Tsubasa
-https://stitcher.pluto.tv/stitch/hls/channel/64666345f3f5b1000882bfb4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f1346bbd-b0b3-11f0-ab21-da2bce2249f9
+# --- CATEGORÍA: PLUTO TV ---
+#EXTINF:-1 group-title="Pluto tv",Nick Jr. Club
+[cite_start]https://stitcher.pluto.tv/stitch/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f1346bbd-b0b3-11f0-ab21-da2bce2249f9 [cite: 1]
+#EXTINF:-1 group-title="Pluto tv",Baby Shark TV
+[cite_start]https://stitcher.pluto.tv/stitch/hls/channel/619d5e6a093e7c0007489211/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f1346bbd-b0b3-11f0-ab21-da2bce2249f9 [cite: 1]
+#EXTINF:-1 group-title="Pluto tv",Pluto TV Junior
+[cite_start]https://stitcher.pluto.tv/stitch/hls/channel/5dcde2ac4bc6c500094ab45b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f1346bbd-b0b3-11f0-ab21-da2bce2249f9 [cite: 1]
+#EXTINF:-1 group-title="Pluto tv",Barney
+[cite_start]https://stitcher.pluto.tv/stitch/hls/channel/5f29ada4bdaebd000708d49d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f1346bbd-b0b3-11f0-ab21-da2bce2249f9 [cite: 1]
+#EXTINF:-1 group-title="Pluto tv",El Reino Infantil
+[cite_start]https://stitcher.pluto.tv/stitch/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f1346bbd-b0b3-11f0-ab21-da2bce2249f9 [cite: 1]
+#EXTINF:-1 group-title="Pluto tv",Nickelodeon Clásico
+[cite_start]https://stitcher.pluto.tv/stitch/hls/channel/6824cda00101510f9eeaa011/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f1346bbd-b0b3-11f0-ab21-da2bce2249f9 [cite: 3]
+#EXTINF:-1 group-title="Pluto tv",Hey Arnold!
+[cite_start]https://stitcher.pluto.tv/stitch/hls/channel/66c79221b1a34600087e264d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f1346bbd-b0b3-11f0-ab21-da2bce2249f9 [cite: 4]
+#EXTINF:-1 group-title="Pluto tv",Avatar: La Leyenda de Aang
+[cite_start]https://stitcher.pluto.tv/stitch/hls/channel/6759ee82bd523200083b4f0f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f1346bbd-b0b3-11f0-ab21-da2bce2249f9 [cite: 1]
+#EXTINF:-1 group-title="Pluto tv",Rugrats
+[cite_start]https://stitcher.pluto.tv/stitch/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f1346bbd-b0b3-11f0-ab21-da2bce2249f9 [cite: 1]
+#EXTINF:-1 group-title="Pluto tv",Bob Esponja
+[cite_start]https://stitcher.pluto.tv/stitch/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f1346bbd-b0b3-11f0-ab21-da2bce2249f9 [cite: 1]
+#EXTINF:-1 group-title="Pluto tv",Los Padrinos Mágicos
+[cite_start]https://stitcher.pluto.tv/stitch/hls/channel/6322099c822bbc00074857db/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f1346bbd-b0b3-11f0-ab21-da2bce2249f9 [cite: 1]
+#EXTINF:-1 group-title="Pluto tv",Las Tortugas Ninja
+[cite_start]https://stitcher.pluto.tv/stitch/hls/channel/63dd5d7a4e83e700088fbca8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f1346bbd-b0b3-11f0-ab21-da2bce2249f9 [cite: 1]
+#EXTINF:-1 group-title="Pluto tv",Naruto
+[cite_start]https://stitcher.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a [cite: 1]
+#EXTINF:-1 group-title="Pluto tv",Naruto Shippuden
+[cite_start]https://stitcher.pluto.tv/stitch/hls/channel/64c92fea3c3344000869e8a9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a [cite: 1]
+#EXTINF:-1 group-title="Pluto tv",Boruto
+[cite_start]https://stitcher.pluto.tv/stitch/hls/channel/656f37f257fe4a000884dfee/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a [cite: 5]
+#EXTINF:-1 group-title="Pluto tv",Death Note
+[cite_start]https://stitcher.pluto.tv/stitch/hls/channel/626c2ed933a2890007e91422/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a [cite: 1]
+#EXTINF:-1 group-title="Pluto tv",Yu-Gi-Oh
+[cite_start]https://stitcher.pluto.tv/stitch/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a [cite: 1]
