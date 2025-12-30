@@ -283,8 +283,8 @@ http://189.50.210.3:8008/play/a05m/index.m3u8
 http://189.50.210.3:8008/play/a04n/index.m3u8
 #EXTINF:-1,Zona Latina
 http://200.113.4.75:7210/play/a01i/index.m3u8
-#EXTINF:-1, Masha y el Oso Live
-https://youtube.com/watch?v=TzOAQqIb-rg
+#EXTINF:-1, Masha y el Oso
+https://ytdl.fly.dev/watch/TzOAQqIb-rg/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="5ddd7cb2cbb9010009b4fe32" tvg-name="Nick Jr. Club" tvg-logo="https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/colorLogoPNG_1748446493242.png" group-title="Pluto tv" tvg-chno="1402", Nick Jr. Club
