@@ -283,8 +283,10 @@ http://189.50.210.3:8008/play/a05m/index.m3u8
 http://189.50.210.3:8008/play/a04n/index.m3u8
 #EXTINF:-1,Zona Latina
 http://200.113.4.75:7210/play/a01i/index.m3u8
-#EXTINF:-1, Masha y el Oso (Baja Calidad)
-https://www.youtube.com/watch?v=TzOAQqIb-rg&quality=360p
+#EXTINF:-1 tvg-id="Masha247", Masha y el Oso 
+#EXTVLCOPT:input-repeat=-1
+#EXTVLCOPT:loop
+https://www.dropbox.com/scl/fi/i5t3qlzbyn9yh612y4dz6/YTDown.com_YouTube_Media_7ZpZ2fvrgjk_003_480p.mp4?rlkey=4ohv9wvj5romnqhr7qq22dwxn&st=dbcvzeja&dl=1
 
 
 #EXTINF:-1 tvg-id="5ddd7cb2cbb9010009b4fe32" tvg-name="Nick Jr. Club" tvg-logo="https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/colorLogoPNG_1748446493242.png" group-title="Pluto tv" tvg-chno="1402", Nick Jr. Club
