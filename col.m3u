@@ -173,8 +173,8 @@ http://200.113.4.75:7210/play/a02k/index.m3u8
 http://189.50.210.3:8008/play/a03m/index.m3u8
 #EXTINF:-1,LOVENATURENUEVO
 http://181.78.7.90:12500/play/LOVENATURE2/index.m3u8
-#EXTINF:-1,Looney Tunes 24/7
-http://192.168.1.113:8080/looney.ts
+#EXTINF:-1, Looney Tunes 24/7
+https://www.dropbox.com/scl/fi/rcm9zkbuekote2j31m2aj/completo.mp4?rlkey=92b676fui2fw3bwoitpejl5tr&st=k3wga8rm&raw=1
 #EXTINF:-1,MEGA HD
 http://189.50.210.3:8008/play/a02r/index.m3u8
 #EXTINF:-1,MTV
