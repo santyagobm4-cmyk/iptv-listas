@@ -92,6 +92,9 @@ http://189.50.210.3:8008/play/a04i/index.m3u8
 http://181.78.7.90:12500/play/a06e/index.m3u8
 #EXTINF:-1 group-title="Deportes",Win Sports+ HD
 http://189.50.210.3:8008/play/a04n/index.m3u
+#EXTINF:-1 group-title="Infantiles",Looney Tunes 24/7
+udp://@239.0.0.1:1234
+
 
 
 #EXTINF:-1 tvg-id="5ddd7cb2cbb9010009b4fe32" tvg-name="Nick Jr. Club" tvg-logo="https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/colorLogoPNG_1748446493242.png" group-title="Infantiles" tvg-chno="1402", Nick Jr. Club
