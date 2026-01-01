@@ -174,7 +174,7 @@ http://189.50.210.3:8008/play/a03m/index.m3u8
 #EXTINF:-1,LOVENATURENUEVO
 http://181.78.7.90:12500/play/LOVENATURE2/index.m3u8
 #EXTINF:-1,los Looney Tunes 24/7
-udp://@239.0.0.1:1234
+http://192.168.1.113:8080/looney.ts
 #EXTINF:-1,MEGA HD
 http://189.50.210.3:8008/play/a02r/index.m3u8
 #EXTINF:-1,MTV
