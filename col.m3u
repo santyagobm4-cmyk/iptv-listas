@@ -356,22 +356,52 @@ https://stitcher.pluto.tv/stitch/hls/channel/64666345f3f5b1000882bfb4/master.m3u
 
 
 
+#EXTM3U
 
-https://dl.dropbox.com/scl/fi/zxen7ren2c4xkl6hnu1s1/Net.txt?rlkey=y7zjd9539p3t83q9xj5bu04os&st=4ix4582r&dl=0
+#EXTINF:-1, Peliculas Net
+https://dl.dropbox.com/scl/fi/zxen7ren2c4xkl6hnu1s1/Net.txt?rlkey=y7zjd9539p3t83q9xj5bu04os&st=4ix4582r&dl=1
+
+#EXTINF:-1, Disney (Posible Error 404)
 https://raw.githubusercontent.com/Imag7/Imgjk/main/Dis:Redbox
+
+#EXTINF:-1, Star (Posible Error 404)
 https://raw.githubusercontent.com/Imag7/Imgjk/main/Star:Redbox
+
+#EXTINF:-1, Prime (Posible Error 404)
 https://raw.githubusercontent.com/Imag7/Imgjk/main/Prim:Redbox
+
+#EXTINF:-1, Paramount (Posible Error 404)
 https://raw.githubusercontent.com/Imag7/Imgjk/main/Par:Redbox
+
+#EXTINF:-1, Max (Posible Error 404)
 https://raw.githubusercontent.com/Imag7/Imgjk/main/Max:Redbox
+
+#EXTINF:-1, Apple TV (Posible Error 404)
 https://raw.githubusercontent.com/Imag7/Imgjk/main/Apl:Redbox
+
+#EXTINF:-1, Hulu (Posible Error 404)
 https://raw.githubusercontent.com/Imag7/Imgjk/main/Hu:Redbox
+
+#EXTINF:-1, Anime
 https://raw.githubusercontent.com/BrianRVP/Prueba-plugins-/main/Anime:Redbox
 
-https://dl.dropbox.com/scl/fi/fj7wclwpustu546qwviwa/Acci-n.txt?rlkey=52c0hig6wdi29xgfaibk3ps19&st=bjgvdizs&dl=0
-https://dl.dropbox.com/scl/fi/k0hqu2eme851k2xncuf5g/Infantiles.txt?rlkey=07v1e3cdjqf0mf6vcvvcjx59m&st=fh126bpe&dl=0
-https://dl.dropbox.com/scl/fi/3y303kpx3veg8mv4gh5fh/Drama.txt?rlkey=b0an8o64d8hq3x7tssamoqbpo&st=vhl4p5ju&dl=0
-https://dl.dropbox.com/scl/fi/v9zjlpu2y8hw35loapcp8/Marvel.txt?rlkey=bdkg2qp23cxjrwt01ezu3dz36&st=b2krtkh9&dl=0
-https://dl.dropbox.com/scl/fi/hz610kqaixbzke7p3iqaa/Dc-Comics.txt?rlkey=0sokm5suvyqfq1pwqu6m8mecm&st=8evec6bt&dl=0
-https://dl.dropbox.com/scl/fi/n0wgpzf5afjz3myn5ynfq/Belico.txt?rlkey=sz9gbaav2ltw2te48ngzyfcm1&st=0564yc0n&dl=0
-https://dl.dropbox.com/scl/fi/bohpx4awj28otnjtg51og/Animacion.txt?rlkey=0hqwuvblpeairgexl5p9xigd5&st=w6mhs76x&dl=0
+#EXTINF:-1, Accion
+https://dl.dropbox.com/scl/fi/fj7wclwpustu546qwviwa/Acci-n.txt?rlkey=52c0hig6wdi29xgfaibk3ps19&st=bjgvdizs&dl=1
 
+#EXTINF:-1, Infantiles
+https://dl.dropbox.com/scl/fi/k0hqu2eme851k2xncuf5g/Infantiles.txt?rlkey=07v1e3cdjqf0mf6vcvvcjx59m&st=fh126bpe&dl=1
+
+#EXTINF:-1, Drama
+https://dl.dropbox.com/scl/fi/3y303kpx3veg8mv4gh5fh/Drama.txt?rlkey=b0an8o64d8hq3x7tssamoqbpo&st=vhl4p5ju&dl=1
+
+#EXTINF:-1, Marvel
+https://dl.dropbox.com/scl/fi/v9zjlpu2y8hw35loapcp8/Marvel.txt?rlkey=bdkg2qp23cxjrwt01ezu3dz36&st=b2krtkh9&dl=1
+
+#EXTINF:-1, DC Comics
+https://dl.dropbox.com/scl/fi/hz610kqaixbzke7p3iqaa/Dc-Comics.txt?rlkey=0sokm5suvyqfq1pwqu6m8mecm&st=8evec6bt&dl=1
+
+#EXTINF:-1, Belico
+https://dl.dropbox.com/scl/fi/n0wgpzf5afjz3myn5ynfq/Belico.txt?rlkey=sz9gbaav2ltw2te48ngzyfcm1&st=0564yc0n&dl=1
+
+#EXTINF:-1, Animacion
+https://dl.dropbox.com/scl/fi/bohpx4awj28otnjtg51og/Animacion.txt?rlkey=0hqwuvblpeairgexl5p9xigd5&st=w6mhs76x&dl=1
