@@ -174,7 +174,7 @@ http://189.50.210.3:8008/play/a03m/index.m3u8
 #EXTINF:-1,LOVENATURENUEVO
 http://181.78.7.90:12500/play/LOVENATURE2/index.m3u8
 #EXTINF:-1, Looney Tunes 24/7 
-http://192.168.1.113:8080/canal.m3u8
+http://192.168.1.113:8080/canales%20tunes/canal.m3u8
 #EXTINF:-1, Masha y el Oso 24/7 
 http://192.168.1.113:8080/masha/masha.m3u8
 #EXTINF:-1,MEGA HD
