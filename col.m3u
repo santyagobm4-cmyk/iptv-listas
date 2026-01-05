@@ -155,6 +155,8 @@ http://189.50.210.3:8008/play/a06l/index.m3u8
 http://200.113.4.75:7210/play/a01d/index.m3u8
 #EXTINF:-1,HTV
 http://189.50.210.3:8008/play/a03p/index.m3u8
+#EXTINF:-1,johnny test 24/7
+http://192.168.1.116:8080/johnny_canal/johnny.m3u8
 #EXTINF:-1,Kanal D Drama 
 http://181.78.7.90:12500/play/a07d/index.m3u8
 #EXTINF:-1,La Kalle
@@ -174,7 +176,7 @@ http://189.50.210.3:8008/play/a03m/index.m3u8
 #EXTINF:-1,LOVENATURENUEVO
 http://181.78.7.90:12500/play/LOVENATURE2/index.m3u8
 #EXTINF:-1, Los Padrinos Magicos 24/7
-http://192.168.1.116:8080/padrinos_canal/padrinos.m3u8v
+http://192.168.1.116:8080/padrinos_canal/padrinos.m3u8
 #EXTINF:-1, Looney Tunes 24/7 
 http://192.168.1.116:8080/tunes_canal/tunes.m3u8
 #EXTINF:-1, Masha y el Oso 24/7 
