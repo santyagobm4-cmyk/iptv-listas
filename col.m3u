@@ -38,6 +38,10 @@ http://200.113.4.75:7210/play/a020/index.m3u8
 http://181.78.7.90:12500/play/a0cn/index.m3u8
 #EXTINF:-1,City TV
 http://189.50.210.3:8008/play/a06h/index.m3u8
+#EXTINF:-1,DSPORTS 
+http://190.108.83.69:8000/play/a05w/index.m3u8
+#EXTINF:-1,DSPORTS 2 
+http://179.51.136.19:8000/play/a112/index.m3u8
 #EXTINF:-1,DHE
 http://189.50.210.3:8008/play/a07p/index.m3u8
 #EXTINF:-1,Discovery Channel
@@ -67,7 +71,7 @@ http://189.50.210.3:8008/play/a06u/index.m3u8
 #EXTINF:-1,E Entertainment
 http://200.113.4.75:7210/play/a00v/index.m3u8
 #EXTINF:-1,ESPN 
-http://189.50.210.3:8008/play/a04h/index.m3u8
+http://138.36.253.13:8008/play/a01t/index.m3u8
 #EXTINF:-1,ESPN Premium 
 http://189.50.210.3:8008/play/a04l/index.m3u8
 #EXTINF:-1,France 24
@@ -204,5 +208,7 @@ http://189.50.210.3:8008/play/a06y/index.m3u8
 http://189.50.210.3:8008/play/a02x/index.m3u8
 #EXTINF:-1,WILLAX
 http://189.50.210.3:8008/play/a05m/index.m3u8
-#EXTINF:-1,Win Sports+ HD
+#EXTINF:-1,Win Sports
+http://190.61.55.34:2401/play/win/index.m3u8
+#EXTINF:-1,Win Sports+ 
 http://189.50.210.3:8008/play/a04n/index.m3u8
