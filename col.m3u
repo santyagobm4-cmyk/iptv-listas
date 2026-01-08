@@ -1,5 +1,4 @@
 #EXTM3U
-elmartin es gey
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/a-e.png",A&E
 http://45.5.119.43:4000/play/a0gt/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/amc-us.png",AMC
