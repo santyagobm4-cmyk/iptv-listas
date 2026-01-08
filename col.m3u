@@ -13,8 +13,7 @@ http://38.49.128.38:8000/play/a0la/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/baby-tv-us.png",BABY TV
 http://38.49.128.38:8000/play/a0b9/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/canal-5-mx.png",Canal 5
-http://38.49.128.38:8000/play/a0n6/index.m3u8#EXTINF:-1,CanaINFANTIL
-http://181.78.7.90:12500/play/CANALINFANTIL/indexl .m3u8
+http://38.49.128.38:8000/play/a0n6/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/CaracolTV2025.png",Caracol
 http://181.78.7.90:12500/play/a06e/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cartoonito-us.png",Cartoonito
