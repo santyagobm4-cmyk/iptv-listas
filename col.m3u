@@ -98,13 +98,13 @@ http://181.78.7.90:12500/play/a06e/index.m3u8
 http://200.113.4.75:7210/play/a021/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/SpaceLogo.svg", Space
 http://189.50.210.3:8008/play/a02y/index.m3u8
-#EXTINF:-1,STAR CHANNEL 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Star_Channel_2020.svg",Star channel
 http://189.50.210.3:8008/play/a02w/index.m3u8
-#EXTINF:-1,Studio Universal
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png",Studio universal
 http://189.50.210.3:8008/play/a05x/index.m3u8
-#EXTINF:-1,Sun Channel HD
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Sun_Channel#/media/Archivo:Sun_Channel_Logo_2022.webp",Sun channel
 http://189.50.210.3:8008/play/a07t/index.m3u8
-#EXTINF:-1,SyFy
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/SYFY.svg",syfy
 http://200.113.4.75:7210/play/a02l/index.m3u8
 #EXTINF:-1,TCM
 http://200.113.4.75:7210/play/a01m/index.m3u8
