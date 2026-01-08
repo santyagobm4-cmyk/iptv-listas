@@ -88,15 +88,9 @@ http://189.50.210.3:8008/play/a035/index.m3u8
 http://200.113.4.75:7210/play/a025/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/paramount-network-ar.png",Paramount
 http://189.50.210.3:8008/play/a04g/index.m3u8
-#EXTINF:-1,RCN 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CanalRCN2023.png",RCN
 http://189.50.210.3:8008/play/a04i/index.m3u8
-#EXTINF:-1,RCN  2
-http://181.78.7.90:12500/play/a06l/index.m3u8
-#EXTINF:-1,RCN Novelas
-http://200.113.4.75:7210/play/a01t/index.m3u8
-#EXTINF:-1,REC TV
-http://189.50.210.3:8008/play/a075/index.m3u8
-#EXTINF:-1,Señal Colombia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Se%C3%B1al_Colombia_logo.svg",señal colombia
 http://181.78.7.90:12500/play/a06e/index.m3u8
 #EXTINF:-1,Sony
 http://200.113.4.75:7210/play/a021/index.m3u8
