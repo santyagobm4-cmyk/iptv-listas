@@ -1,5 +1,7 @@
 #EXTM3U
 
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/a-and-e-ar.png",A&E
 http://45.5.119.43:4000/play/a0gt/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/amc-us.png",AMC
@@ -126,7 +128,7 @@ http://189.50.210.3:8008/play/a06x/index.m3u8
 http://189.50.210.3:8008/play/a06z/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",Warner Channel
 http://189.50.210.3:8008/play/a02x/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Win_Sports_nuevo_logo.svg/512px-Win_Sports_nuevo_logo.svg.png",Win Sports
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1813003191585263616/QTMBM1_W_400x400.png",Win Sports
 http://190.61.55.34:2401/play/win/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png",Win Sports+
 http://189.50.210.3:8008/play/a04n/index.m3u8
