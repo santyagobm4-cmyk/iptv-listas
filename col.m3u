@@ -94,7 +94,7 @@ http://189.50.210.3:8008/play/a04i/index.m3u8
 http://181.78.7.90:12500/play/a06e/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", Sony
 http://200.113.4.75:7210/play/a021/index.m3u8
-#EXTINF:-1,Space 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/SpaceLogo.svg", Space
 http://189.50.210.3:8008/play/a02y/index.m3u8
 #EXTINF:-1,STAR CHANNEL 
 http://189.50.210.3:8008/play/a02w/index.m3u8
