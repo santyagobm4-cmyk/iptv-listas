@@ -14,7 +14,7 @@ http://189.50.210.3:8008/play/a06s/index.m3u8
 http://200.113.4.75:7210/play/a022/index.m3u8
 #EXTINF:-1,Azteca 7 
 http://38.49.128.38:8000/play/a0la/index.m3u8
-#EXTINF:-1,BABY TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/baby-tv-us.png",BABY TV
 http://38.49.128.38:8000/play/a0b9/index.m3u8
 #EXTINF:-1,Canal 5 
 http://38.49.128.38:8000/play/a0n6/index.m3u8
