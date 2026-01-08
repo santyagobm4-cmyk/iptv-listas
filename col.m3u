@@ -40,8 +40,6 @@ http://181.78.7.90:12500/play/a0cn/index.m3u8
 http://189.50.210.3:8008/play/a06h/index.m3u8
 #EXTINF:-1,DSPORTS 
 http://190.108.83.69:8000/play/a05w/index.m3u8
-#EXTINF:-1,DSPORTS 2 
-http://179.51.136.19:8000/play/a112/index.m3u8
 #EXTINF:-1,DHE
 http://189.50.210.3:8008/play/a07p/index.m3u8
 #EXTINF:-1,Discovery Channel
@@ -70,11 +68,13 @@ http://148.222.225.136:8004/play/a0is/index.m3u8
 http://189.50.210.3:8008/play/a06u/index.m3u8
 #EXTINF:-1,E Entertainment
 http://200.113.4.75:7210/play/a00v/index.m3u8
-#EXTINF:-1,ESPN DEPORTES
-http://148.113.207.98:8000/play/a004/index.m3u8
 #EXTINF:11,ESPN 
 #EXTVLCOPT:network-caching=1000
 http://189.50.210.3:8008/play/a038/index.m3u8
+#EXTINF;-1,ESPN 2 
+http://45.173.72.26:2072/play/a05d
+#EXTINF:11,ESPN DEPORTES
+http://148.113.207.98:8000/play/a004/index.m3u8
 #EXTINF:-1,ESPN Premium 
 http://189.50.210.3:8008/play/a04l/index.m3u8
 #EXTINF:-1,France 24
