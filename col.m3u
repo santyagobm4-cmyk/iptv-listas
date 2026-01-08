@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,CINE INFANTIL
+https://raw.githubusercontent.com/santyagobm4-cmyk/iptv-listas/refs/heads/main/infantiles.m3u
 #EXTINF:-1,CINE ACCION
 https://raw.githubusercontent.com/santyagobm4-cmyk/iptv-listas/refs/heads/main/accion.m3u
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/a-and-e-ar.png",A&E
