@@ -104,47 +104,29 @@ http://189.50.210.3:8008/play/a05x/index.m3u8
 http://189.50.210.3:8008/play/a07t/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/SYFY.svg",syfy
 http://200.113.4.75:7210/play/a02l/index.m3u8
-#EXTINF:-1,TCM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TCM_Latam_logo.svg",TCM
 http://200.113.4.75:7210/play/a01m/index.m3u8
-#EXTINF:-1,Telecaribe
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Telecaribe_%28nuevo_logo_con_color%29.png",Telecaribe
 http://181.78.7.90:12500/play/a00d/index.m3u8
-#EXTINF:-1,Telemundo
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg",Telemundo
 http://200.113.4.75:7210/play/a018/index.m3u8
-#EXTINF:-1,Telenovelas
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png",Telenovelas
 http://181.78.7.90:12500/play/a0b4/index.m3u8
-#EXTINF:-1,Telepacifico
-http://189.50.210.3:8008/play/a06c/index.m3u8
-#EXTINF:-1,Telesur
-http://181.78.7.90:12500/play/a01o/index.m3u8
-#EXTINF:-1,TLC
-http://200.113.4.75:7210/play/a013/index.m3u8
-#EXTINF:-1,TNT 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TNT_Logo_2016.svg",TNT
 http://181.78.7.90:12500/play/a00p/index.m3u8
-#EXTINF:-1,TNT Novelas
+#EXTINF:-1 tvg-logo="https://doblaje.fandom.com/es/wiki/Categor%C3%ADa:Series_transmitidas_por_TNT_Novelas?file=TNT_Novelas_2025.png",TNT Novelas
 http://200.113.4.75:7210/play/a02m/index.m3u8
-#EXTINF:-1,TNT Series 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/TNT_Series_2025.svg",TNT Series
 http://189.50.210.3:8008/play/a04f/index.m3u8
-#EXTINF:-1,TNT SPORTS 2
-http://200.113.4.75:7210/play/a00c/index.m3u8
-#EXTINF:-1,TNT SPORTS 3
-http://200.113.4.75:7210/play/a011/index.m3u8
-#EXTINF:-1,TNT Sports 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TNT_Sports_%282023%29.svg",TNT Sports
 http://189.50.210.3:8008/play/a074/index.m3u8
-#EXTINF:-1,TyC Sports
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/TyC_Sports_logo.svg",TyC Sports
 http://189.50.210.3:8008/play/a06x/index.m3u8
-#EXTINF:-1,Universal
-http://200.113.4.75:7210/play/a01f/index.m3u8
-#EXTINF:-1,USA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/USA_Network_2020.svg",USA
 http://189.50.210.3:8008/play/a06z/index.m3u8
-#EXTINF:-1,ViaX
-http://200.113.4.75:7210/play/a014/index.m3u8
-#EXTINF:-1,Via X Esports
-http://189.50.210.3:8008/play/a06y/index.m3u8
-#EXTINF:-1,Warner Channel 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",Warner Channel
 http://189.50.210.3:8008/play/a02x/index.m3u8
-#EXTINF:-1,WILLAX
-http://189.50.210.3:8008/play/a05m/index.m3u8
-#EXTINF:-1,Win Sports
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Win_Sports_nuevo_logo.svg",Win Sports
 http://190.61.55.34:2401/play/win/index.m3u8
-#EXTINF:-1,Win Sports+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Win%2B_F%C3%BAtbol_logo.svg",Win Sports+
 http://189.50.210.3:8008/play/a04n/index.m3u8
