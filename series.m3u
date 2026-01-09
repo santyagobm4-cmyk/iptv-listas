@@ -1,7 +1,6 @@
 #EXTM3U
 
-
-
+# --- SECCIÓN NETFLIX Y ESTRENOS ---
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9n2HM0guy6Wn95EshDj7Uw6XWd2.jpg",el tiempo de las mosca (2026)
 https://dl.dropbox.com/scl/fi/w3jovtx3j8a2q69lxtlq1/el-tiempo-de-las-moscas-2026?rlkey=h19cxbk1dofo1ilh8zloqwyyg&st=6gjnsqhm&.m3u
@@ -25,7 +24,7 @@ https://dl.dropbox.com/scl/fi/l87u7ywgiae1tkurm4g9r/Hija-del-fuego-2025?rlkey=e2
 https://dl.dropbox.com/scl/fi/gqsnlizppw94sgxlk5ju9/La-bestia-en-m-2025?rlkey=9pq3oh7k1pz14j93xd5mxvsaf&st=h254imzr&.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",Stranger Things (2016)
 https://do.dropbox.com/scl/fi/5chyx5mhsm6ud73qr3gxq/Stranger-Things-2016?rlkey=qxhj7wmyw1uxd3oym3fa46dsi&st=b3h0deey&.m3u
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",Stranger Things (2016)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",Stranger Things (2016) [GitHub]
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Stranger%20Things%20(2016).m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ac9e5FC2DlJZZcgBtQ5Jr2973uz.jpg",El cuco de cristal (2025)
 https://dl.dropbox.com/scl/fi/xh58z1dzn7ke4w8577qix/El-cuco-de-cristal-2025?rlkey=sts8co46vuzgolw3izzp41g1v&st=uqnq1dkb&.m3u
@@ -37,16 +36,15 @@ https://dl.dropbox.com/scl/fi/7fvdib4ye3y9uhqlpljs9/50-Seconds-The-Fernando-B-ez
 https://dl.dropbox.com/scl/fi/le7nkiubifoljuc7ddjlb/fake-2022?rlkey=jvtjpwzh447bh73ihpsplv69c&st=jkseqdop&.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kyyimj6qsgBZjZQacxt2h5Um1BM.jpg",The Witcher (2019)
 https://dl.dropbox.com/scl/fi/qp1lv9fpgwzfx0w82f9oh/The-Witcher-2019-V.2?rlkey=c5ycoysu0a2epo8tfriugttk2&st=szyt20uu&.m3u
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5frjq2ZQ6UysQGCZY4Fh36dmAUd.jpg",La agente encubierta
-(2015)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5frjq2ZQ6UysQGCZY4Fh36dmAUd.jpg",La agente encubierta (2015)
 https://dl.dropbox.com/scl/fi/tfebjzqggzr8m6tq0wdpc/La-agente-encubierta-2015?rlkey=4ej12qaz3qso6kej1zujqvauq&st=die4jedr&.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6rUEuEfaFAyhR4PJV5FRxcGzkrS.jpg",El monstruo de Florencia (2025)
 https://dl.dropbox.com/scl/fi/uj9p1jsavr6spexlov1py/Monstruo-de-Florencia-2025.m3u?rlkey=10fxbl13y4vmcmjckqo4eiq0a&st=fl5hyyik&.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cRv9pVrUiAPWWgqzJgRfS81oijz.jpg",dos tumbas (2025)
 https://dl.dropbox.com/scl/fi/q7hufcigvxwau4hgzdbua/Dos-tumbas-2025?rlkey=fkxqmaz21gssfn5n9e6qdd0t3&st=z2qht3l0&dl.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/285ow3eWdUV4ApB64axKmxn1MBJ.jpg",Dia cero (2025)
-https://dl.dropbox.com/scl/fi/zjejccucsygh0xdsunhg5/D-a-0-2025?rlkey=bjrf4wgsaons8u783iad8yruo&st=vle6xxid&.m3u
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vYczshDGYktciJdcdxWpWManGiD.jpg",Animal (2025)
+https://dl.dropbox.com/scl/fi/zjejucucsygh0xdsunhg5/D-a-0-2025?rlkey=bjrf4wgsaons8u783iad8yruo&st=vle6xxid&.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vYczshDGYktciJdcdxWpWManGiD.jpg",Animal (2025) [Short]
 https://bit.ly/4n1m4l
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nOjhJqlWYDZHuskzGmZKdgoxlXN.jpg",nadie nos vio partir (2025)
 https://bit.ly/47c2Zyb
@@ -64,9 +62,9 @@ https://dl.dropbox.com/scl/fi/uduh9w16pkgkjb2svh7e2/Nero-the-Assassin-2025?rlkey
 https://dl.dropbox.com/scl/fi/jo47b9inx7l327qmuq9oa/la-nueva-brigada-2025?rlkey=3j7fgojy4usyy9l65s0glun39&st=sboiy51l&dl.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/vYczshDGYktciJdcdxWpWManGiD.jpg",animal (2025)
 https://dl.dropbox.com/scl/fi/404f1ewgjrf7boixgk7jj/animal-2025?rlkey=220d3icq0n82ywisjrwsxksih&st=g7e8fujz&dl.m3u
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eEwe68oPFFDU4ehZ3sXiETE44Rt.jpg",Boots (2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eEwe68oPFFDU4ehZ3sXiETE44Rt.jpg",Boots (2025) [Bitly]
 http://bit.ly/4hw9Eql
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eEwe68oPFFDU4ehZ3sXiETE44Rt.jpg",Boots (2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eEwe68oPFFDU4ehZ3sXiETE44Rt.jpg",Boots (2025) [Dropbox]
 https://dl.dropbox.com/scl/fi/r8epy8lgoa2fmtb0z1k0y/Boots-2025?rlkey=emuj7wjmo2r1fy2ypqdbk06ew&st=4p4n3v0p&dl.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6SP6NiyFxzUaegvg4TB3TMZlv8H.jpg",Chica mascara (2023)
 https://dl.dropbox.com/scl/fi/kgwgpemkxrz1s99nmnclf/Mask-Girl-2023?rlkey=jdhn4aay0sz6j3k7c210nsl0g&st=sjxdtmzm&.m3u
@@ -97,11 +95,7 @@ https://dl.dropbox.com/scl/fi/9k74y5tq4s1x3brgkmdy8/Arnold-2023?rlkey=s8lbbj2y1v
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hGtsGoccGg87FBqsokkoyHWX9cL.jpg",Bulgasal: Almas inmortales (2021)
 https://dl.dropbox.com/scl/fi/mfzc91v9u0qwwjmi31iiw/Bulgasal-Immortal-Souls-2021?rlkey=a4sbak68nemiidyjbnkimonj6&st=9gyibt3x&.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fNJarIm84EcMPISFtRXuT56rqVI.jpg",mercado (2025)
-https://dl..dropbox.com/scl/fi/kf2aelweduii98cxxj5zc/mercado-2025?rlkey=fsl6fns1bafk9axka4s97h3oo&st=kk6wdf9w&.m3u
-
-
-
-
+https://dl.dropbox.com/scl/fi/kf2aelweduii98cxxj5zc/mercado-2025?rlkey=fsl6fns1bafk9axka4s97h3oo&st=kk6wdf9w&.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9KWjsphxIbv0eJykbUafGKxCEHv.jpg",gatillo (2025)
 https://dl.dropbox.com/scl/fi/9uoh8r19lgdlxzilslfqc/gatillo-2025?rlkey=mcuw6nwx8ohj8ddelaagzcdq7&st=v2z5j1bc&.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wFvfqUNUSxjT3zDOKhryKiV9YEt.jpg",MERLINA (2022)
@@ -118,13 +112,11 @@ https://dl.dropbox.com/scl/fi/k33boop75tpl4u4yexc0a/Unicornio-salvaje-2025?rlkey
 https://dl.dropbox.com/scl/fi/w1dpied5czhhg1dricsv2/Los-gringo-hunters-2025?rlkey=5g80tuujvgfm9t93x0sdboyi1&st=lh9hxepe&.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jPJiBzIb0TuqUAEJ7L8WNQ39nh7.jpg",Sol negro (2025)
 https://dl.dropbox.com/scl/fi/uyz290wnv5enafd8jdaoi/Sol-negro-2025?rlkey=mxe7vtq5oqo0uieuvx2hgb5dq&st=jal0qepz&.m3u
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6ZS8SOno6kTmWz4eQ8lX8EBXOMv.jpg",Futurama (1999)
 https://dl.dropbox.com/scl/fi/te5uzpq5izavnarmu36k1/Futurama-1999.txt?rlkey=f9089kew01ve5gqxm7758o8j1&st=3z4sehd2&.m3u
+
+# --- SECCIÓN GITHUB ANIMES Y CORTOS ---
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sS95o7rCnHeOLE0AxyysmIBI2Ko.jpg",Chad Powers (2025)
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Chad%20Powers%20(2025)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qAP6gXpwwIWwJeoSHpKAMhHYVqF.jpg",conducta sospechosa (2011)
@@ -157,10 +149,8 @@ https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Break
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Nine%20Puzzles%20(2025)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dmu0fpTEVIcUXn5XWrxVnI47Oln.jpg",The X-Files (1993)
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/The%20X-Files%20(1993)
-
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/8IIPZe4V2xNYFWY7lBY6GpN2L8O.jpg",Alien:Planeta Tierra (2025) latino
 https://raw.githubusercontent.com/Dante5910/Esto-solamente-es-una-prueba/refs/heads/main/Alien%3APlaneta%20Tierra
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/aSe4aB8tiPQMoQt9B4SKFgIymwL.jpg",Tu amigo y vecino Spider-Man (2025)
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Tu%20amigo%20y%20vecino%20Spider-Man%20(2025)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sp54jkorVJHQ52WE5U7rbNjGnrC.jpg",En la victoria o en la derrota (2025)
@@ -173,7 +163,9 @@ https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Ironh
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Camaleon%20El%20pasado%20no%20cambia%20(2025)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9b6XFApT34dkGrmOZnTk7noyNx8.jpg",Daredevil: Born Again (2025)
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Daredevil%20Born%20Again%20(2025)
-________Star Wars________
+
+# --- SECCIÓN STAR WARS ---
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ooR0a268nALCaP0D1xZHjjnXzEk.jpg", Star Wars: Cronicas del submundo (2025)
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Star%20Wars%20Cr%C3%B3nicas%20del%20submundo%20(2025)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hVIvwh1wIzWYjG2Hzb5ztoBwEFl.jpg", Star Wars The Acolyte (2024)
@@ -184,12 +176,14 @@ https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Star%
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Ahsoka%20(2023)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/e3cWQzBxHK803AbZGjp1feQFgyS.jpg",Star Wars Andor (2022)
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Star%20Wars%20Andor%20(2022)
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4bffB2YV4UxNfEifp4HxdhfJulK.jpg",,Star Wars El libro de Boba Fett (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4bffB2YV4UxNfEifp4HxdhfJulK.jpg",Star Wars El libro de Boba Fett (2021)
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Star%20wars%20El%20libro%20de%20Boba%20Fett%20(2021)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nQtN7cDR2QQgbleIkGkhFqXIr0X.jpg",Star Wars: Visions (2021)
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Star%20Wars%20Visions%20(2021)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dmF2LqFb1Aj8jRktPdYapP7fWyx.jpg",Star Wars: La remesa mala (2021)
 https://archive.org/download/elch4v0/sTARWA.m3u
+
+
 #EXTINF:-1 tvg-logo="http://archive.org/download/shing089/7h3m4n.jpg" group-title="Disney+",THE MANDALORIAN (2019)
 http://archive.org/download/m-4-nd-4-l-0-r-1-an-0-temp-01-m-3-u/M4ND4L0R1AN0TEMP01M3U.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lhEBuORZ7mwf57YPgbz0W8YcMew.jpg",Star Wars: Fuerzas del Destino (2017)
