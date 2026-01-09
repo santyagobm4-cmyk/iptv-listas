@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,SERIES
+https://raw.githubusercontent.com/santyagobm4-cmyk/iptv-listas/refs/heads/main/series.m3u
 #EXTINF:-1,CINE FICCION
 https://raw.githubusercontent.com/santyagobm4-cmyk/iptv-listas/refs/heads/main/ciencia%20ficcion.m3u3
 #EXTINF:-1,CINE DC
