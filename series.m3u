@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTGRP: NETFLIX 
 
 
 
@@ -123,21 +122,6 @@ https://dl.dropbox.com/scl/fi/uyz290wnv5enafd8jdaoi/Sol-negro-2025?rlkey=mxe7vtq
 
 
 
-
-#EXTM3U
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:deinterlace-mode=yadif
-#EXTVLCOPT:avcodec-hw=any
-#EXTVLCOPT:clock-jitter=0
-
-#EXTGRP:Disney+
-
-
-#EXTINF:-1 tvg-logo="",
-
-#EXTINF:-1 tvg-logo="",
-
-#EXTINF:-1 tvg-logo="",
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6ZS8SOno6kTmWz4eQ8lX8EBXOMv.jpg",Futurama (1999)
 https://dl.dropbox.com/scl/fi/te5uzpq5izavnarmu36k1/Futurama-1999.txt?rlkey=f9089kew01ve5gqxm7758o8j1&st=3z4sehd2&.m3u
@@ -276,12 +260,6 @@ http://archive.org/download/ANIME_20190528/BUF.m3u
 
 
 
-#EXTGRP:Star+
-#EXTM3U
-
-
-
-#EXTINF:-1 tvg-logo=""group-title="",
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wYBsKEFU0qHdhSI9QtQjL8HELMn.jpg"group-title="Star+",Duster (2025)
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Duster%20(2025)
@@ -347,15 +325,7 @@ https://raw.githubusercontent.com/Dante5910/Esto-solamente-es-una-prueba/refs/he
 
 
 
-#EXTM3U
-#EXTGRP:Prime video
 
-
-#EXTINF:-1 tvg-logo="",
-
-#EXTINF:-1 tvg-logo="",
-
-#EXTINF:-1 tvg-logo="",
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3teWChNzKJdbfen46IdeKTygdZa.jpg",Robin Hood (2025)
 https://dl.dropbox.com/scl/fi/17wvkmwtsrqqwmmrwrtsb/Robin-Hood-2025?rlkey=3c3gqv81fvb3zp2vdby87fghz&st=pp57exiy&.m3u
@@ -535,4 +505,122 @@ https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Power%20rangers%2
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Power%20rangers%20fuerza%20del%20tiempo
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/power-rangers-dino-fury-1669337375.png" group-title="Prime video",Power rangers dino fury
 https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Power%20rangers%20dino%20fury
+
+
+#EXTM3U
+#EXTINF:-1,group-title="SERIES ANIMACION"
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/mU0O0AyJd41HasGMz5HYaOqNVCh.jpg",The Midnight Gospel (2020)
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.AN1M4C10N/TH3.M1DN1GHT.G0SP3L.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/5aIUlqC6855aXGewFHSyji0nYjp.jpg",Rick y Morty (2013)
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.AN1M4C10N/R1ck.4nd.M0rty.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/wPXMkd9io66Fac9TrmbL76J0Csj.jpg",Los Supersonicos (1962)
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.AN1M4C10N/L0S.SUP3RS0N1C0S.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/iy7CvI8x78IOQdGCl72CbmnD5VZ.jpg",Pinky y Cerebro (1995)
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.AN1M4C10N/P1NKY.Y.C3R3BR0.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/r0suHqDDEo4hlFCTfJbATLipwIf.jpg",Remi (1977)
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.AN1M4C10N/R3M1.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/UGEbIOg3VTYrSRaYCEi6UmkDQi.jpg",Star vs las fuerzas del mal (2015)
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.AN1M4C10N/St4r.vs.L4s.Fu3rz4s.D3l.M4l.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/nY0avJBhH36YbY1AsO2IbgWeQ3w.jpg",Tom y Jerry (1975)
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.AN1M4C10N/T0m.y.j3rry.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/dVW6pIEQjhLcPQ76DaaWFYBdKou.jpg",Generador Rex (2010)
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.AN1M4C10N/G3N3R4D0R.R3X.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/q2lWc0OrmKl334mTHl6kKHgDJJM.jpg",Gargolas (1994)
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.AN1M4C10N/G4RG0L4S.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/lvgC00owzxXdr5eQvvnFl3C6m24.jpg",Gravity Falls (2012)
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.AN1M4C10N/GR4V1TY.F4LLS.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/vKgOqZhsslOpxBOCDz6WZK3oMlP.jpg",Heidi (1974)
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.AN1M4C10N/H3IDI.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/uxpXZWPfQsXjJBE8XIHmQowCtYs.jpg",Oye Arnold (1996)
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.AN1M4C10N/H3Y.4RN0LD.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/qVGlu4svkfvFEL2tQe6XMEXQBJP.jpg",Miraculous Las aventuras de Ladybug (2015)
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.AN1M4C10N/L4DYBUG.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/5g3egWlJpkX4askJywmoBYRjfE1.jpg",Mortal Kombat Defensores Del Reino (1996)
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.AN1M4C10N/M0RT4L.K0MB4T.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/uXqNs2VnstAQm92pOTfrYqxp2e9.jpg",Mucha lucha (2002)
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.AN1M4C10N/MUCH4.LUCH4.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/yAyif3EX7jtQu00k060PyVhSoir.jpg",Los Pinguinos de Madagascar (2008)
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.AN1M4C10N/P1NGU1N0S.D3.M4D4G4SC4R.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/aCtkuZHfDhYnYXDmrcwFas8tj8G.jpg",Peppa Pig (2004)
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.AN1M4C10N/P3PP4.P1G.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/vMgIWytrxHJGxLXI29LTbJkaWqN.jpg",Amphibia (2019)
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.AN1M4C10N/AMPH1B14.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/jrKYozgUgF2umKaGx0ptEvCe2oz.jpg",Avatar La leyenda de Aang (2005)
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.AN1M4C10N/AV4T4R.L4.L3Y3ND4.D3.A4NG.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/dRjvmKkb81ycuqGdEV2rpj8gRmW.jpg",Tiny Planets (2004)
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.AN1M4C10N/B1NG.Y.B0NG.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/raGJ1Rdod03sai4joiQOhFzcCKa.jpg",Cantinflas Show (1972)
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.AN1M4C10N/C4NT1NFL4S.SH0W.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/lvaaEYyFufdIAa56m53ZEEgPv81.jpg",Capitan N (1989)
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.AN1M4C10N/C4P1T4N.N.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/nlshbADZNwPU2XoqcNFOQjOLXk9.jpg",La Carrera Espacial de Yogui (1978)
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.AN1M4C10N/C4RR3R4.3PAC14L.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/uykOHG1e1E3eYyKOyHTjn6leefd.jpg",El show de Charlie Brown y Snoopy (1983)
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.AN1M4C10N/CH4RL13.BR0WN.4ND.SN00PY.SH0W.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/vIlNA9SdLinAxBhByyJLnKOPErg.jpg",Dave el barbaro (2004)
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.AN1M4C10N/D4V3.3L.B4RB4R0.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/2oLRK6qGxvQXFhwHJhiRAFojQWS.jpg",Droopy (1993)
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.AN1M4C10N/DR00PY.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/6oFkVPUcqHspgqJFE3YCko1GQ5y.jpg",El Conde Patula (1988)
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.AN1M4C10N/EL.COND3.P4TUL4.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/sxZOVf3AJqGaA8BOSiAbPkXp6Zj.jpg",Batman La Serie Animada (1992)
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.AN1M4C10N/B4TM4N.S3R13.4N1M4D4.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/xHNfeiRFuei74KqnJh3xG211Py7.jpg",Coraje el perro cobarde (1999)
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.AN1M4C10N/C0B4RD3.3L.P3RR0.C0R4J3.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/Ys0SO0GSvK3ypjZtRznx3TDJtC.jpg",Garfield (1988)
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.AN1M4C10N/G4RF13LD.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/42gjfqUXReWdg9P8zjHr3USRA20.jpg",He Man y los Amos del Universo (1983)
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.AN1M4C10N/H3M4N.199O.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/7hYApfVIL1osBgvRBCXZ5lga2Y0.jpg",Los jovenes titanes (2003)
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.AN1M4C10N/J0V3N3S.T1T4N3S.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/pkqXK5F7N3iIVpTOZWfpwwA57Sa.jpg",Los Picapiedra (1960)
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.AN1M4C10N/L0S.P1C4P13DR4S.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/8J8uXiUk8PKR72wRlC85GZZv4YS.jpg",La Mascara (1995)
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.AN1M4C10N/L4.M4SC4R4.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/7ltjhiSFyusxBZCFna545K2IKQj.jpg",La Vaca y el Pollito (1997)
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.AN1M4C10N/L4.V4C4.Y.3L.P0LL1T0.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/9JR8KUZjpLgujJK0B1RGoFsJ5k3.jpg",Las Aventuras De Los Super Hermanos Mario (1990)
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.AN1M4C10N/M4R10.BR0S.3.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/5oy1hGxszAc48wJANYvJ1ggW9zJ.jpg",La Pantera Rosa (1969)
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.AN1M4C10N/P4NT3R4.R0S4.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/wTXnAK6cJk7Q1c9Ws8tnriAZrSn.jpg",Ben X Omniverse (2012)
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.AN1M4C10N/B3N1O.0MN1V3RS3.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/fIulszr8TjX2EkCbc14Y78158cg.jpg",Ben 10 Supremacia Alienigena (2010)
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.AN1M4C10N/B3N.1O.SUPR3M4C14.4L13N1G3N4.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/nR1e2ReDVsPhKAJVfUxDnBGEJPr.jpg",Ben 10 Fuerza Alienigena (2008)
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.AN1M4C10N/B3N.10.FU3RZ4.4LI3N1G3N4.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/jiOj37XUMl0wq07kRYTw7EAizXK.jpg",Ben 10 (2005)
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.AN1M4C10N/B3N.1O.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/23XTh0wrIceP1r8qUTH1GKAdLzu.jpg",La Casa de los Dibujos (2004)
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.AN1M4C10N/L4.C4S4.D3.L0S.D1BUJ0S.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/tDgBFaIosnJ2Vjx3lClgOKzJdsY.jpg",Efectos colaterales (2025)
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.AN1M4C10N/EF3CT0S.C0L4T3R4L3S.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/k82enD7Xx53DAkLF8K6IkhtisSH.jpg",Resident Evil La tiniebla infinita (2021)
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.AN1M4C10N/R3s1d3nt.3v1l.T1n13bl4.1nf1n1t4.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/qoQcAAoiTLlck3Jb0gbjuEiLKSI.jpg",Comando de Criaturas (2024)
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.AN1M4C10N/C0m4nd0.d3.Cr14tur4s.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/bOWJGJCd24NcYWq6cf7kZQ1qUQ0.jpg",Star Wars Historias del inframundo (2025)
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.AN1M4C10N/St4r.W4rs.H1st0r14s.Infr4mund0.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/9BM0GvzLRCDvVMUCRb49GpCwOFg.jpg",Devil May Cry (2025)
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.AN1M4C10N/D3v1l.M4y.Cry.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/vkhMmRYetDfcjW8oEz8HbDSQnfQ.jpg",Star Wars La Guerra de los Clones (2008)
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.AN1M4C10N/St4r.W4rs.Gu3rr4.de.Cl0n3s.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/jaVm0r1ooIsMnwBi4nj0Ff6M8LM.jpg",El Chavo Animado (2006)
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.AN1M4C10N/E1.Ch4v0.4n1m4d0.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/88qsBmh6df6ZfmzsGkaFYEtXErd.jpg",Rick y Morty Anime (2024)
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.AN1M4C10N/R1ck.4nd.M0rty.4n1m3.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/x58tD8tc5fEMK7o8gJAt2GxSGoN.jpg",Terminator Zero (2024)
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.AN1M4C10N/T3rm1n4t0r.Z3r0.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/tOwd1kLWFeQXwrtCnSQrIMmrX6V.jpg",Arcane (2024)
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.AN1M4C10N/Arc4n3.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/re7dsrKdL83IXg4idi2SZAtkF38.jpg",Tomb Raider La leyenda de Lara Croft (2024)
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.AN1M4C10N/T0M.R41D3R.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/lQIcDFK4bdNsxob6d0hhvCxxf8I.jpg",Batman El enmascarado (2024)
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.AN1M4C10N/B4tm4n.3nm4sc4r4d0.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/bghNJmUDJFRprIcntDUZ29jHl8I.jpg",Jurassic World Teoria del dinocaos (2024)
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.AN1M4C10N/Jur4ss1c.W0rld.D1n0c40s.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/65firYWt2FoK18KuYxnmHmVaEsL.jpg",Gatitos Explosivos (2024)
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.AN1M4C10N/G4t1t0s.3xpl0s1v0s.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/dWaqNrtOMpWXEHYJ0nbPCL1gP2n.jpg",Invencible (2021)
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.AN1M4C10N/1nv3nc1bl3.m3u
 
