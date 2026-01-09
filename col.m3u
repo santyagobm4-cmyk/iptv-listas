@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1,CINE FICCION
+https://raw.githubusercontent.com/santyagobm4-cmyk/iptv-listas/refs/heads/main/ciencia%20ficcion.m3u3
+#EXTINF:-1,CINE DC
+https://raw.githubusercontent.com/santyagobm4-cmyk/iptv-listas/refs/heads/main/dccomics.m3u
+#EXTINF:-1,CINE MARVEL
+https://raw.githubusercontent.com/santyagobm4-cmyk/iptv-listas/refs/heads/main/marvel.m3u
 #EXTINF:-1,CINE INFANTIL
 https://raw.githubusercontent.com/santyagobm4-cmyk/iptv-listas/refs/heads/main/infantiles.m3u
 #EXTINF:-1,CINE ACCION
