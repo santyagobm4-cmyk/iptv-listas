@@ -1,258 +1,193 @@
 #EXTM3U
 #EXTGRP:Los Padrinos Magicos
-# Specials
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wnMKXmjYl9rWCaX6pjMvma0wKCH.jpg" group-title="Specials (2001)",Christmas Every Day
+
+# --- ESPECIALES ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wnMKXmjYl9rWCaX6pjMvma0wKCH.jpg" group-title="Los Padrinos Magicos|Especiales",Christmas Every Day
 https://archive.org/download/padrines-magickes-latino/Temporada%200/The.Fairly.OddParents.S00E01.Christmas.Every.Day.540p.PMTP.WEB-DL.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wnMKXmjYl9rWCaX6pjMvma0wKCH.jpg" group-title="Specials (2001)",Abracatastrophe
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wnMKXmjYl9rWCaX6pjMvma0wKCH.jpg" group-title="Los Padrinos Magicos|Especiales",Abracatastrophe
 https://archive.org/download/padrines-magickes-latino/Temporada%200/The.Fairly.OddParents.S00E02.Abracatastrophe.540p.PMTP.WEB-DL.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wnMKXmjYl9rWCaX6pjMvma0wKCH.jpg" group-title="Specials (2001)",The Jimmy Timmy Power Hour
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wnMKXmjYl9rWCaX6pjMvma0wKCH.jpg" group-title="Los Padrinos Magicos|Especiales",The Jimmy Timmy Power Hour
 https://archive.org/download/padrines-magickes-latino/Temporada%200/The.Fairly.OddParents.S00E03.The.Jimmy.Timmy.Power.Hour.540p.PMTP.WEB-DL.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wnMKXmjYl9rWCaX6pjMvma0wKCH.jpg" group-title="Specials (2001)",Channel Chasers
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wnMKXmjYl9rWCaX6pjMvma0wKCH.jpg" group-title="Los Padrinos Magicos|Especiales",Channel Chasers
 https://archive.org/download/padrines-magickes-latino/Temporada%200/The.Fairly.OddParents.S00E04.Channel.Chasers.540p.PMTP.WEB-DL.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wnMKXmjYl9rWCaX6pjMvma0wKCH.jpg" group-title="Specials (2001)",School's Out! The Musical
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wnMKXmjYl9rWCaX6pjMvma0wKCH.jpg" group-title="Los Padrinos Magicos|Especiales",School's Out! The Musical
 https://archive.org/download/padrines-magickes-latino/Temporada%200/The.Fairly.OddParents.S00E05.School%27s.Out.The.Musical.540p.PMTP.WEB-DL.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wnMKXmjYl9rWCaX6pjMvma0wKCH.jpg" group-title="Specials (2001)",The Jimmy Timmy Power Hour 2: When Nerds Collide
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wnMKXmjYl9rWCaX6pjMvma0wKCH.jpg" group-title="Los Padrinos Magicos|Especiales",The Jimmy Timmy Power Hour 2: When Nerds Collide
 https://archive.org/download/padrines-magickes-latino/Temporada%200/The.Fairly.OddParents.S00E06.The.Jimmy.Timmy.Power.Hour.2.When.Nerds.Collide.540p.PMTP.WEB-DL.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wnMKXmjYl9rWCaX6pjMvma0wKCH.jpg" group-title="Specials (2001)",Fairy Idol
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wnMKXmjYl9rWCaX6pjMvma0wKCH.jpg" group-title="Los Padrinos Magicos|Especiales",Fairy Idol
 https://archive.org/download/padrines-magickes-latino/Temporada%200/The.Fairly.OddParents.S00E07.Fairy.Idol.540p.PMTP.WEB-DL.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wnMKXmjYl9rWCaX6pjMvma0wKCH.jpg" group-title="Specials (2001)",The Jimmy Timmy Power Hour 3: The Jerkinators
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wnMKXmjYl9rWCaX6pjMvma0wKCH.jpg" group-title="Los Padrinos Magicos|Especiales",The Jimmy Timmy Power Hour 3: The Jerkinators
 https://archive.org/download/padrines-magickes-latino/Temporada%200/The.Fairly.OddParents.S00E08.The.Jimmy.Timmy.Power.Hour.3.The.Jerkinators.540p.PMTP.WEB-DL.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wnMKXmjYl9rWCaX6pjMvma0wKCH.jpg" group-title="Specials (2001)",Fairly Odd Baby
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wnMKXmjYl9rWCaX6pjMvma0wKCH.jpg" group-title="Los Padrinos Magicos|Especiales",Fairly Odd Baby
 https://archive.org/download/padrines-magickes-latino/Temporada%200/The.Fairly.OddParents.S00E09.Fairly.Odd.Baby.576p.PMTP.WEB-DL.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wnMKXmjYl9rWCaX6pjMvma0wKCH.jpg" group-title="Specials (2001)",The Fairly Oddlympics
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wnMKXmjYl9rWCaX6pjMvma0wKCH.jpg" group-title="Los Padrinos Magicos|Especiales",The Fairly Oddlympics
 https://archive.org/download/padrines-magickes-latino/Temporada%200/The.Fairly.OddParents.S00E10.The.Fairly.Oddlympics.576p.PMTP.WEB-DL.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wnMKXmjYl9rWCaX6pjMvma0wKCH.jpg" group-title="Specials (2001)",Merry Wish-mas
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wnMKXmjYl9rWCaX6pjMvma0wKCH.jpg" group-title="Los Padrinos Magicos|Especiales",Merry Wish-mas
 https://archive.org/download/padrines-magickes-latino/Temporada%200/The.Fairly.OddParents.S00E11.Merry.Wish-mas.576p.PMTP.WEB-DL.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wnMKXmjYl9rWCaX6pjMvma0wKCH.jpg" group-title="Specials (2001)",Wishology! The Big Beginning
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wnMKXmjYl9rWCaX6pjMvma0wKCH.jpg" group-title="Los Padrinos Magicos|Especiales",Wishology! The Big Beginning
 https://archive.org/download/padrines-magickes-latino/Temporada%200/The.Fairly.OddParents.S00E12.Wishology%21.The.Big.Beginning.1080p.PMTP.WEB-DL.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wnMKXmjYl9rWCaX6pjMvma0wKCH.jpg" group-title="Specials (2001)",Wishology! The Exciting Middle
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wnMKXmjYl9rWCaX6pjMvma0wKCH.jpg" group-title="Los Padrinos Magicos|Especiales",Wishology! The Exciting Middle
 https://archive.org/download/padrines-magickes-latino/Temporada%200/The.Fairly.OddParents.S00E13.Wishology%21.The.Exciting.Middle.1080p.PMTP.WEB-DL.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wnMKXmjYl9rWCaX6pjMvma0wKCH.jpg" group-title="Specials (2001)",Wishology! The Final Ending
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wnMKXmjYl9rWCaX6pjMvma0wKCH.jpg" group-title="Los Padrinos Magicos|Especiales",Wishology! The Final Ending
 https://archive.org/download/padrines-magickes-latino/Temporada%200/The.Fairly.OddParents.S00E14.Wishology%21.The.Final.Ending.1080p.PMTP.WEB-DL.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wnMKXmjYl9rWCaX6pjMvma0wKCH.jpg" group-title="Specials (2001)",Timmy's Secret Wish
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wnMKXmjYl9rWCaX6pjMvma0wKCH.jpg" group-title="Los Padrinos Magicos|Especiales",Timmy's Secret Wish
 https://archive.org/download/padrines-magickes-latino/Temporada%200/The.Fairly.OddParents.S00E15.Timmy%27s.Secret.Wish.576p.PMTP.WEB-DL.mkv
-
-# Temporada 1
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fctyxLbxtXsHJi2YsR8o95XdKCh.jpg" group-title="Season 1 (2001)",Episodios 1-2
+# --- TEMPORADA 1 ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fctyxLbxtXsHJi2YsR8o95XdKCh.jpg" group-title="Los Padrinos Magicos|Temporada 1",Episodios 1-2
 https://archive.org/download/padrines-magickes-latino/Temporada%201/The.Fairly.OddParents.S01E01-S01E02.540p.PMTP.WEB-DL.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fctyxLbxtXsHJi2YsR8o95XdKCh.jpg" group-title="Season 1 (2001)",Episodios 3-4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fctyxLbxtXsHJi2YsR8o95XdKCh.jpg" group-title="Los Padrinos Magicos|Temporada 1",Episodios 3-4
 https://archive.org/download/padrines-magickes-latino/Temporada%201/The.Fairly.OddParents.S01E03-S01E04.540p.PMTP.WEB-DL.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fctyxLbxtXsHJi2YsR8o95XdKCh.jpg" group-title="Season 1 (2001)",Episodios 5-6
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fctyxLbxtXsHJi2YsR8o95XdKCh.jpg" group-title="Los Padrinos Magicos|Temporada 1",Episodios 5-6
 https://archive.org/download/padrines-magickes-latino/Temporada%201/The.Fairly.OddParents.S01E05-S01E06.540p.PMTP.WEB-DL.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fctyxLbxtXsHJi2YsR8o95XdKCh.jpg" group-title="Season 1 (2001)",Episodios 7-8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fctyxLbxtXsHJi2YsR8o95XdKCh.jpg" group-title="Los Padrinos Magicos|Temporada 1",Episodios 7-8
 https://archive.org/download/padrines-magickes-latino/Temporada%201/The.Fairly.OddParents.S01E07-S01E08.540p.PMTP.WEB-DL.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fctyxLbxtXsHJi2YsR8o95XdKCh.jpg" group-title="Season 1 (2001)",Episodios 9-10
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fctyxLbxtXsHJi2YsR8o95XdKCh.jpg" group-title="Los Padrinos Magicos|Temporada 1",Episodios 9-10
 https://archive.org/download/padrines-magickes-latino/Temporada%201/The.Fairly.OddParents.S01E09-S01E10.540p.PMTP.WEB-DL.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fctyxLbxtXsHJi2YsR8o95XdKCh.jpg" group-title="Season 1 (2001)",Episodios 11-12
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fctyxLbxtXsHJi2YsR8o95XdKCh.jpg" group-title="Los Padrinos Magicos|Temporada 1",Episodios 11-12
 https://archive.org/download/padrines-magickes-latino/Temporada%201/The.Fairly.OddParents.S01E11-S01E12.540p.PMTP.WEB-DL.mkv
-
-# Temporada 2
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lXGxGW08iwmiWNPhKJbzlqwijKe.jpg" group-title="Season 2 (2002)",Episodios 1-2
+# --- TEMPORADA 2 ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lXGxGW08iwmiWNPhKJbzlqwijKe.jpg" group-title="Los Padrinos Magicos|Temporada 2",Episodios 1-2
 https://archive.org/download/padrines-magickes-latino/Temporada%202/The.Fairly.OddParents.S02E01-S02E02.540p.PMTP.WEB-DL.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lXGxGW08iwmiWNPhKJbzlqwijKe.jpg" group-title="Season 2 (2002)",Episodios 3-4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lXGxGW08iwmiWNPhKJbzlqwijKe.jpg" group-title="Los Padrinos Magicos|Temporada 2",Episodios 3-4
 https://archive.org/download/padrines-magickes-latino/Temporada%202/The.Fairly.OddParents.S02E03-S02E04.540p.PMTP.WEB-DL.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lXGxGW08iwmiWNPhKJbzlqwijKe.jpg" group-title="Season 2 (2002)",Episodios 5-6
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lXGxGW08iwmiWNPhKJbzlqwijKe.jpg" group-title="Los Padrinos Magicos|Temporada 2",Episodios 5-6
 https://archive.org/download/padrines-magickes-latino/Temporada%202/The.Fairly.OddParents.S02E05-S02E06.540p.PMTP.WEB-DL.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lXGxGW08iwmiWNPhKJbzlqwijKe.jpg" group-title="Season 2 (2002)",Episodios 7-8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lXGxGW08iwmiWNPhKJbzlqwijKe.jpg" group-title="Los Padrinos Magicos|Temporada 2",Episodios 7-8
 https://archive.org/download/padrines-magickes-latino/Temporada%202/The.Fairly.OddParents.S02E07-S02E08.540p.PMTP.WEB-DL.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lXGxGW08iwmiWNPhKJbzlqwijKe.jpg" group-title="Season 2 (2002)",Episodios 9-10
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lXGxGW08iwmiWNPhKJbzlqwijKe.jpg" group-title="Los Padrinos Magicos|Temporada 2",Episodios 9-10
 https://archive.org/download/padrines-magickes-latino/Temporada%202/The.Fairly.OddParents.S02E09-S02E10.540p.PMTP.WEB-DL.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lXGxGW08iwmiWNPhKJbzlqwijKe.jpg" group-title="Season 2 (2002)",Episodios 11-12
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lXGxGW08iwmiWNPhKJbzlqwijKe.jpg" group-title="Los Padrinos Magicos|Temporada 2",Episodios 11-12
 https://archive.org/download/padrines-magickes-latino/Temporada%202/The.Fairly.OddParents.S02E11-S02E12.540p.PMTP.WEB-DL.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lXGxGW08iwmiWNPhKJbzlqwijKe.jpg" group-title="Season 2 (2002)",Episodios 13-14
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lXGxGW08iwmiWNPhKJbzlqwijKe.jpg" group-title="Los Padrinos Magicos|Temporada 2",Episodios 13-14
 https://archive.org/download/padrines-magickes-latino/Temporada%202/The.Fairly.OddParents.S02E13-S02E14.540p.PMTP.WEB-DL.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lXGxGW08iwmiWNPhKJbzlqwijKe.jpg" group-title="Season 2 (2002)",Episodios 15-16
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lXGxGW08iwmiWNPhKJbzlqwijKe.jpg" group-title="Los Padrinos Magicos|Temporada 2",Episodios 15-16
 https://archive.org/download/padrines-magickes-latino/Temporada%202/The.Fairly.OddParents.S02E15-S02E16.540p.PMTP.WEB-DL.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lXGxGW08iwmiWNPhKJbzlqwijKe.jpg" group-title="Season 2 (2002)",Episodios 17-18
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lXGxGW08iwmiWNPhKJbzlqwijKe.jpg" group-title="Los Padrinos Magicos|Temporada 2",Episodios 17-18
 https://archive.org/download/padrines-magickes-latino/Temporada%202/The.Fairly.OddParents.S02E17-S02E18.540p.PMTP.WEB-DL.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lXGxGW08iwmiWNPhKJbzlqwijKe.jpg" group-title="Season 2 (2002)",Episodios 19-20
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lXGxGW08iwmiWNPhKJbzlqwijKe.jpg" group-title="Los Padrinos Magicos|Temporada 2",Episodios 19-20
 https://archive.org/download/padrines-magickes-latino/Temporada%202/The.Fairly.OddParents.S02E19-S02E20.540p.PMTP.WEB-DL.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lXGxGW08iwmiWNPhKJbzlqwijKe.jpg" group-title="Season 2 (2002)",Episodios 21-22
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lXGxGW08iwmiWNPhKJbzlqwijKe.jpg" group-title="Los Padrinos Magicos|Temporada 2",Episodios 21-22
 https://archive.org/download/padrines-magickes-latino/Temporada%202/The.Fairly.OddParents.S02E21-S02E22.540p.PMTP.WEB-DL.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lXGxGW08iwmiWNPhKJbzlqwijKe.jpg" group-title="Season 2 (2002)",Episodio 23
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lXGxGW08iwmiWNPhKJbzlqwijKe.jpg" group-title="Los Padrinos Magicos|Temporada 2",Episodio 23
 https://archive.org/download/padrines-magickes-latino/Temporada%202/The.Fairly.OddParents.S02E23.540p.PMTP.WEB-DL.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lXGxGW08iwmiWNPhKJbzlqwijKe.jpg" group-title="Season 2 (2002)",Episodios 24-25
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lXGxGW08iwmiWNPhKJbzlqwijKe.jpg" group-title="Los Padrinos Magicos|Temporada 2",Episodios 24-25
 https://archive.org/download/padrines-magickes-latino/Temporada%202/The.Fairly.OddParents.S02E24-S02E25.540p.PMTP.WEB-DL.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lXGxGW08iwmiWNPhKJbzlqwijKe.jpg" group-title="Season 2 (2002)",Episodios 26-27
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lXGxGW08iwmiWNPhKJbzlqwijKe.jpg" group-title="Los Padrinos Magicos|Temporada 2",Episodios 26-27
 https://archive.org/download/padrines-magickes-latino/Temporada%202/The.Fairly.OddParents.S02E26-S02E27.540p.PMTP.WEB-DL.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lXGxGW08iwmiWNPhKJbzlqwijKe.jpg" group-title="Season 2 (2002)",Episodios 28-29
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lXGxGW08iwmiWNPhKJbzlqwijKe.jpg" group-title="Los Padrinos Magicos|Temporada 2",Episodios 28-29
 https://archive.org/download/padrines-magickes-latino/Temporada%202/The.Fairly.OddParents.S02E28-S02E29.540p.PMTP.WEB-DL.mkv
-
-
-# Temporada 3
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q0DVytE1yEIvwhmsGH9bO0AGkAu.jpg" group-title="Season 3 (2003)",Information Stupor Highway
+# --- TEMPORADA 3 ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q0DVytE1yEIvwhmsGH9bO0AGkAu.jpg" group-title="Los Padrinos Magicos|Temporada 3",Information Stupor Highway
 https://archive.org/download/padrines-magickes-latino/Temporada%203/The.Fairly.OddParents.S03E01.Information.Stupor.Highway.540p.PMTP.WEB-DL.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q0DVytE1yEIvwhmsGH9bO0AGkAu.jpg" group-title="Season 3 (2003)",Odd Jobs / Movie Magic
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q0DVytE1yEIvwhmsGH9bO0AGkAu.jpg" group-title="Los Padrinos Magicos|Temporada 3",Odd Jobs / Movie Magic
 https://archive.org/download/padrines-magickes-latino/Temporada%203/The.Fairly.OddParents.S03E02-S03E03.Odd.Jobs-Movie.Magic.540p.PMTP.WEB-DL.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q0DVytE1yEIvwhmsGH9bO0AGkAu.jpg" group-title="Season 3 (2003)",Love Struck
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q0DVytE1yEIvwhmsGH9bO0AGkAu.jpg" group-title="Los Padrinos Magicos|Temporada 3",Love Struck
 https://archive.org/download/padrines-magickes-latino/Temporada%203/The.Fairly.OddParents.S03E04.Love.Struck.540p.PMTP.WEB-DL.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q0DVytE1yEIvwhmsGH9bO0AGkAu.jpg" group-title="Season 3 (2003)",Most Wanted Wish / This Is Your Wish
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q0DVytE1yEIvwhmsGH9bO0AGkAu.jpg" group-title="Los Padrinos Magicos|Temporada 3",Most Wanted Wish / This Is Your Wish
 https://archive.org/download/padrines-magickes-latino/Temporada%203/The.Fairly.OddParents.S03E05-S03E06.Most.Wanted.Wish-This.Is.Your.Wish.540p.PMTP.WEB-DL.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q0DVytE1yEIvwhmsGH9bO0AGkAu.jpg" group-title="Season 3 (2003)",The Crimson Chin Meets Mighty Mom and Dyno Dad / Engine Blocked
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q0DVytE1yEIvwhmsGH9bO0AGkAu.jpg" group-title="Los Padrinos Magicos|Temporada 3",The Crimson Chin Meets Mighty Mom and Dyno Dad / Engine Blocked
 https://archive.org/download/padrines-magickes-latino/Temporada%203/The.Fairly.OddParents.S03E07-S03E08.The.Crimson.Chin.Meets.Mighty.Mom.and.Dyno.Dad-Engine.Blocked.540p.PMTP.WEB-DL.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q0DVytE1yEIvwhmsGH9bO0AGkAu.jpg" group-title="Season 3 (2003)",Sleep Over and Over / Mother Nature
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q0DVytE1yEIvwhmsGH9bO0AGkAu.jpg" group-title="Los Padrinos Magicos|Temporada 3",Sleep Over and Over / Mother Nature
 https://archive.org/download/padrines-magickes-latino/Temporada%203/The.Fairly.OddParents.S03E09-S03E10.Sleep.Over.And.Over-Mother.Nature.540p.PMTP.WEB-DL.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q0DVytE1yEIvwhmsGH9bO0AGkAu.jpg" group-title="Season 3 (2003)",Beddy Bye / Grass Is Greener
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q0DVytE1yEIvwhmsGH9bO0AGkAu.jpg" group-title="Los Padrinos Magicos|Temporada 3",Beddy Bye / Grass Is Greener
 https://archive.org/download/padrines-magickes-latino/Temporada%203/The.Fairly.OddParents.S03E11-S03E12.Beddy.Bye-Grass.Is.Greener.540p.PMTP.WEB-DL.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q0DVytE1yEIvwhmsGH9bO0AGkAu.jpg" group-title="Season 3 (2003)",The Secret Origin of Denzel Crocker
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q0DVytE1yEIvwhmsGH9bO0AGkAu.jpg" group-title="Los Padrinos Magicos|Temporada 3",The Secret Origin of Denzel Crocker
 https://archive.org/download/padrines-magickes-latino/Temporada%203/The.Fairly.OddParents.S03E13.The.Secret.Origin.Of.Denzel.Crocker.540p.PMTP.WEB-DL.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q0DVytE1yEIvwhmsGH9bO0AGkAu.jpg" group-title="Season 3 (2003)",Microphony / So Totally Spaced Out
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q0DVytE1yEIvwhmsGH9bO0AGkAu.jpg" group-title="Los Padrinos Magicos|Temporada 3",Microphony / So Totally Spaced Out
 https://archive.org/download/padrines-magickes-latino/Temporada%203/The.Fairly.OddParents.S03E14-S03E15.Microphony-So.Totally.Spaced.Out.540p.PMTP.WEB-DL.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q0DVytE1yEIvwhmsGH9bO0AGkAu.jpg" group-title="Season 3 (2003)",Pipe Down / The Big Scoop
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q0DVytE1yEIvwhmsGH9bO0AGkAu.jpg" group-title="Los Padrinos Magicos|Temporada 3",Pipe Down / The Big Scoop
 https://archive.org/download/padrines-magickes-latino/Temporada%203/The.Fairly.OddParents.S03E16-S03E17.Pipe.Down-The.Big.Scoop.540p.PMTP.WEB-DL.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q0DVytE1yEIvwhmsGH9bO0AGkAu.jpg" group-title="Season 3 (2003)",Crime Wave / Odd Ball
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q0DVytE1yEIvwhmsGH9bO0AGkAu.jpg" group-title="Los Padrinos Magicos|Temporada 3",Crime Wave / Odd Ball
 https://archive.org/download/padrines-magickes-latino/Temporada%203/The.Fairly.OddParents.S03E18-S03E19.Crime.Wave-Odd.Ball.540p.PMTP.WEB-DL.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q0DVytE1yEIvwhmsGH9bO0AGkAu.jpg" group-title="Season 3 (2003)",Where's Wanda? / Imaginary Gary
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q0DVytE1yEIvwhmsGH9bO0AGkAu.jpg" group-title="Los Padrinos Magicos|Temporada 3",Where's Wanda? / Imaginary Gary
 https://archive.org/download/padrines-magickes-latino/Temporada%203/The.Fairly.OddParents.S03E20-S03E21.Where%27s.Wanda-Imaginary.Gary.540p.PMTP.WEB-DL.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q0DVytE1yEIvwhmsGH9bO0AGkAu.jpg" group-title="Season 3 (2003)",Miss Dimmsdale / Mind Over Magic
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q0DVytE1yEIvwhmsGH9bO0AGkAu.jpg" group-title="Los Padrinos Magicos|Temporada 3",Miss Dimmsdale / Mind Over Magic
 https://archive.org/download/padrines-magickes-latino/Temporada%203/The.Fairly.OddParents.S03E22-S03E23.Miss.Dimmsdale-Mind.Over.Magic.540p.PMTP.WEB-DL.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q0DVytE1yEIvwhmsGH9bO0AGkAu.jpg" group-title="Season 3 (2003)",Kung Timmy / Which Witch Is Which?
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q0DVytE1yEIvwhmsGH9bO0AGkAu.jpg" group-title="Los Padrinos Magicos|Temporada 3",Kung Timmy / Which Witch Is Which?
 https://archive.org/download/padrines-magickes-latino/Temporada%203/The.Fairly.OddParents.S03E24-S03E25.Kung.Timmy-Which.Witch.Is.Which.540p.PMTP.WEB-DL.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q0DVytE1yEIvwhmsGH9bO0AGkAu.jpg" group-title="Season 3 (2003)",Hard Copy / Parent Hoods
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q0DVytE1yEIvwhmsGH9bO0AGkAu.jpg" group-title="Los Padrinos Magicos|Temporada 3",Hard Copy / Parent Hoods
 https://archive.org/download/padrines-magickes-latino/Temporada%203/The.Fairly.OddParents.S03E26-S03E27.Hard.Copy-Parent.Hoods.540p.PMTP.WEB-DL.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q0DVytE1yEIvwhmsGH9bO0AGkAu.jpg" group-title="Season 3 (2003)",Chip Off the Old Chip / Snow Bound
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q0DVytE1yEIvwhmsGH9bO0AGkAu.jpg" group-title="Los Padrinos Magicos|Temporada 3",Chip Off the Old Chip / Snow Bound
 https://archive.org/download/padrines-magickes-latino/Temporada%203/The.Fairly.OddParents.S03E28-S03E29.Chip.Off.The.Old.Chip-Snow.Bound.540p.PMTP.WEB-DL.mkv
 
-# Temporada 4
-#EXTIMG:https://image.tmdb.org/t/p/original/rI1pU0eoZAsyfWYKUb5XYXb4e3Q.jpg
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rI1pU0eoZAsyfWYKUb5XYXb4e3Q.jpg" group-title="Season 4 (2004)",S04E01 - The Big Super Hero Wish
+# --- TEMPORADA 4 ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rI1pU0eoZAsyfWYKUb5XYXb4e3Q.jpg" group-title="Los Padrinos Magicos|Temporada 4",S04E01 - The Big Super Hero Wish
 https://archive.org/download/padrines-magickes-latino/Temporada%204/The.Fairly.OddParents.S04E01.The.Big.Super.Hero.Wish.540p.PMTP.WEB-DL.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rI1pU0eoZAsyfWYKUb5XYXb4e3Q.jpg" group-title="Season 4 (2004)",S04E02-03 - Vicky Loses Her Icky / Pixies Inc.
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rI1pU0eoZAsyfWYKUb5XYXb4e3Q.jpg" group-title="Los Padrinos Magicos|Temporada 4",S04E02-03 - Vicky Loses Her Icky / Pixies Inc.
 https://archive.org/download/padrines-magickes-latino/Temporada%204/The.Fairly.OddParents.S04E02-S04E03.Vicky.Loses.Her.Icky-Pixies.Inc.540p.PMTP.WEB-DL.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rI1pU0eoZAsyfWYKUb5XYXb4e3Q.jpg" group-title="Season 4 (2004)",S04E04-05 - Baby Face / Mr. Right
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rI1pU0eoZAsyfWYKUb5XYXb4e3Q.jpg" group-title="Los Padrinos Magicos|Temporada 4",S04E04-05 - Baby Face / Mr. Right
 https://archive.org/download/padrines-magickes-latino/Temporada%204/The.Fairly.OddParents.S04E04-S04E05.Baby.Face-Mr.Right.540p.PMTP.WEB-DL.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rI1pU0eoZAsyfWYKUb5XYXb4e3Q.jpg" group-title="Season 4 (2004)",S04E06-07 - Power Pals / Emotion Commotion
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rI1pU0eoZAsyfWYKUb5XYXb4e3Q.jpg" group-title="Los Padrinos Magicos|Temporada 4",S04E06-07 - Power Pals / Emotion Commotion
 https://archive.org/download/padrines-magickes-latino/Temporada%204/The.Fairly.OddParents.S04E06-S04E07.Power.Pals-Emotion.Commotion.540p.PMTP.WEB-DL.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rI1pU0eoZAsyfWYKUb5XYXb4e3Q.jpg" group-title="Season 4 (2004)",S04E08-09 - Lights! Camera! Adam! / A Bad Case of Diary-Uh
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rI1pU0eoZAsyfWYKUb5XYXb4e3Q.jpg" group-title="Los Padrinos Magicos|Temporada 4",S04E08-09 - Lights! Camera! Adam! / A Bad Case of Diary-Uh
 https://archive.org/download/padrines-magickes-latino/Temporada%204/The.Fairly.OddParents.S04E08-S04E09.Lights%21.Camera%21.Adam%21-A.Bad.Case.of.Diary-Uh.540p.PMTP.WEB-DL.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rI1pU0eoZAsyfWYKUb5XYXb4e3Q.jpg" group-title="Season 4 (2004)",S04E10-11 - Odd Couple / Class Clown
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rI1pU0eoZAsyfWYKUb5XYXb4e3Q.jpg" group-title="Los Padrinos Magicos|Temporada 4",S04E10-11 - Odd Couple / Class Clown
 https://archive.org/download/padrines-magickes-latino/Temporada%204/The.Fairly.OddParents.S04E10-S04E11.Odd.Couple-Class.Clown.540p.PMTP.WEB-DL.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rI1pU0eoZAsyfWYKUb5XYXb4e3Q.jpg" group-title="Season 4 (2004)",S04E12-13 - Who's Your Daddy / Homewrecker
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rI1pU0eoZAsyfWYKUb5XYXb4e3Q.jpg" group-title="Los Padrinos Magicos|Temporada 4",S04E12-13 - Who's Your Daddy / Homewrecker
 https://archive.org/download/padrines-magickes-latino/Temporada%204/The.Fairly.OddParents.S04E12-S04E13.Who%27s.Your.Daddy-Homewrecker.540p.PMTP.WEB-DL.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rI1pU0eoZAsyfWYKUb5XYXb4e3Q.jpg" group-title="Season 4 (2004)",S04E14 - Crash Nebula
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rI1pU0eoZAsyfWYKUb5XYXb4e3Q.jpg" group-title="Los Padrinos Magicos|Temporada 4",S04E14 - Crash Nebula
 https://archive.org/download/padrines-magickes-latino/Temporada%204/The.Fairly.OddParents.S04E14.Crash.Nebula.540p.PMTP.WEB-DL.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rI1pU0eoZAsyfWYKUb5XYXb4e3Q.jpg" group-title="Season 4 (2004)",S04E15 - Shelf Life
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rI1pU0eoZAsyfWYKUb5XYXb4e3Q.jpg" group-title="Los Padrinos Magicos|Temporada 4",S04E15 - Shelf Life
 https://archive.org/download/padrines-magickes-latino/Temporada%204/The.Fairly.OddParents.S04E15.Shelf.Life.540p.PMTP.WEB-DL.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rI1pU0eoZAsyfWYKUb5XYXb4e3Q.jpg" group-title="Season 4 (2004)",S04E16-17 - Fairy Friends and Neighbors / Just the Two of Us
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rI1pU0eoZAsyfWYKUb5XYXb4e3Q.jpg" group-title="Los Padrinos Magicos|Temporada 4",S04E16-17 - Fairy Friends and Neighbors / Just the Two of Us
 https://archive.org/download/padrines-magickes-latino/Temporada%204/The.Fairly.OddParents.S04E16-S04E17.Fairy.Friends.and.Neighbors-Just.the.Two.of.Us.540p.PMTP.WEB-DL.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rI1pU0eoZAsyfWYKUb5XYXb4e3Q.jpg" group-title="Season 4 (2004)",S04E18-19 - A New Squid in Town! / Wish Fixers
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rI1pU0eoZAsyfWYKUb5XYXb4e3Q.jpg" group-title="Los Padrinos Magicos|Temporada 4",S04E18-19 - A New Squid in Town! / Wish Fixers
 https://archive.org/download/padrines-magickes-latino/Temporada%204/The.Fairly.OddParents.S04E18-S04E19.A.New.Squid.in.Town%21-Wish.Fixers.540p.PMTP.WEB-DL.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rI1pU0eoZAsyfWYKUb5XYXb4e3Q.jpg" group-title="Season 4 (2004)",S04E20-21 - Catman Meets the Crimson Chin / Genie Menie Minie Mo
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rI1pU0eoZAsyfWYKUb5XYXb4e3Q.jpg" group-title="Los Padrinos Magicos|Temporada 4",S04E20-21 - Catman Meets the Crimson Chin / Genie Menie Minie Mo
 https://archive.org/download/padrines-magickes-latino/Temporada%204/The.Fairly.OddParents.S04E20-S04E21.Catman.Meets.the.Crimson.Chin-Genie.Menie.Minie.Mo.540p.PMTP.WEB-DL.mkv
 
-# Temporada 5
-#EXTIMG:https://image.tmdb.org/t/p/original/7wSsnJZ3tCDY9oDhiUSnI4noXoP.jpg
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7wSsnJZ3tCDY9oDhiUSnI4noXoP.jpg" group-title="Season 5 (2005)",S05E01-02 - Nega Timmy / Love at First Height
+# --- TEMPORADA 5 ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7wSsnJZ3tCDY9oDhiUSnI4noXoP.jpg" group-title="Los Padrinos Magicos|Temporada 5",S05E01-02 - Nega Timmy / Love at First Height
 https://archive.org/download/padrines-magickes-latino/Temporada%205/The.Fairly.OddParents.S05E01-S05E02.Nega.Timmy-Love.at.First.Height.540p.PMTP.WEB-DL.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7wSsnJZ3tCDY9oDhiUSnI4noXoP.jpg" group-title="Season 5 (2005)",S05E03-04 - Truth or Cosmoquences / Beach Bummed
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7wSsnJZ3tCDY9oDhiUSnI4noXoP.jpg" group-title="Los Padrinos Magicos|Temporada 5",S05E03-04 - Truth or Cosmoquences / Beach Bummed
 https://archive.org/download/padrines-magickes-latino/Temporada%205/The.Fairly.OddParents.S05E03-S05E04.Truth.or.Cosmoquences-Beach.Bummed.540p.PMTP.WEB-DL.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7wSsnJZ3tCDY9oDhiUSnI4noXoP.jpg" group-title="Season 5 (2005)",S05E05-06 - You Doo / Just Desserts
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7wSsnJZ3tCDY9oDhiUSnI4noXoP.jpg" group-title="Los Padrinos Magicos|Temporada 5",S05E05-06 - You Doo / Just Desserts
 https://archive.org/download/padrines-magickes-latino/Temporada%205/The.Fairly.OddParents.S05E05-S05E06.You.Doo-Just.Desserts.540p.PMTP.WEB-DL.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7wSsnJZ3tCDY9oDhiUSnI4noXoP.jpg" group-title="Season 5 (2005)",S05E07-08 - Back to the Norm / Teeth for Two
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7wSsnJZ3tCDY9oDhiUSnI4noXoP.jpg" group-title="Los Padrinos Magicos|Temporada 5",S05E07-08 - Back to the Norm / Teeth for Two
 https://archive.org/download/padrines-magickes-latino/Temporada%205/The.Fairly.OddParents.S05E07-S05E08.Back.to.the.Norm-Teeth.for.Two.540p.PMTP.WEB-DL.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7wSsnJZ3tCDY9oDhiUSnI4noXoP.jpg" group-title="Season 5 (2005)",S05E09-10 - The Masked Magician / The Big Bash
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7wSsnJZ3tCDY9oDhiUSnI4noXoP.jpg" group-title="Los Padrinos Magicos|Temporada 5",S05E09-10 - The Masked Magician / The Big Bash
 https://archive.org/download/padrines-magickes-latino/Temporada%205/The.Fairly.OddParents.S05E09-S05E10.The.Masked.Magician-The.Big.Bash.540p.PMTP.WEB-DL.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7wSsnJZ3tCDY9oDhiUSnI4noXoP.jpg" group-title="Season 5 (2005)",S05E11-12 - Blondas Have More Fun! / Five Days of Flarg
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7wSsnJZ3tCDY9oDhiUSnI4noXoP.jpg" group-title="Los Padrinos Magicos|Temporada 5",S05E11-12 - Blondas Have More Fun! / Five Days of Flarg
 https://archive.org/download/padrines-magickes-latino/Temporada%205/The.Fairly.OddParents.S05E11-S05E12.Blondas.Have.More.Fun%21-Five.Days.of.Flarg.540p.PMTP.WEB-DL.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7wSsnJZ3tCDY9oDhiUSnI4noXoP.jpg" group-title="Season 5 (2005)",S05E13-14 - Go Young West Man / Birthday Wish!
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7wSsnJZ3tCDY9oDhiUSnI4noXoP.jpg" group-title="Los Padrinos Magicos|Temporada 5",S05E13-14 - Go Young West Man / Birthday Wish!
 https://archive.org/download/padrines-magickes-latino/Temporada%205/The.Fairly.OddParents.S05E13-S05E14.Go.Young.West.Man-Birthday.Wish%21.540p.PMTP.WEB-DL.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7wSsnJZ3tCDY9oDhiUSnI4noXoP.jpg" group-title="Season 5 (2005)",S05E15-16 - Timmy's 2D House of Horror / It's a Wishful Life
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7wSsnJZ3tCDY9oDhiUSnI4noXoP.jpg" group-title="Los Padrinos Magicos|Temporada 5",S05E15-16 - Timmy's 2D House of Horror / It's a Wishful Life
 https://archive.org/download/padrines-magickes-latino/Temporada%205/The.Fairly.OddParents.S05E15-S05E16.Timmy%27s.2D.House.of.Horror-It%27s.a.Wishful.Life.540p.PMTP.WEB-DL.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7wSsnJZ3tCDY9oDhiUSnI4noXoP.jpg" group-title="Season 5 (2005)",S05E17-18 - Escape from Unwish Island / The Gland Plan
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7wSsnJZ3tCDY9oDhiUSnI4noXoP.jpg" group-title="Los Padrinos Magicos|Temporada 5",S05E17-18 - Escape from Unwish Island / The Gland Plan
 https://archive.org/download/padrines-magickes-latino/Temporada%205/The.Fairly.OddParents.S05E17-S05E18.Escape.from.Unwish.Island-The.Gland.Plan.540p.PMTP.WEB-DL.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7wSsnJZ3tCDY9oDhiUSnI4noXoP.jpg" group-title="Season 5 (2005)",S05E19-20 - Hassle in the Castle / Remy Rides Again
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7wSsnJZ3tCDY9oDhiUSnI4noXoP.jpg" group-title="Los Padrinos Magicos|Temporada 5",S05E19-20 - Hassle in the Castle / Remy Rides Again
 https://archive.org/download/padrines-magickes-latino/Temporada%205/The.Fairly.OddParents.S05E19-S05E20.Hassle.in.the.Castle-Remy.Rides.Again.540p.PMTP.WEB-DL.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7wSsnJZ3tCDY9oDhiUSnI4noXoP.jpg" group-title="Season 5 (2005)",S05E21-22 - Talkin' Trash / Timmy TV
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7wSsnJZ3tCDY9oDhiUSnI4noXoP.jpg" group-title="Los Padrinos Magicos|Temporada 5",S05E21-22 - Talkin' Trash / Timmy TV
 https://archive.org/download/padrines-magickes-latino/Temporada%205/The.Fairly.OddParents.S05E21-S05E22.Talkin%27.Trash-Timmy.TV.540p.PMTP.WEB-DL.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7wSsnJZ3tCDY9oDhiUSnI4noXoP.jpg" group-title="Season 5 (2005)",S05E23-24 - Moving Day / Big Wanda
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7wSsnJZ3tCDY9oDhiUSnI4noXoP.jpg" group-title="Los Padrinos Magicos|Temporada 5",S05E23-24 - Moving Day / Big Wanda
 https://archive.org/download/padrines-magickes-latino/Temporada%205/The.Fairly.OddParents.S05E23-S05E24.Moving.Day-Big.Wanda.540p.PMTP.WEB-DL.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7wSsnJZ3tCDY9oDhiUSnI4noXoP.jpg" group-title="Season 5 (2005)",S05E25-26 - Oh Brother / What's the Difference
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7wSsnJZ3tCDY9oDhiUSnI4noXoP.jpg" group-title="Los Padrinos Magicos|Temporada 5",S05E25-26 - Oh Brother / What's the Difference
 https://archive.org/download/padrines-magickes-latino/Temporada%205/The.Fairly.OddParents.S05E25-S05E26.Oh.Brother-What%27s.the.Difference.540p.PMTP.WEB-DL.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7wSsnJZ3tCDY9oDhiUSnI4noXoP.jpg" group-title="Season 5 (2005)",S05E27-28 - Smart Attack / Operation Fun
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7wSsnJZ3tCDY9oDhiUSnI4noXoP.jpg" group-title="Los Padrinos Magicos|Temporada 5",S05E27-28 - Smart Attack / Operation Fun
 https://archive.org/download/padrines-magickes-latino/Temporada%205/The.Fairly.OddParents.S05E27-S05E28.Smart.Attack-Operation.Fun.540p.PMTP.WEB-DL.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7wSsnJZ3tCDY9oDhiUSnI4noXoP.jpg" group-title="Season 5 (2005)",S05E29-30 - Something's Fishy / Presto Change-O
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7wSsnJZ3tCDY9oDhiUSnI4noXoP.jpg" group-title="Los Padrinos Magicos|Temporada 5",S05E29-30 - Something's Fishy / Presto Change-O
 https://archive.org/download/padrines-magickes-latino/Temporada%205/The.Fairly.OddParents.S05E29-S05E30.Something%27s.Fishy-Presto.Change-O.540p.PMTP.WEB-DL.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7wSsnJZ3tCDY9oDhiUSnI4noXoP.jpg" group-title="Season 5 (2005)",S05E31-32 - The Good Ol' Days / Future Lost
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7wSsnJZ3tCDY9oDhiUSnI4noXoP.jpg" group-title="Los Padrinos Magicos|Temporada 5",S05E31-32 - The Good Ol' Days / Future Lost
 https://archive.org/download/padrines-magickes-latino/Temporada%205/The.Fairly.OddParents.S05E31-S05E32.The.Good.Ol%27.Days-Future.Lost.540p.PMTP.WEB-DL.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7wSsnJZ3tCDY9oDhiUSnI4noXoP.jpg" group-title="Season 5 (2005)",S05E33-34 - Timmy the Barbarian / No Substitute for Crazy
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7wSsnJZ3tCDY9oDhiUSnI4noXoP.jpg" group-title="Los Padrinos Magicos|Temporada 5",S05E33-34 - Timmy the Barbarian / No Substitute for Crazy
 https://archive.org/download/padrines-magickes-latino/Temporada%205/The.Fairly.OddParents.S05E33-S05E34.Timmy.the.Barbarian-No.Subsittute.for.Crazy.540p.PMTP.WEB-DL.mkv
 
-# Temporada 6
-#EXTIMG:https://image.tmdb.org/t/p/original/2YH4omFedMA8w6Hb9WlNchvP5E.jpg
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2YH4omFedMA8w6Hb9WlNchvP5E.jpg" group-title="Season 6 (2008)",S06E01-02
+# --- TEMPORADA 6 ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2YH4omFedMA8w6Hb9WlNchvP5E.jpg" group-title="Los Padrinos Magicos|Temporada 6",S06E01-02 - Episodios 1-2
 https://archive.org/download/padrines-magickes-latino/Temporada%206/The.Fairly.OddParents.S06E01-S06E02.480p.PMTP.WEB-DL.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2YH4omFedMA8w6Hb9WlNchvP5E.jpg" group-title="Season 6 (2008)",S06E03-04
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2YH4omFedMA8w6Hb9WlNchvP5E.jpg" group-title="Los Padrinos Magicos|Temporada 6",S06E03-04 - Episodios 3-4
 https://archive.org/download/padrines-magickes-latino/Temporada%206/The.Fairly.OddParents.S06E03-S03E04.480p.PMTP.WEB-DL.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2YH4omFedMA8w6Hb9WlNchvP5E.jpg" group-title="Season 6 (2008)",S06E05-06
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2YH4omFedMA8w6Hb9WlNchvP5E.jpg" group-title="Los Padrinos Magicos|Temporada 6",S06E05-06 - Episodios 5-6
 https://archive.org/download/padrines-magickes-latino/Temporada%206/The.Fairly.OddParents.S06E05-S06E06.480p.PMTP.WEB-DL.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2YH4omFedMA8w6Hb9WlNchvP5E.jpg" group-title="Season 6 (2008)",S06E07-08
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2YH4omFedMA8w6Hb9WlNchvP5E.jpg" group-title="Los Padrinos Magicos|Temporada 6",S06E07-08 - Episodios 7-8
 https://archive.org/download/padrines-magickes-latino/Temporada%206/The.Fairly.OddParents.S06E07-S06E08.480p.PMTP.WEB-DL.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2YH4omFedMA8w6Hb9WlNchvP5E.jpg" group-title="Season 6 (2008)",S06E09-10
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2YH4omFedMA8w6Hb9WlNchvP5E.jpg" group-title="Los Padrinos Magicos|Temporada 6",S06E09-10 - Episodios 9-10
 https://archive.org/download/padrines-magickes-latino/Temporada%206/The.Fairly.OddParents.S06E09-S06E10.480p.PMTP.WEB-DL.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2YH4omFedMA8w6Hb9WlNchvP5E.jpg" group-title="Season 6 (2008)",S06E11-12
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2YH4omFedMA8w6Hb9WlNchvP5E.jpg" group-title="Los Padrinos Magicos|Temporada 6",S06E11-12 - Episodios 11-12
 https://archive.org/download/padrines-magickes-latino/Temporada%206/The.Fairly.OddParents.S06E11-S06E12.480p.PMTP.WEB-DL.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2YH4omFedMA8w6Hb9WlNchvP5E.jpg" group-title="Season 6 (2008)",S06E13-14
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2YH4omFedMA8w6Hb9WlNchvP5E.jpg" group-title="Los Padrinos Magicos|Temporada 6",S06E13-14 - Episodios 13-14
 https://archive.org/download/padrines-magickes-latino/Temporada%206/The.Fairly.OddParents.S06E13-S06E14.480p.PMTP.WEB-DL.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2YH4omFedMA8w6Hb9WlNchvP5E.jpg" group-title="Season 6 (2008)",S06E15-16
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2YH4omFedMA8w6Hb9WlNchvP5E.jpg" group-title="Los Padrinos Magicos|Temporada 6",S06E15-16 - Episodios 15-16
 https://archive.org/download/padrines-magickes-latino/Temporada%206/The.Fairly.OddParents.S06E15-S06E16.480p.PMTP.WEB-DL.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2YH4omFedMA8w6Hb9WlNchvP5E.jpg" group-title="Season 6 (2008)",S06E17-18
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2YH4omFedMA8w6Hb9WlNchvP5E.jpg" group-title="Los Padrinos Magicos|Temporada 6",S06E17-18 - Episodios 17-18
 https://archive.org/download/padrines-magickes-latino/Temporada%206/The.Fairly.OddParents.S06E17-S06E18.480p.PMTP.WEB-DL.mkv
-
-# Temporada 7#EXTIMG:https://image.tmdb.org/t/p/original/2YH4omFedMA8w6Hb9WlNchvP5E.jpg
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2YH4omFedMA8w6Hb9WlNchvP5E.jpg" group-title="Season 6 (2008)",S06E01-02 - Episodios 1-2
-https://archive.org/download/padrines-magickes-latino/Temporada%206/The.Fairly.OddParents.S06E01-S06E02.480p.PMTP.WEB-DL.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2YH4omFedMA8w6Hb9WlNchvP5E.jpg" group-title="Season 6 (2008)",S06E03-04 - Episodios 3-4
-https://archive.org/download/padrines-magickes-latino/Temporada%206/The.Fairly.OddParents.S06E03-S03E04.480p.PMTP.WEB-DL.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2YH4omFedMA8w6Hb9WlNchvP5E.jpg" group-title="Season 6 (2008)",S06E05-06 - Episodios 5-6
-https://archive.org/download/padrines-magickes-latino/Temporada%206/The.Fairly.OddParents.S06E05-S06E06.480p.PMTP.WEB-DL.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2YH4omFedMA8w6Hb9WlNchvP5E.jpg" group-title="Season 6 (2008)",S06E07-08 - Episodios 7-8
-https://archive.org/download/padrines-magickes-latino/Temporada%206/The.Fairly.OddParents.S06E07-S06E08.480p.PMTP.WEB-DL.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2YH4omFedMA8w6Hb9WlNchvP5E.jpg" group-title="Season 6 (2008)",S06E09-10 - Episodios 9-10
-https://archive.org/download/padrines-magickes-latino/Temporada%206/The.Fairly.OddParents.S06E09-S06E10.480p.PMTP.WEB-DL.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2YH4omFedMA8w6Hb9WlNchvP5E.jpg" group-title="Season 6 (2008)",S06E11-12 - Episodios 11-12
-https://archive.org/download/padrines-magickes-latino/Temporada%206/The.Fairly.OddParents.S06E11-S06E12.480p.PMTP.WEB-DL.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2YH4omFedMA8w6Hb9WlNchvP5E.jpg" group-title="Season 6 (2008)",S06E13-14 - Episodios 13-14
-https://archive.org/download/padrines-magickes-latino/Temporada%206/The.Fairly.OddParents.S06E13-S06E14.480p.PMTP.WEB-DL.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2YH4omFedMA8w6Hb9WlNchvP5E.jpg" group-title="Season 6 (2008)",S06E15-16 - Episodios 15-16
-https://archive.org/download/padrines-magickes-latino/Temporada%206/The.Fairly.OddParents.S06E15-S06E16.480p.PMTP.WEB-DL.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2YH4omFedMA8w6Hb9WlNchvP5E.jpg" group-title="Season 6 (2008)",S06E17-18 - Episodios 17-18
-https://archive.org/download/padrines-magickes-latino/Temporada%206/The.Fairly.OddParents.S06E17-S06E18.480p.PMTP.WEB-DL.mkv
-
