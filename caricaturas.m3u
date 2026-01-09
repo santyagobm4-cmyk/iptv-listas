@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTGRP: Padrinos Magicos
+#EXTGRP:Los Padrinos Magicos
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wnMKXmjYl9rWCaX6pjMvma0wKCH.jpg" group-title="Specials (2001)",Christmas Every Day
 https://archive.org/download/padrines-magickes-latino/Temporada%200/The.Fairly.OddParents.S00E01.Christmas.Every.Day.540p.PMTP.WEB-DL.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wnMKXmjYl9rWCaX6pjMvma0wKCH.jpg" group-title="Specials (2001)",Abracatastrophe
@@ -32,6 +32,7 @@ https://archive.org/download/padrines-magickes-latino/Temporada%200/The.Fairly.O
 https://archive.org/download/padrines-magickes-latino/Temporada%200/The.Fairly.OddParents.S00E15.Timmy%27s.Secret.Wish.576p.PMTP.WEB-DL.mkv
 
 #EXTM3U
+#EXTGRP:Los Padrinos Magicos
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fctyxLbxtXsHJi2YsR8o95XdKCh.jpg" group-title="Season 1 (2001)",Episodios 1-2
 https://archive.org/download/padrines-magickes-latino/Temporada%201/The.Fairly.OddParents.S01E01-S01E02.540p.PMTP.WEB-DL.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fctyxLbxtXsHJi2YsR8o95XdKCh.jpg" group-title="Season 1 (2001)",Episodios 3-4
@@ -46,6 +47,7 @@ https://archive.org/download/padrines-magickes-latino/Temporada%201/The.Fairly.O
 https://archive.org/download/padrines-magickes-latino/Temporada%201/The.Fairly.OddParents.S01E11-S01E12.540p.PMTP.WEB-DL.mkv
 
 #EXTM3U
+#EXTGRP:Los Padrinos Magicos
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lXGxGW08iwmiWNPhKJbzlqwijKe.jpg" group-title="Season 2 (2002)",Episodios 1-2
 https://archive.org/download/padrines-magickes-latino/Temporada%202/The.Fairly.OddParents.S02E01-S02E02.540p.PMTP.WEB-DL.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lXGxGW08iwmiWNPhKJbzlqwijKe.jpg" group-title="Season 2 (2002)",Episodios 3-4
@@ -78,6 +80,7 @@ https://archive.org/download/padrines-magickes-latino/Temporada%202/The.Fairly.O
 https://archive.org/download/padrines-magickes-latino/Temporada%202/The.Fairly.OddParents.S02E28-S02E29.540p.PMTP.WEB-DL.mkv
 
 #EXTM3U
+#EXTGRP:Los Padrinos Magicos
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q0DVytE1yEIvwhmsGH9bO0AGkAu.jpg" group-title="Season 3 (2003)",Information Stupor Highway
 https://archive.org/download/padrines-magickes-latino/Temporada%203/The.Fairly.OddParents.S03E01.Information.Stupor.Highway.540p.PMTP.WEB-DL.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q0DVytE1yEIvwhmsGH9bO0AGkAu.jpg" group-title="Season 3 (2003)",Odd Jobs / Movie Magic
@@ -113,6 +116,7 @@ https://archive.org/download/padrines-magickes-latino/Temporada%203/The.Fairly.O
 
 
 #EXTM3U
+#EXTGRP:Los Padrinos Magicos
 #EXTIMG:https://image.tmdb.org/t/p/original/rI1pU0eoZAsyfWYKUb5XYXb4e3Q.jpg
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rI1pU0eoZAsyfWYKUb5XYXb4e3Q.jpg" group-title="Season 4 (2004)",S04E01 - The Big Super Hero Wish
@@ -206,6 +210,7 @@ https://archive.org/download/padrines-magickes-latino/Temporada%205/The.Fairly.O
 https://archive.org/download/padrines-magickes-latino/Temporada%205/The.Fairly.OddParents.S05E33-S05E34.Timmy.the.Barbarian-No.Subsittute.for.Crazy.540p.PMTP.WEB-DL.mkv
 
 #EXTM3U
+#EXTGRP:Los Padrinos Magicos
 #EXTIMG:https://image.tmdb.org/t/p/original/2YH4omFedMA8w6Hb9WlNchvP5E.jpg
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2YH4omFedMA8w6Hb9WlNchvP5E.jpg" group-title="Season 6 (2008)",S06E01-02 - Episodios 1-2
@@ -236,6 +241,7 @@ https://archive.org/download/padrines-magickes-latino/Temporada%206/The.Fairly.O
 https://archive.org/download/padrines-magickes-latino/Temporada%206/The.Fairly.OddParents.S06E17-S06E18.480p.PMTP.WEB-DL.mkv
 
 #EXTM3U
+#EXTGRP:Los Padrinos Magicos
 #EXTIMG:https://image.tmdb.org/t/p/original/soQwzCumfqCvNjWQQmU17mnfAw8.jpg
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/soQwzCumfqCvNjWQQmU17mnfAw8.jpg" group-title="Season 7 (2009)",S07E01-02 - Episodios 1-2
@@ -281,6 +287,7 @@ https://archive.org/download/padrines-magickes-latino/Temporada%207/The.Fairly.O
 https://archive.org/download/padrines-magickes-latino/Temporada%207/The.Fairly.OddParents.S07E26-S07E27.480p.PMTP.WEB-DL.mkv
 
 #EXTM3U
+#EXTGRP:Los Padrinos Magicos
 #EXTIMG:https://image.tmdb.org/t/p/original/bjzsskuz7xxhPkWyOmr3ov6Npb0.jpg
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bjzsskuz7xxhPkWyOmr3ov6Npb0.jpg" group-title="Season 8 (2011)",S08E01 - Episodio 1
