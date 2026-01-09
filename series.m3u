@@ -1,7 +1,5 @@
 #EXTM3U
-
-# --- SECCIÓN NETFLIX Y ESTRENOS ---
-
+#EXTGRP: NETFLIX 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9n2HM0guy6Wn95EshDj7Uw6XWd2.jpg",el tiempo de las mosca (2026)
 https://dl.dropbox.com/scl/fi/w3jovtx3j8a2q69lxtlq1/el-tiempo-de-las-moscas-2026?rlkey=h19cxbk1dofo1ilh8zloqwyyg&st=6gjnsqhm&.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/auBp8c189r2G5rd34wbwQ18YwHa.jpg",en fuga (2026)
@@ -617,4 +615,3 @@ https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.AN1M4C10N/Jur4ss1c.W
 https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.AN1M4C10N/G4t1t0s.3xpl0s1v0s.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/dWaqNrtOMpWXEHYJ0nbPCL1gP2n.jpg",Invencible (2021)
 https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.AN1M4C10N/1nv3nc1bl3.m3u
-
