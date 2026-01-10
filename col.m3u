@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1,SERIES
 https://raw.githubusercontent.com/santyagobm4-cmyk/iptv-listas/refs/heads/main/series.m3u
-#EXTINF:-1,CARICATURAS
-https://raw.githubusercontent.com/santyagobm4-cmyk/iptv-listas/refs/heads/main/caricaturas.m3u
 #EXTINF:-1,PELICULASS
 https://raw.githubusercontent.com/santyagobm4-cmyk/iptv-listas/refs/heads/main/cine.m3u
 
