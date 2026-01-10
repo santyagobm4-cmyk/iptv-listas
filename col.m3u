@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1,SERIES
 https://raw.githubusercontent.com/santyagobm4-cmyk/iptv-listas/refs/heads/main/series.m3u
-#EXTINF:-1,PELICULASS
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/logo-cine_23-2147503279.jpg",Peliculas
 https://raw.githubusercontent.com/santyagobm4-cmyk/iptv-listas/refs/heads/main/cine.m3u
 
 
