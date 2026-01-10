@@ -3,7 +3,8 @@
 https://raw.githubusercontent.com/santyagobm4-cmyk/iptv-listas/refs/heads/main/series.m3u
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/logo-cine_23-2147503279.jpg",Peliculas
 https://raw.githubusercontent.com/santyagobm4-cmyk/iptv-listas/refs/heads/main/cine.m3u
-
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/element_our/20190531/ourmid/pngtree-film-festival-logo-popcorn-and-film-free-png-image_1311154.jpg",🎬 CINE ACCION
+https://raw.githubusercontent.com/santyagobm4-cmyk/iptv-listas/main/accion.m3u
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/a-and-e-ar.png",A&E
 http://45.5.119.43:4000/play/a0gt/index.m3u8
