@@ -1,61 +1,41 @@
 #EXTM3U
 
 # ==========================================
-# PESTAÑA: PELÍCULAS
+# PESTAÑA: PELÍCULAS (Logo de Claqueta/Cine)
 # ==========================================
-
-# --- CATEGORÍA: ACCIÓN ---
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/udAxQEORq2I5wxI97N2TEqdhzBE.jpg" group-title="PELÍCULAS",ACCIÓN: Five Nights at Freddy's 2 (2025)
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3163/3163478.png" group-title="PELÍCULAS",ACCIÓN: Five Nights at Freddy's 2
 https://pomf2.lain.la/f/0taj25n.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5Byv6nznAb2Izd0gHpODOXnuSbo.jpg" group-title="PELÍCULAS",ACCIÓN: Icefall (2025)
 https://dl.dropbox.com/scl/fi/mtr9skbqnjf1ovqf8vhy1/f-sica.mp4?rlkey=x942tqk75dv8a36pi4q8a0zb0&st=lwg6xqdk&dl=1
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6tpAPeuuqbVnYWWPoOLEDLSBU7a.jpg" group-title="PELÍCULAS",ACCIÓN: Trap House (2025)
-https://pomf2.lain.la/f/17jap2e4.mp4
+# --- (Sigue con el resto de tus películas de Acción y Mafia aquí...) ---
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q24zgwQ2ktGd5bfgDm0wV07a68Y.jpg" group-title="PELÍCULAS",ACCIÓN: The Gangster, the Cop, the Devil
-https://dl.dropbox.com/scl/fi/azuy6jcoyovn6wcg25dlo/naturales.mp4?rlkey=ui9opl3hwqreg3h9eq7mci470&st=nsm9jlh2&dl=1
-
-# --- CATEGORÍA: MAFIA ---
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gziIkUSnYuj9ChCi8qOu2ZunpSC.jpg" group-title="PELÍCULAS",MAFIA: Casino (1995)
-https://dl.dropbox.com/scl/fi/g0uanbgazvyrovz7txups/08.mp4?rlkey=6xdmu108wj8i9t5yad7q90p7p&st=6xu2ibv0&dl=1
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xtKLvpOfARi1XVm8u2FTdhY5Piq.jpg" group-title="PELÍCULAS",MAFIA: Donnie Brasco (1997)
-https://dl.dropbox.com/scl/fi/45v6l3qsye83sama6pkip/06.mp4?rlkey=c5ir9n3m5qiwz7h2afya99bvm&st=bd098ded&dl=1
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iQ5ztdjvteGeboxtmRdXEChJOHh.jpg" group-title="PELÍCULAS",MAFIA: Scarface (1983)
-https://pomf2.lain.la/f/1uxk4m3y.mp4
-
-# --- CATEGORÍA: COMEDIA ---
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/70Na5MXfOsFlJvoX6oKYAwOhNN9.jpg" group-title="PELÍCULAS",COMEDIA: Juego sucio (2025)
-https://dl.dropbox.com/scl/fi/ujn7xoyzcidbs5kwrtcgg/sociales.mp4?rlkey=91hgrkqfdzrnq3je42olk36ns&st=24zfjcyt&dl=0
 
 # ==========================================
-# PESTAÑA: SERIES
+# PESTAÑA: SERIES (Logo de Netflix/Pantalla)
 # ==========================================
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg" group-title="SERIES",NETFLIX: Catalogo de Series
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/5977/5977590.png" group-title="SERIES",NETFLIX: Catalogo de Series
 https://raw.githubusercontent.com/santyagobm4-cmyk/iptv-listas/refs/heads/main/series.m3u
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Disney%2B_logo.svg" group-title="SERIES",DISNEY+: Series y Mas
 https://raw.githubusercontent.com/santyagobm4-cmyk/iptv-listas/refs/heads/main/series.m3u
 
-# ==========================================
-# PESTAÑA: CARICATURAS
-# ==========================================
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/disney-channel-ar.png" group-title="CARICATURAS",INFANTIL: Disney Channel
+# ==========================================
+# PESTAÑA: CARICATURAS (Logo de Mickey/Niños)
+# ==========================================
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3082/3082060.png" group-title="CARICATURAS",INFANTIL: Disney Channel
 http://189.50.210.3:8008/play/a02t/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cartoon-network-us.png" group-title="CARICATURAS",INFANTIL: Cartoon Network
 http://189.50.210.3:8008/play/a02u/index.m3u8
 
-# ==========================================
-# PESTAÑA: TV ONLINE
-# ==========================================
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png" group-title="TV ONLINE",DEPORTES: ESPN
+# ==========================================
+# PESTAÑA: TV ONLINE (Logo de Antena/TV)
+# ==========================================
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/716/716429.png" group-title="TV ONLINE",DEPORTES: ESPN
 http://189.50.210.3:8008/play/a038/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/hbo-lam.png" group-title="TV ONLINE",CINE: HBO Live
