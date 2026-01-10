@@ -1,141 +1,62 @@
 #EXTM3U
-#EXTINF:-1,SERIES
+
+# ==========================================
+# PESTAÑA: PELÍCULAS
+# ==========================================
+
+# --- CATEGORÍA: ACCIÓN ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/udAxQEORq2I5wxI97N2TEqdhzBE.jpg" group-title="PELÍCULAS",ACCIÓN: Five Nights at Freddy's 2 (2025)
+https://pomf2.lain.la/f/0taj25n.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5Byv6nznAb2Izd0gHpODOXnuSbo.jpg" group-title="PELÍCULAS",ACCIÓN: Icefall (2025)
+https://dl.dropbox.com/scl/fi/mtr9skbqnjf1ovqf8vhy1/f-sica.mp4?rlkey=x942tqk75dv8a36pi4q8a0zb0&st=lwg6xqdk&dl=1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6tpAPeuuqbVnYWWPoOLEDLSBU7a.jpg" group-title="PELÍCULAS",ACCIÓN: Trap House (2025)
+https://pomf2.lain.la/f/17jap2e4.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q24zgwQ2ktGd5bfgDm0wV07a68Y.jpg" group-title="PELÍCULAS",ACCIÓN: The Gangster, the Cop, the Devil
+https://dl.dropbox.com/scl/fi/azuy6jcoyovn6wcg25dlo/naturales.mp4?rlkey=ui9opl3hwqreg3h9eq7mci470&st=nsm9jlh2&dl=1
+
+# --- CATEGORÍA: MAFIA ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gziIkUSnYuj9ChCi8qOu2ZunpSC.jpg" group-title="PELÍCULAS",MAFIA: Casino (1995)
+https://dl.dropbox.com/scl/fi/g0uanbgazvyrovz7txups/08.mp4?rlkey=6xdmu108wj8i9t5yad7q90p7p&st=6xu2ibv0&dl=1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xtKLvpOfARi1XVm8u2FTdhY5Piq.jpg" group-title="PELÍCULAS",MAFIA: Donnie Brasco (1997)
+https://dl.dropbox.com/scl/fi/45v6l3qsye83sama6pkip/06.mp4?rlkey=c5ir9n3m5qiwz7h2afya99bvm&st=bd098ded&dl=1
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iQ5ztdjvteGeboxtmRdXEChJOHh.jpg" group-title="PELÍCULAS",MAFIA: Scarface (1983)
+https://pomf2.lain.la/f/1uxk4m3y.mp4
+
+# --- CATEGORÍA: COMEDIA ---
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/70Na5MXfOsFlJvoX6oKYAwOhNN9.jpg" group-title="PELÍCULAS",COMEDIA: Juego sucio (2025)
+https://dl.dropbox.com/scl/fi/ujn7xoyzcidbs5kwrtcgg/sociales.mp4?rlkey=91hgrkqfdzrnq3je42olk36ns&st=24zfjcyt&dl=0
+
+# ==========================================
+# PESTAÑA: SERIES
+# ==========================================
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg" group-title="SERIES",NETFLIX: Catalogo de Series
 https://raw.githubusercontent.com/santyagobm4-cmyk/iptv-listas/refs/heads/main/series.m3u
-#EXTINF:-1,PELICULASS
-https://raw.githubusercontent.com/santyagobm4-cmyk/iptv-listas/refs/heads/main/cine.m3u
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Disney%2B_logo.svg" group-title="SERIES",DISNEY+: Series y Mas
+https://raw.githubusercontent.com/santyagobm4-cmyk/iptv-listas/refs/heads/main/series.m3u
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/a-and-e-ar.png",A&E
-http://45.5.119.43:4000/play/a0gt/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/amc-us.png",AMC
-http://45.5.119.43:4000/play/a0gu/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/america-ar.png",America TV
-http://189.50.210.3:8008/play/a04k/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg",Animal Planet
-http://148.222.225.136:8004/play/a03j/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/axn-ar.png",AXN
-http://148.222.225.136:8004/play/a0i2/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/azteca-7-mx.png",Azteca 7
-http://38.49.128.38:8000/play/a0la/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/baby-tv-us.png",Baby TV
-http://38.49.128.38:8000/play/a0b9/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.asomedios.com/wp-content/uploads/2017/08/logo-canal-uno.jpg",Canal 1
-http://148.222.225.136:8004/play/a06o/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/canal-5-mx.png",Canal 5
-http://38.49.128.38:8000/play/a0n6/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/CaracolTV2025.png",Caracol
-http://181.78.7.90:12500/play/a06e/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cartoonito-us.png",Cartoonito
-http://38.49.128.38:8000/play/a0c1/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cartoon-network-us.png",Cartoon Network
-http://45.5.119.43:4000/play/a0l0/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/cine-canal-ar.png",Cinecanal HD
-http://189.50.210.3:8008/play/a02z/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/cinemax-ar.png",Cinemax
-http://148.222.225.136:8004/play/a0ib/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/dsports-lam.png",Dsports
-http://190.108.83.69:8000/play/a05w/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/discovery-home-and-health-ar.png",DHE
-http://189.50.210.3:8008/play/a07p/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-icon-us.png",Discovery Channel
-http://200.113.4.75:7210/play/a00s/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/discovery-home-and-health-ar.png",Discovery H&H
-http://189.50.210.3:8008/play/a047/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/discovery-kids-ar.png",Discovery Kids
-http://148.222.225.136:8004/play/a0im/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/discovery-science-ar.png",Discovery Science
-http://189.50.210.3:8008/play/a05s/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/discovery-theater-hd-ar.png",Discovery Theater
-http://189.50.210.3:8008/play/a048/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/discovery-turbo-ar.png",Discovery Turbo
-http://200.113.4.75:7210/play/a026/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/discovery-world-hd-ar.png",Discovery World
-http://189.50.210.3:8008/play/a02v/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/disney-channel-ar.png",Disney Channel
+# ==========================================
+# PESTAÑA: CARICATURAS
+# ==========================================
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/disney-channel-ar.png" group-title="CARICATURAS",INFANTIL: Disney Channel
 http://189.50.210.3:8008/play/a02t/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/disney-jr-ar.png",Disney Junior
-http://148.222.225.136:8004/play/a0is/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png",ESPN
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cartoon-network-us.png" group-title="CARICATURAS",INFANTIL: Cartoon Network
+http://189.50.210.3:8008/play/a02u/index.m3u8
+
+# ==========================================
+# PESTAÑA: TV ONLINE
+# ==========================================
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png" group-title="TV ONLINE",DEPORTES: ESPN
 http://189.50.210.3:8008/play/a038/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-2-us.png",ESPN 2
-http://45.173.72.26:2072/play/a05d
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-deportes-us.png",ESPN Deportes
-http://148.113.207.98:8000/play/a004/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-premium-ar.png",ESPN Premium
-http://189.50.210.3:8008/play/a04l/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fox-sports-ar.png",Fox Sports
-http://148.113.207.98:8000/play/a00h/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fox-sports-2-ar.png",Fox Sports 2
-http://148.113.207.98:8000/play/a006/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png",France 24
-http://190.102.123.28:8097/play/a0dh/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/golden-lam.png",Golden
-http://45.5.119.43:4000/play/a0jv/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/hbo-lam.png",HBO
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/hbo-lam.png" group-title="TV ONLINE",CINE: HBO Live
 http://189.50.210.3:8008/play/a032/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/hbo-family-lam.png",HBO Family
-http://189.50.210.3:8008/play/a07r/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/hbo-mundi-lam.png",HBO Mundi
-http://189.50.210.3:8008/play/a071/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/hbo-plus-lam.png",HBO Plus
-http://200.113.4.75:7210/play/a00i/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/hbo-pop-lam.png",HBO POP
-http://189.50.210.3:8008/play/a034/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/hbo-xtreme-lam.png",HBO Xtreme
-http://189.50.210.3:8008/play/a07s/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/history-channel-us.png",History Channel
-http://200.113.4.75:7210/play/a01d/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/history-channel-2-us.png",History 2
-http://189.50.210.3:8008/play/a06l/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/LaLiga_EA_Sports_2023_Horizontal_Logo.svg",La liga
-http://45.5.119.43:4000/play/a05r/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/32/1/la-kalle-la-mandamas-logo-png_seeklogo-322671.png",La kalle
-http://181.78.7.90:12500/play/a06g/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/nickelodeon-ar.png",Nick
-http://189.50.210.3:8008/play/a035/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/nick-jr-ar.png",Nick Jr
-http://200.113.4.75:7210/play/a025/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/paramount-network-ar.png",Paramount
-http://189.50.210.3:8008/play/a04g/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CanalRCN2023.png",RCN
-http://189.50.210.3:8008/play/a04i/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Se%C3%B1al_Colombia_logo.svg",señal colombia
-http://181.78.7.90:12500/play/a06e/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", Sony
-http://200.113.4.75:7210/play/a021/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/SpaceLogo.svg", Space
-http://189.50.210.3:8008/play/a02y/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Star_Channel_2020.svg",Star channel
-http://189.50.210.3:8008/play/a02w/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png",Studio universal
-http://189.50.210.3:8008/play/a05x/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/6c/eb/f7/6cebf791d2bd6ed98fec71eca8945893.jpg",Sun channel
-http://189.50.210.3:8008/play/a07t/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/SYFY.svg",syfy
-http://200.113.4.75:7210/play/a02l/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TCM_Latam_logo.svg",TCM
-http://200.113.4.75:7210/play/a01m/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Telecaribe_%28nuevo_logo_con_color%29.png",Telecaribe
-http://181.78.7.90:12500/play/a00d/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg",Telemundo
-http://200.113.4.75:7210/play/a018/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png",Telenovelas
-http://181.78.7.90:12500/play/a0b4/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TNT_Logo_2016.svg",TNT
-http://181.78.7.90:12500/play/a00p/index.m3u8
-#EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2025/09/tnt_novelas-logo_brandlogos.net_nwspq.png",TNT Novelas
-http://200.113.4.75:7210/play/a02m/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/TNT_Series_2025.svg",TNT Series
-http://189.50.210.3:8008/play/a04f/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TNT_Sports_%282023%29.svg",TNT Sports
-http://189.50.210.3:8008/play/a074/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/TyC_Sports_logo.svg",TyC Sports
-http://189.50.210.3:8008/play/a06x/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/USA_Network_2020.svg",USA
-http://189.50.210.3:8008/play/a06z/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",Warner Channel
-http://189.50.210.3:8008/play/a02x/index.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1813003191585263616/QTMBM1_W_400x400.png",Win Sports
-http://190.61.55.34:2401/play/win/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png",Win Sports+
-http://189.50.210.3:8008/play/a04n/index.m3u8
