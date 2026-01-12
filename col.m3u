@@ -24,7 +24,7 @@ http://38.49.128.38:8000/play/a0n6/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/CaracolTV2025.png",Caracol
 http://181.78.7.90:12500/play/a06b/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cartoonito-us.png",Cartoonito
-http://38.49.128.38:8000/play/a0c1/index.m3u8
+http://imaxplay.net:8880//live/Alemilo/Kg3wf9X3yG/54405.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cartoon-network-us.png",Cartoon Network
 http://45.5.119.43:4000/play/a0l0/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/cine-canal-ar.png",Cinecanal HD
