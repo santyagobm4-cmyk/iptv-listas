@@ -45,7 +45,7 @@ http://200.113.4.75:7210/play/a00s/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/discovery-home-and-health-ar.png",Discovery H&H
 http://189.50.210.3:8008/play/a047/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/discovery-kids-ar.png",Discovery Kids
-http://148.222.225.136:8004/play/a0im/index.m3u8
+http://181.114.57.246:4000/play/s8FgQukj6d9eKmT9/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/discovery-science-ar.png",Discovery Science
 http://189.50.210.3:8008/play/a05s/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/discovery-theater-hd-ar.png",Discovery Theater
