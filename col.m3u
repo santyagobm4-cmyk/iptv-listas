@@ -67,7 +67,7 @@ http://cdn1host.online:2999/xman2b/d5lxdEfHnB/54386?mode=0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-premium-ar.png",ESPN Premium
 http://189.50.210.3:8008/play/a04l/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fox-sports-ar.png",Fox Sports
-http://148.113.207.98:8000/play/a00h/index.m3u8
+http://200.115.120.1:8000/play/ca041/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fox-sports-2-ar.png",Fox Sports 2
 http://148.113.207.98:8000/play/a006/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2025/03/09/20250309021248533632_54.png",Fox Sports 3
