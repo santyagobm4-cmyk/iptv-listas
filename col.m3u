@@ -35,7 +35,7 @@ http://181.114.57.246:4000/play/AS2ESM6kwGDqHCaX/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/cinemax-ar.png",Cinemax
 http://148.222.225.136:8004/play/a0ib/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/dsports-lam.png",Dsports
-http://38.199.6.1:17001/play/a0d0/index.m3u8
+https://zonamovie.pro:443/play/XtsGGjF0WqupI1riLHFyknO178VIrcZbAiHl_MW_y6bIOdAohtGsbyKjaPFdcgn9/ts
 #EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTI4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png", Dsports 2
 http://192.187.102.26:80/playlistfinder/playlistfinder/24.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png" ,Dsports+
