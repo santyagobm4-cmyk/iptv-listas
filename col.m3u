@@ -3,8 +3,6 @@
 https://raw.githubusercontent.com/santyagobm4-cmyk/iptv-listas/refs/heads/main/series.m3u
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/logo-cine_23-2147503279.jpg",Peliculas
 https://raw.githubusercontent.com/santyagobm4-cmyk/iptv-listas/refs/heads/main/cine.m3u
-#EXTINF:-1,Los padrinos magicos 27/7
-http://imaxplay.net:8880//live/Alemilo/Kg3wf9X3yG/531670.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/a-and-e-ar.png",A&E
 http://45.5.119.43:4000/play/a0gt/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/amc-us.png",AMC
@@ -63,7 +61,7 @@ http://189.50.210.3:8008/play/a02t/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/disney-jr-ar.png",Disney Junior
 http://148.222.225.136:8004/play/a0is/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png",ESPN
-http://cdn1host.online:2999/xman2b/d5lxdEfHnB/54387?mode=0
+http://127.0.0.1:58791/stream
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-2-us.png",ESPN 2
 http://cdn1host.online:2999/xman2b/d5lxdEfHnB/54386?mode=0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-premium-ar.png",ESPN Premium
