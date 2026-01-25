@@ -30,6 +30,8 @@ http://45.5.119.43:4000/play/a0l0/index.m3u8
 http://181.114.57.246:4000/play/AS2ESM6kwGDqHCaX/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/cinemax-ar.png",Cinemax
 http://148.222.225.136:8004/play/a0ib/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/960px-DAZN_logo.png", DAZN
+http://w2ykhfex.ukminlt.fun/iptv/8EGRPVCLVXGM5L3GT22U9NSQ/31856/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/dsports-lam.png",Dsports
 http://cdn1host.online:2999/xman2b/d5lxdEfHnB/1688?mode=0
 #EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTI4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png", Dsports 2
@@ -98,8 +100,6 @@ http://189.50.210.3:8008/play/a07s/index.m3u8
 http://200.113.4.75:7210/play/a01d/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/history-channel-2-us.png",History 2
 http://189.50.210.3:8008/play/a06l/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/LaLiga_EA_Sports_2023_Horizontal_Logo.svg",La liga
-http://45.5.119.43:4000/play/a05r/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/32/1/la-kalle-la-mandamas-logo-png_seeklogo-322671.png",La kalle
 http://181.78.7.90:12500/play/a06g/index.m3u8
 #EXTINF:-1,Mickey Mouse 24/7
