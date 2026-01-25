@@ -35,7 +35,10 @@ http://148.222.225.136:8004/play/a0ib/index.m3u8
 #EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com
 https://deportes.ksdjugfsddeports.com:9092/MTc5LjQ5LjIyNC42/28_.m3u8?token=_RPU0dsgpZZ3Gn0Cu05XrA&expires=1769378538
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/dsports-lam.png",Dsports
-http://cdn1host.online:2999/xman2b/d5lxdEfHnB/1688?mode=0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com
+https://deportes.ksdjugfsddeports.com:9092/MTc5LjQ5LjIyNC42/3_.m3u8?token=I1r7O6EiymOHYedVeOCOGQ&expires=1769379354
+
 #EXTINF:-1 tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTI4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png", Dsports 2
 http://192.187.102.26:80/playlistfinder/playlistfinder/24.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png" ,Dsports+
