@@ -56,7 +56,7 @@ http://189.50.210.3:8008/play/a02v/index.m3u8
 http://189.50.210.3:8008/play/a02t/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/disney-jr-ar.png",Disney Junior
 https://zonamovie.pro:443/play/XtsGGjF0WqupI1riLHFykh2-6sEm_pEkAZ5TsAzhPX6sfVepwIAdFM-oAeiMvztD/ts
-#EXTINF:-1,El chavo del 8 24/7
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/El_Chavo_Animado_logo.svg/1280px-El_Chavo_Animado_logo.png",El chavo del 8 24/7
 https://zonamovie.pro:443/play/XtsGGjF0WqupI1riLHFykrlCDZVICSw0iELuK2_6wsxO4sOPdBwImwWxF1PrDZSP/ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png",ESPN
 http://cdn1host.online:2999/xman2b/d5lxdEfHnB/54387?mode=0
