@@ -57,11 +57,13 @@ http://189.50.210.3:8008/play/a02v/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/disney-channel-ar.png",Disney Channel
 http://189.50.210.3:8008/play/a02t/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/disney-jr-ar.png",Disney Junior
-http://148.222.225.136:8004/play/a0is/index.m3u8
+https://zonamovie.pro:443/play/XtsGGjF0WqupI1riLHFykh2-6sEm_pEkAZ5TsAzhPX6sfVepwIAdFM-oAeiMvztD/ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png",ESPN
 http://cdn1host.online:2999/xman2b/d5lxdEfHnB/54387?mode=0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-2-us.png",ESPN 2
 http://cdn1host.online:2999/xman2b/d5lxdEfHnB/54386?mode=0
+#EXTINF:-1,ESPN DEPORTES
+https://zonamovie.pro:443/play/XtsGGjF0WqupI1riLHFykmnz-KqKEOPFTEs8inKMD6WysZkI5e0d6hI4-Yj5VXyz/ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-premium-ar.png",ESPN Premium
 http://189.50.210.3:8008/play/a04l/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fox-sports-ar.png",Fox Sports
