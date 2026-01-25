@@ -120,6 +120,10 @@ http://189.50.210.3:8008/play/a04g/index.m3u8
 http://189.50.210.3:8008/play/a04i/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Se%C3%B1al_Colombia_logo.svg",señal colombia
 http://181.78.7.90:12500/play/a06e/index.m3u8
+#EXTINF:-1,SKY sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36
+#EXTVLCOPT:http-referrer=https://deportes.ksdjugfsddeports.com
+https://deportes.ksdjugfsddeports.com:9092/MTc5LjQ5LjIyNC42/37_.m3u8?token=4wD-25SW6TEy_1ZW2RZFOQ&expires=1769379868
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", Sony
 http://200.113.4.75:7210/play/a021/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/SpaceLogo.svg", Space
