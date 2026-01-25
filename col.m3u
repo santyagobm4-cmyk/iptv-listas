@@ -41,7 +41,7 @@ http://192.187.102.26:80/playlistfinder/playlistfinder/25.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/discovery-home-and-health-ar.png",DHE
 http://189.50.210.3:8008/play/a07p/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-icon-us.png",Discovery Channel
-http://200.113.4.75:7210/play/a00s/index.m3u8
+http://181.78.8.199:8000/play/a0c4/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/discovery-home-and-health-ar.png",Discovery H&H
 http://189.50.210.3:8008/play/a047/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/discovery-kids-ar.png",Discovery Kids
@@ -64,6 +64,10 @@ https://zonamovie.pro:443/play/XtsGGjF0WqupI1riLHFykrlCDZVICSw0iELuK2_6wsxO4sOPd
 http://cdn1host.online:2999/xman2b/d5lxdEfHnB/54387?mode=0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-2-us.png",ESPN 2
 http://cdn1host.online:2999/xman2b/d5lxdEfHnB/54386?mode=0
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN 3
+http://181.78.8.199:8000/play/a07f/index.m3u8
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.png",ESPN 4
+http://181.78.8.199:8000/play/a09b/index.m3u8
 #EXTINF:-1,ESPN DEPORTES
 https://zonamovie.pro:443/play/XtsGGjF0WqupI1riLHFykmnz-KqKEOPFTEs8inKMD6WysZkI5e0d6hI4-Yj5VXyz/ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-premium-ar.png",ESPN Premium
