@@ -70,7 +70,7 @@ http://181.78.8.199:8000/play/a07f/index.m3u8
 http://181.78.8.199:8000/play/a09b/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1280px-ESPN_5_logo.png", ESPN 5
 http://181.78.8.199:8000/play/a08n/index.m3u8
-#EXTINF:-1,ESPN DEPORTES
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/1280px-ESPN_Deportes.png",ESPN DEPORTES
 https://zonamovie.pro:443/play/XtsGGjF0WqupI1riLHFykmnz-KqKEOPFTEs8inKMD6WysZkI5e0d6hI4-Yj5VXyz/ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-premium-ar.png",ESPN Premium
 http://189.50.210.3:8008/play/a04l/index.m3u8
