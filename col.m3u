@@ -52,11 +52,6 @@ http://181.78.8.199:8000/play/a07f/index.m3u8
 http://181.78.8.199:8000/play/a09b/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1280px-ESPN_5_logo.png", ESPN 5
 http://148.222.225.136:8004/play/a0jg/index.m3u8
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/1280px-ESPN_Deportes.png",ESPN DEPORTES
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/144 Safari/537.36
-#EXTVLCOPT:http-referrer=https://la14hd.com/
-https://rm8zcvk3.fubohd.com/espndeportes/2026/01/28/19/52/28-05606.ts?token=ad9e1dd429f861c7cdb25072d6cb4631c4e15757-f-1769646807-1769628807
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-premium-ar.png",ESPN Premium
 http://189.50.210.3:8008/play/a04l/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fox-sports-ar.png",Fox Sports
