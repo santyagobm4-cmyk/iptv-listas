@@ -104,12 +104,19 @@ http://200.113.4.75:7210/play/a01m/index.m3u8
 http://181.78.7.90:12500/play/a00d/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg",Telemundo
 http://200.113.4.75:7210/play/a018/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png",Telenovelas
-http://181.78.7.90:12500/play/a0b4/index.m3u8
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png",Telenovelas
+#EXTVLCOPT:network-caching=1000
+http://190.60.49.242:4000/play/a0pv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Tooncast_logo.svg",Tooncast
 http://190.60.49.242:4000/play/a0j1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TNT_Logo_2016.svg",TNT
 http://181.78.7.90:12500/play/a00p/index.m3u8
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png", TNT NOVELAS
+#EXTVLCOPT:network-caching=1000
+http://190.60.49.242:4000/play/a0gq/index.m3u8
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/TNT_Serie_HD_Logo_2016.svg",TNT SERIES
+#EXTVLCOPT:network-caching=1000
+http://190.60.49.242:4000/play/a0ax/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TNT_Sports_%282023%29.svg",TNT Sports
 http://189.50.210.3:8008/play/a074/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/TyC_Sports_logo.svg",TyC Sports
