@@ -77,7 +77,7 @@ https://zonamovie.pro:443/play/XtsGGjF0WqupI1riLHFykkUT_7JeM9LSWSIaE_IqMTy2QwCWp
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/nickelodeon-ar.png",Nick
 http://189.50.210.3:8008/play/a035/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/nick-jr-ar.png",Nick Jr
-http://200.113.4.75:7210/play/a025/index.m3u8
+http://190.60.49.242:4000/play/a0iw/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/paramount-network-ar.png",Paramount
 http://189.50.210.3:8008/play/a04g/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CanalRCN2023.png",RCN
@@ -85,7 +85,7 @@ http://189.50.210.3:8008/play/a04i/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Se%C3%B1al_Colombia_logo.svg",señal colombia
 http://181.78.7.90:12500/play/a06e/index.m3u8
 #EXTINF:-1,SKY sports
-http://190.92.10.66:4000/play/a001/index.m3u8
+http://177.10.184.60:8002/play/a01d/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", Sony
 http://200.113.4.75:7210/play/a021/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/SpaceLogo.svg", Space
@@ -106,6 +106,8 @@ http://181.78.7.90:12500/play/a00d/index.m3u8
 http://200.113.4.75:7210/play/a018/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png",Telenovelas
 http://181.78.7.90:12500/play/a0b4/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Tooncast_logo.svg",Tooncast
+http://190.60.49.242:4000/play/a0j1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TNT_Logo_2016.svg",TNT
 http://181.78.7.90:12500/play/a00p/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TNT_Sports_%282023%29.svg",TNT Sports
