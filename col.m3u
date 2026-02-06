@@ -89,7 +89,7 @@ http://189.50.210.3:8008/play/a04g/index.m3u8
 http://189.50.210.3:8008/play/a04i/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Se%C3%B1al_Colombia_logo.svg",señal colombia
 http://181.78.7.90:12500/play/a06e/index.m3u8
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/Sky_logo_2025.svg",SKY sports
+#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Sky_Sport_DE_Logo_2016.png",SKY sports
 http://177.10.184.60:8002/play/a01d/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", Sony
 http://200.113.4.75:7210/play/a021/index.m3u8
