@@ -77,6 +77,9 @@ http://190.60.49.242:4000/play/a0iq/index.m3u8
 #EXTVLCOPT:http-reconnect=true
 http://190.108.83.69:8000/play/a05w/index.m3u8
 
+#EXTINF:-1 tvg-logo"https://logos.fandom.com/wiki/DSports%2B_(Latin_America)?file=DSportsM%C3%A1s.png",Dsports+
+http://live.fuxxion.club:8080/rmolinac/6a7YfeTpG2/9557
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-icon-us.png",Discovery Channel
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT:http-reconnect=true
