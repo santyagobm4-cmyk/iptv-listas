@@ -63,7 +63,7 @@ https://deportes.ksdjugfsddeports.com:9092/MTc5LjQ5LjIyNC42/31_1763.ts
 http://190.108.83.69:8000/play/a05w/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://logos.fandom.com/wiki/DSports%2B_(Latin_America)?file=DSportsM%C3%A1s.png",Dsports+
-http://live.fuxxion.club:8080/rmolinac/6a7YfeTpG2/9557
+http://live.fuxxion.club:8080/rmolinac/6a7YfeTpG2/9559
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png",ESPN
 #EXTVLCOPT:network-caching=3000
@@ -289,3 +289,6 @@ http://live.fuxxion.club:8080/rmolinac/6a7YfeTpG2/162888
 #EXTINF:-1 group-title="INFANTILES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Courage_The_Cowardly_Dog_logo.png",Corraje el perro cobarde 24/7
 #EXTVLCOPT:network-caching=3000
 http://live.fuxxion.club:8080/rmolinac/6a7YfeTpG2/162890
+
+#EXTINF:-1 group-tittle="INFANTILES"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz3SLEhBc3lBK_EIPzxoKv8CbicnM8i7EA6A&s.png",El show de los looney tunes
+http://live.fuxxion.club:8080/rmolinac/6a7YfeTpG2/169577
