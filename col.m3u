@@ -67,7 +67,7 @@ http://live.fuxxion.club:8080/rmolinac/6a7YfeTpG2/9559
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png",ESPN
 #EXTVLCOPT:network-caching=3000
-http://cdn1host.online:2999/xman2b/d5lxdEfHnB/54387?mode=0
+http://181.78.8.199:8000/play/a0b1/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-2-us.png",ESPN 2
 #EXTVLCOPT:network-caching=3000
