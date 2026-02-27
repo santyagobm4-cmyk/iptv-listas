@@ -3,17 +3,8 @@
 #---------------------------------------------------------
 # INFANTILES
 #---------------------------------------------------------
-#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Looney_Tunes_2024.svg",Looney tunes
-http://live.fuxxion.club:8080/rmolinac/6a7YfeTpG2/162910
-
-#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Pinkpanther-logo.svg",La pantera Rosa
-http://live.fuxxion.club:8080/rmolinac/6a7YfeTpG2/162962
-
-#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://w7.pngwing.com/pngs/800/403/png-transparent-woody-woodpecker-logo-bird-hunting-pajaro-loco-text-logo-computer-wallpaper.png",El pajaro Loco
-http://live.fuxxion.club:8080/rmolinac/6a7YfeTpG2/169541
-
-#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/El_Chavo_Animado_logo.svg",El chavo animado
-http://live.fuxxion.club:8080/rmolinac/6a7YfeTpG2/169540
+#EXTINF:-1 group-tittle="INFANTILES" tvg-logo"https://upload.wikimedia.org/wikipedia/commons/8/8e/BitMe.svg",BitMe
+http://181.78.8.199:8000/play/a0ga/index.m3u8
 
 #EXTINF:-1 group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/baby-tv-us.png",Baby TV
 #EXTVLCOPT:network-caching=3000
@@ -88,6 +79,9 @@ http://148.222.225.136:8004/play/a0jg/index.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-premium-ar.png",ESPN Premium
 #EXTVLCOPT:network-caching=3000
 http://189.50.210.3:8008/play/a04l/index.m3u8
+
+#EXTINF:-1 group-titlr="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/ESPN_Deportes.svg",Espn Deportes
+http://199.127.63.143:9090/279426_.m3u8
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fox-sports-ar.png",Fox Sports
 #EXTVLCOPT:network-caching=3000
