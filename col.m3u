@@ -53,7 +53,7 @@ https://deportes.ksdjugfsddeports.com:9092/MTc5LjQ5LjIyNC42/31_1763.ts
 #EXTVLCOPT:network-caching=3000
 http://190.108.83.69:8000/play/a05w/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://logos.fandom.com/wiki/DSports%2B_(Latin_America)?file=DSportsM%C3%A1s.png",Dsports+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png",Dsports+
 http://streamingtv.vip:80//live/Ndnrb948486263bsc/727etsbnd709/306888.ts
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png",ESPN
