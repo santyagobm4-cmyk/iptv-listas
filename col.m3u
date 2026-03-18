@@ -58,15 +58,15 @@ http://streamingtv.vip:80//live/Ndnrb948486263bsc/727etsbnd709/306888.ts
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png",ESPN
 #EXTVLCOPT:network-caching=3000
-http://181.78.8.199:8000/play/a0b1/index.m3u8
+http://181.78.14.26:4000/play/a009/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-2-us.png",ESPN 2
 #EXTVLCOPT:network-caching=3000
-http://45.173.72.26:2072/play/a05d
+http://181.78.14.26:4000/play/a02p/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN 3
 #EXTVLCOPT:network-caching=3000
-http://190.60.49.242:4000/play/a0jm/index.m3u8
+http://190.60.49.242:4000/play/a070/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.png",ESPN 4
 #EXTVLCOPT:network-caching=3000
@@ -74,14 +74,14 @@ http://181.78.8.199:8000/play/a09b/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1280px-ESPN_5_logo.png", ESPN 5
 #EXTVLCOPT:network-caching=3000
-http://190.171.83.2:4000/play/a0qb/index.m3u8
+http://181.78.14.26:4000/play/a03x/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-premium-ar.png",ESPN Premium
 #EXTVLCOPT:network-caching=3000
-http://189.50.210.3:8008/play/a04l/index.m3u8
+http://38.250.228.248:8000/play/a055/index.m3u8
 
 #EXTINF:-1 group-titlr="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/ESPN_Deportes.svg",Espn Deportes
-http://199.127.63.143:9090/279426_.m3u8
+http://smarterstv99.dyndns.tv:25461/live/Juan823/XrrdxQgVwb2E/350059.ts
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fox-sports-ar.png",Fox Sports
 #EXTVLCOPT:network-caching=3000
@@ -109,7 +109,7 @@ http://189.50.210.3:8008/play/a06x/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://pbs.twimg.com/profile_images/1813003191585263616/QTMBM1_W_400x400.png",Win Sports
 #EXTVLCOPT:network-caching=3000
-http://148.222.225.136:8004/play/a057/index.m3u8
+http://217.26.190.76:8888/play/a06a/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png",Win Sports+
 #EXTVLCOPT:network-caching=3000
@@ -277,16 +277,3 @@ http://181.78.7.90:12500/play/a00d/index.m3u8
 #EXTVLCOPT:network-caching=3000
 http://190.60.49.242:4000/play/a0pv/index.m3u8
 
-#---------------------------------------------------------
-# 24/7
-#---------------------------------------------------------
-#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Bob_esponja_logotipo.svg", BOB esponja 24/7
-#EXTVLCOPT:network-caching=3000
-http://live.fuxxion.club:8080/rmolinac/6a7YfeTpG2/162888
-
-#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Courage_The_Cowardly_Dog_logo.png",Corraje el perro cobarde 24/7
-#EXTVLCOPT:network-caching=3000
-http://live.fuxxion.club:8080/rmolinac/6a7YfeTpG2/162890
-
-#EXTINF:-1 group-tittle="INFANTILES"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz3SLEhBc3lBK_EIPzxoKv8CbicnM8i7EA6A&s.png",El show de los looney tunes
-http://live.fuxxion.club:8080/rmolinac/6a7YfeTpG2/169577
