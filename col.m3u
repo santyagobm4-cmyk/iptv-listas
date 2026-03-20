@@ -3,6 +3,17 @@
 #---------------------------------------------------------
 # INFANTILES
 #---------------------------------------------------------
+#EXTINF:-1 group-titlle="24/7",Nick Toons
+https://stitcher.pluto.tv/stitch/hls/channel/645952687cb4b100084ed52e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91508f22-9c45-11f0-a2e8-e6529e9ee743
+
+#EXTINF:-1 group-titlle="24/7",Capitan Tsubasa
+https://stitcher.pluto.tv/stitch/hls/channel/64666345f3f5b1000882bfb4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91508f22-9c45-11f0-a2e8-e6529e9ee743
+
+#EXTINF:-1 group-titlle="24/7",Los padrinos magicos
+https://stitcher.pluto.tv/stitch/hls/channel/6322099c822bbc00074857db/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91508f22-9c45-11f0-a2e8-e6529e9ee743
+
+#EXTINF:-1 group-titlle="24/7",Bob esponja
+https://stitcher.pluto.tv/stitch/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91508f22-9c45-11f0-a2e8-e6529e9ee743
 #EXTINF:-1 group-title="INFANTILES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/BitMe.svg",BitMe
 http://181.78.8.199:8000/play/a0ga/index.m3u8
 
