@@ -13,7 +13,7 @@ https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8
 #EXTINF:-1 group-title="24/7",Capitan Tsubasa
 https://jmp2.uk/plu-64666345f3f5b1000882bfb4.m3u8
 
-#EXTINF:-1 group-title="24/7",Los padrinos magicos
+#EXTINF:-0 group-title="24/7",Los padrinos magicos
 #EXTVLCOPT:network-caching=3000
 http://codetvx.xyz:80/juliotapia2022/QQXjSpKKnRUh/428509.ts
 
