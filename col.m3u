@@ -63,7 +63,7 @@ http://streamingtv.vip:80//live/Ndnrb948486263bsc/727etsbnd709/306888.ts
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png",ESPN
 #EXTVLCOPT:network-caching=3000
-http://181.78.14.26:4000/play/a009/index.m3u8
+http://181.78.7.90:12500/play/a0pv/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-2-us.png",ESPN 2
 #EXTVLCOPT:network-caching=3000
