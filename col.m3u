@@ -11,23 +11,23 @@ http://m3u.tvcluboficial.com/Reach.Bot/p6C/92.m3u8
 
 #EXTINF:-1 group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/baby-tv-us.png",Baby TV
 #EXTVLCOPT:network-caching=3000
-http://tecnotv.club/18ma/phpcode/lista1.php?c=a03f&token=tecnotokenplustv230516F&f=.m3u8
+http://181.78.8.199:8000/play/a08d/index.m3u8
 
 #EXTINF:-0 group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cartoonito-us.png",Cartoonito
 #EXTVLCOPT:network-caching=3000
-http://tecnotv.club/18ma/phpcode/lista1.php?c=a039&token=tecnotokenplustv230516F&f=.m3u8
+http://181.78.8.199:8000/play/a09f/index.m3u8
 
 #EXTINF:-0 group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cartoon-network-us.png",Cartoon Network
 #EXTVLCOPT:network-caching=3000
-http://190.60.49.242:4000/play/a0il/index.m3u8
+http://181.78.8.199:8000/play/a095/index.m3u8
 
 #EXTINF:-0 group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/discovery-kids-ar.png",Discovery Kids
 #EXTVLCOPT:network-caching=3000
-http://189.50.210.3:8008/play/a07u/index.m3u8
+http://181.78.8.199:8000/play/a09a/index.m3u8
 
 #EXTINF:-0 group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/disney-channel-ar.png",Disney Channel
 #EXTVLCOPT:network-caching=3000
-http://189.50.210.3:8008/play/a02t/index.m3u8
+http://181.78.8.199:8000/play/a0dn/index.m3u8
 
 #EXTINF:-0 group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/disney-jr-ar.png",Disney Junior
 #EXTVLCOPT:network-caching=3000
