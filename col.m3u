@@ -119,7 +119,7 @@ http://217.26.190.76:8888/play/a06a/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png",Win Sports+
 #EXTVLCOPT:network-caching=3000
-http://181.78.79.131:8000/play/a0n1
+http://181.78.8.199:8000/play/a070/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png",Bein Spors Extra Ñ
 
