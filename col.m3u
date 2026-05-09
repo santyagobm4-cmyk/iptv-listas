@@ -59,8 +59,6 @@ http://ultra-premium-pro.xyz:8080/m2608/m260822/60265
 #EXTVLCOPT:network-caching=3000
 http://190.108.83.69:8000/play/a05w/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png",Dsports+
-http://streamingtv.vip:80//live/Ndnrb948486263bsc/727etsbnd709/306888.ts
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png",ESPN
 #EXTVLCOPT:network-caching=3000
@@ -103,7 +101,7 @@ http://177.53.153.207:8000/play/a001/index.m3u8
 
 #EXTINF:-0 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Sky_Sport_DE_Logo_2016.png",SKY sports
 #EXTVLCOPT:network-caching=3000
-http://190.92.10.66:4000/play/a001/index.m3u8
+http://smarterstv99.dyndns.tv:25461/live/Juan823/XrrdxQgVwb2E/492893.ts
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TNT_Sports_%282023%29.svg",TNT Sports
 #EXTVLCOPT:network-caching=3000
