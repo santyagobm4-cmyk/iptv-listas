@@ -155,31 +155,34 @@ http://181.78.8.199:8000/play/a0c4/index.m3u8
 
 #EXTINF:0 group-title="CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Discovery_Home_%26_Health_logo.svg",Discovery H&H
 #EXTVLCOPT:network-caching=3000
-http://190.60.49.242:4000/play/a0ib/index.m3u8
+http://181.78.8.199:8000/play/a071/index.m3u8
 
 #EXTINF:-1 group-title="CULTURA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/golden-lam.png",Golden
 #EXTVLCOPT:network-caching=3000
-http://45.5.119.43:4000/play/a0jv/index.m3u8
+http://181.78.8.199:8000/play/a0cj/index.m3u8
+
+#EXTINF:-1 group-tittle="CULTURA" , Golden Edge
+http://181.78.8.199:8000/play/a0ck/index.m3u8
 
 #EXTINF:-1 group-title="CULTURA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/hbo-lam.png",HBO
 #EXTVLCOPT:network-caching=3000
-http://189.50.210.3:8008/play/a032/index.m3u8
+https://raw.githubusercontent.com/hansoljun0/t-v/refs/heads/main/TV2.m3u
 
 #EXTINF:-1 group-title="CULTURA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/hbo-family-lam.png",HBO Family
 #EXTVLCOPT:network-caching=3000
-http://190.60.49.242:4000/play/a0o6/index.m3u8
+http://45.181.122.46:8090/play/a017
 
-#EXTINF:-1 group-title="CULTURA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/hbo-mundi-lam.png",HBO Mundi
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/hbo-mundi-lam.png",HBO 2
 #EXTVLCOPT:network-caching=3000
-http://189.50.210.3:8008/play/a071/index.m3u8
+http://45.181.122.46:8090/play/a043
 
 #EXTINF:-1 group-title="CULTURA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/hbo-plus-lam.png",HBO Plus
 #EXTVLCOPT:network-caching=3000
-http://200.113.4.75:7210/play/a00i/index.m3u8
+http://45.181.122.46:8090/play/a039
 
 #EXTINF:-1 group-title="CULTURA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/hbo-pop-lam.png",HBO POP
 #EXTVLCOPT:network-caching=3000
-http://189.50.210.3:8008/play/a034/index.m3u8
+http://45.181.122.46:8090/play/a00j
 
 #EXTINF:-1 group-title="CULTURA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/hbo-xtreme-lam.png",HBO Xtreme
 #EXTVLCOPT:network-caching=3000
@@ -191,55 +194,38 @@ http://189.50.210.3:8008/play/a04g/index.m3u8
 
 #EXTINF:-1 group-title="CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", Sony
 #EXTVLCOPT:network-caching=3000
-http://200.113.4.75:7210/play/a021/index.m3u8
+http://181.78.8.199:8000/play/a0ao/index.m3u8
 
 #EXTINF:-1 group-title="CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/SpaceLogo.svg", Space
 #EXTVLCOPT:network-caching=3000
-http://148.222.225.136:8004/play/a0e4/index.m3u8
+http://181.78.8.199:8000/play/a096/index.m3u8
 
 #EXTINF:-1 group-title="CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Star_Channel_2020.svg",Star channel
 #EXTVLCOPT:network-caching=3000
-http://189.50.210.3:8008/play/a02w/index.m3u8
+http://181.78.8.199:8000/play/a0c9/index.m3u8
 
 #EXTINF:-1 group-title="CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png",Studio universal
 #EXTVLCOPT:network-caching=3000
-http://189.50.210.3:8008/play/a05x/index.m3u8
+http://181.78.8.199:8000/play/a0cf/index.m3u8
 
-#EXTINF:-1 group-title="CULTURA" tvg-logo="https://i.pinimg.com/474x/6c/eb/f7/6cebf791d2bd6ed98fec71eca8945893.jpg",Sun channel
-#EXTVLCOPT:network-caching=3000
-http://189.50.210.3:8008/play/a07t/index.m3u8
-
-#EXTINF:-1 group-title="CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/SYFY.svg",syfy
-#EXTVLCOPT:network-caching=3000
-http://200.113.4.75:7210/play/a02l/index.m3u8
-
-#EXTINF:-1 group-title="CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TCM_Latam_logo.svg",TCM
-#EXTVLCOPT:network-caching=3000
-http://200.113.4.75:7210/play/a01m/index.m3u8
 
 #EXTINF:-1 group-title="CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg",Telemundo
 #EXTVLCOPT:network-caching=3000
-http://200.113.4.75:7210/play/a018/index.m3u8
+http://181.78.8.199:8000/play/a0cg/index.m3u8
 
 #EXTINF:-1 group-title="CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TNT_Logo_2016.svg",TNT
 #EXTVLCOPT:network-caching=3000
-http://181.78.7.90:12500/play/a00p/index.m3u8
+http://181.78.8.199:8000/play/a097/index.m3u8
 
 #EXTINF:-0 group-title="CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png", TNT NOVELAS
 #EXTVLCOPT:network-caching=3000
-http://190.60.49.242:4000/play/a0gq/index.m3u8
+http://181.78.8.199:8000/play/a09h/index.m3u8
 
-#EXTINF:-0 group-title="CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/TNT_Serie_HD_Logo_2016.svg",TNT SERIES
-#EXTVLCOPT:network-caching=3000
-http://190.60.49.242:4000/play/a0ax/index.m3u8
 
-#EXTINF:-1 group-title="CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/USA_Network_2020.svg",USA
-#EXTVLCOPT:network-caching=3000
-http://189.50.210.3:8008/play/a06z/index.m3u8
 
 #EXTINF:-1 group-title="CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",Warner Channel
 #EXTVLCOPT:network-caching=3000
-http://189.50.210.3:8008/play/a02x/index.m3u8
+http://181.78.8.199:8000/play/a0cb/index.m3u8
 
 #---------------------------------------------------------
 # NACIONALES
