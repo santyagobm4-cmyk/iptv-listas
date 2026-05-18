@@ -7,7 +7,7 @@
 
 
 #EXTINF:-1 group-title="INFANTILES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/BitMe.svg",BitMe
-http://m3u.tvcluboficial.com/Reach.Bot/p6C/92.m3u8
+http://181.78.8.199:8000/play/a0ga/index.m3u8
 
 #EXTINF:-1 group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/baby-tv-us.png",Baby TV
 #EXTVLCOPT:network-caching=3000
@@ -39,7 +39,7 @@ http://190.60.49.242:4000/play/a0ju/index.m3u8
 
 #EXTINF:-1 group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/nick-jr-ar.png",Nick Jr
 #EXTVLCOPT:network-caching=3000
-http://190.60.49.242:4000/play/a0iw/index.m3u8
+http://181.78.8.199:8000/play/a0a0/index.m3u8
 
 #EXTINF:-1 group-title="INFANTILES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Tooncast_logo.svg",Tooncast
 #EXTVLCOPT:network-caching=3000
@@ -52,8 +52,6 @@ http://190.60.49.242:4000/play/a0j1/index.m3u8
 #EXTVLCOPT:network-caching=3000
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiB6uGigcE7QowEXst3A3vpJ70KorWts5Jkw&s.png", Dazn
-http://ultra-premium-pro.xyz:8080/m2608/m260822/60265
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/dsports-lam.png",Dsports
 #EXTVLCOPT:network-caching=3000
@@ -70,7 +68,7 @@ http://181.78.14.26:4000/play/a02p/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN 3
 #EXTVLCOPT:network-caching=3000
-http://190.60.49.242:4000/play/a070/index.m3u8
+http://181.78.8.199:8000/play/a0b3/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.png",ESPN 4
 #EXTVLCOPT:network-caching=3000
@@ -80,9 +78,7 @@ http://181.78.8.199:8000/play/a09b/index.m3u8
 #EXTVLCOPT:network-caching=3000
 http://181.78.14.26:4000/play/a03x/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-premium-ar.png",ESPN Premium
-#EXTVLCOPT:network-caching=3000
-http://38.250.228.248:8000/play/a055/index.m3u8
+
 
 #EXTINF:-1 group-titlr="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/ESPN_Deportes.svg",Espn Deportes
 http://smarterstv99.dyndns.tv:25461/live/Juan823/XrrdxQgVwb2E/350059.ts
@@ -131,7 +127,7 @@ http://181.78.8.199:8000/play/a070/index.m3u8
 #---------------------------------------------------------
 #EXTINF:-1 group-title="CULTURA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/a-and-e-ar.png",A&E
 #EXTVLCOPT:network-caching=3000
-http://45.5.119.43:4000/play/a0gt/index.m3u8
+http://181.78.8.199:8000/play/a0al/index.m3u8
 
 #EXTINF:-1 group-title="CULTURA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/amc-us.png",AMC
 #EXTVLCOPT:network-caching=3000
@@ -139,15 +135,15 @@ http://45.5.119.43:4000/play/a0gu/index.m3u8
 
 #EXTINF:-1 group-title="CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg",Animal Planet
 #EXTVLCOPT:network-caching=3000
-http://148.222.225.136:8004/play/a03j/index.m3u8
+http://181.78.8.199:8000/play/a06w/index.m3u8
 
 #EXTINF:-1 group-title="CULTURA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/axn-ar.png",AXN
 #EXTVLCOPT:network-caching=3000
-http://181.114.57.246:4000/play/8Cq8VftfuLDUjBSh
+http://181.78.8.199:8000/play/a0am/index.m3u8
 
 #EXTINF:-1 group-title="CULTURA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/cine-canal-ar.png",Cinecanal
 #EXTVLCOPT:network-caching=3000
-http://181.114.57.246:4000/play/AS2ESM6kwGDqHCaX/index.m3u8
+http://181.78.8.199:8000/play/a0am/index.m3u8
 
 #EXTINF:-1 group-title="CULTURA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/cinemax-ar.png",Cinemax
 #EXTVLCOPT:network-caching=3000
@@ -261,7 +257,7 @@ http://206.212.244.189:25461/Hy0XQ5YAg77/6501934555/46943?token=TUEMUBFQFVsUAV0M
 
 #EXTINF:-1 group-title="NACIONALES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/CaracolTV2025.png",Caracol
 #EXTVLCOPT:network-caching=3000
-http://190.60.49.242:4000/play/a0pt/index.m3u8
+http://181.78.8.199:8000/play/a0b0/index.m3u8
 
 #EXTINF:-1 group-title="NACIONALES" tvg-logo="https://images.seeklogo.com/logo-png/32/1/la-kalle-la-mandamas-logo-png_seeklogo-322671.png",La kalle
 #EXTVLCOPT:network-caching=3000
