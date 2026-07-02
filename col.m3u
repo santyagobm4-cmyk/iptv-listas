@@ -119,7 +119,7 @@ http://190.60.49.242:4000/play/a0is/index.m3u8
 http://181.78.8.199:8000/play/a0a0/index.m3u8
 
 #EXTINF:-1 group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/nickelodeon-ar.png",Nickelodeon
-http://190.60.49.242:4000/play/a0ju/index.m3u8
+http://181.78.8.199:8000/play/a07l/index.m3u8
 
 #EXTINF:-1 group-title="INFANTILES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Tooncast_logo.svg",Tooncast
 http://190.60.49.242:4000/play/a0j1/index.m3u8
