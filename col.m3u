@@ -612,58 +612,57 @@ http://181.78.8.199:8000/play/a0cc/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0dw/index.m3u8
 
-# Canales agregados
-#EXTINF:-1 group-title="CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",Sony
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",Sony
 http://181.78.8.199:8000/play/a0ao/index.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/960px-DirecTV_Sports_Latin_America_-_2018_logo_v2.png",Dsports
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/960px-DirecTV_Sports_Latin_America_-_2018_logo_v2.png",Dsports
 http://181.119.93.83:8000/play/a184/index.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/960px-DIRECTV_Sports_2_Latin_America_%282018%29.png",Dsports 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/960px-DIRECTV_Sports_2_Latin_America_%282018%29.png",Dsports 2
 http://190.61.41.181:8000/play/a0r4/index.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/960px-DirecTV_Sports%2B_Latin_America_%282018%29.png",Dsports +
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/960px-DirecTV_Sports%2B_Latin_America_%282018%29.png",Dsports +
 http://190.108.83.69:8000/play/a05w/index.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/ESPN_Deportes.svg",ESPN Deportes
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/ESPN_Deportes.svg",ESPN Deportes
 http://liontv.es:80/live/NESTORCHI/GRETF/507366.ts
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fox-sports-ar.png",Fox Sports
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fox-sports-ar.png",Fox Sports
 http://200.115.120.1:8000/play/ca041/index.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fox-sports-2-ar.png",Fox Sports 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fox-sports-2-ar.png",Fox Sports 2
 http://148.113.207.98:8000/play/a006/index.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/FoxSports_3_%28Argentina%29.png",Fox Sports 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/FoxSports_3_%28Argentina%29.png",Fox Sports 3
 http://177.53.153.207:8000/play/a001/index.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Sky_Sport_DE_Logo_2016.png",Sky Sports
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Sky_Sport_DE_Logo_2016.png",Sky Sports
 http://smarterstv99.dyndns.tv:25461/live/Juan823/XrrdxQgVwb2E/492893.ts
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TNT_Sports_%282023%29.svg",TNT Sports
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TNT_Sports_%282023%29.svg",TNT Sports
 http://189.50.210.3:8008/play/a074/index.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/TyC_Sports_logo.svg",TyC Sports
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/TyC_Sports_logo.svg",TyC Sports
 http://189.50.210.3:8008/play/a06x/index.m3u8
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://pbs.twimg.com/profile_images/1813003191585263616/QTMBM1_W_400x400.png",Win Sports
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1813003191585263616/QTMBM1_W_400x400.png",Win Sports
 http://181.78.8.199:8000/play/a09s/index.m3u8
-#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/disney-jr-ar.png",Disney Junior
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/disney-jr-ar.png",Disney Junior
 http://190.60.49.242:4000/play/a0is/index.m3u8
-#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/nickelodeon-ar.png",Nickelodeon
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/nickelodeon-ar.png",Nickelodeon
 http://181.78.8.199:8000/play/a07l/index.m3u8
-#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/azteca-7-mx.png",Azteca 7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/azteca-7-mx.png",Azteca 7
 http://38.49.128.38:8000/play/a0la/index.m3u8
-#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/canal-5-mx.png",Canal 5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/canal-5-mx.png",Canal 5
 http://206.212.244.189:25461/Hy0XQ5YAg77/6501934555/46943
-#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/amc-us.png",AMC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/amc-us.png",AMC
 http://45.5.119.43:4000/play/a0gu/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/cinemax-ar.png",Cinemax
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/cinemax-ar.png",Cinemax
 http://190.60.49.242:4000/play/a0iq/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/hbo-lam.png",HBO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/hbo-lam.png",HBO
 https://raw.githubusercontent.com/hansoljun0/t-v/refs/heads/main/TV2.m3u
-#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/hbo-family-lam.png",HBO Family
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/hbo-family-lam.png",HBO Family
 http://45.181.122.46:8090/play/a017
-#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/hbo-mundi-lam.png",HBO 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/hbo-mundi-lam.png",HBO 2
 http://45.181.122.46:8090/play/a043
-#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/hbo-plus-lam.png",HBO Plus
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/hbo-plus-lam.png",HBO Plus
 http://45.181.122.46:8090/play/a039
-#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/hbo-pop-lam.png",HBO POP
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/hbo-pop-lam.png",HBO POP
 http://45.181.122.46:8090/play/a00j
-#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/hbo-xtreme-lam.png",HBO Xtreme
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/hbo-xtreme-lam.png",HBO Xtreme
 http://189.50.210.3:8008/play/a07s/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/SpaceLogo.svg",Space
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/SpaceLogo.svg",Space
 http://181.78.8.199:8000/play/a096/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TNT_Logo_2016.svg",TNT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TNT_Logo_2016.svg",TNT
 http://181.78.8.199:8000/play/a097/index.m3u8
-#EXTINF:-1 group-title="CINE Y SERIES",TNT Series
+#EXTINF:-1,TNT Series
 http://181.78.8.199:8000/play/a098/index.m3u8
