@@ -5,102 +5,35 @@ http://181.78.8.199:8000/play/a0hh/index.m3u8
 #EXTINF:11 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/a-and-e-ar.png",AE
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0al/index.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/a-and-e-ar.png",AE
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0ct/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg",ANIMAL PLANET
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0by/index.m3u8
-#EXTINF:0,Animal Planet AMAZONAS
+#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg",ANIMAL PLANET
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a06w/index.m3u8
-#EXTINF:0,ANTV
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0fo/index.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/axn-ar.png",AXN
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0cu/index.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/axn-ar.png",AXN
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0am/index.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/baby-tv-us.png",BABYTV
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a08d/index.m3u8
-#EXTINF:0,BANDAMAX
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0g9/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/BitMelogo.png",BITME
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0ga/index.m3u8
 #EXTINF:0,CABLE NOTICIAS
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0e8/index.m3u8
-#EXTINF:0,CABLE NOTICIAS
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0g3/index.m3u8
-#EXTINF:0,CANAL 1 NACIONAL
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0cz/index.m3u8
 #EXTINF:0 tvg-logo="https://www.asomedios.com/wp-content/uploads/2017/08/logo-canal-uno.jpg",CANAL 1
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0da/index.m3u8
-#EXTINF:0,CANAL 12 VALLEDUPAR
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0e4/index.m3u8
-#EXTINF:0,CANAL 13 NACIONAL
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0d4/index.m3u8
-#EXTINF:0,CANAL 13
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0dj/index.m3u8
-#EXTINF:0,CANAL CAPITAL NACIONAL
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0d3/index.m3u8
-#EXTINF:0,CANAL CAPITAL
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0dk/index.m3u8
-#EXTINF:0,CANAL CONGRE NACIONAL
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0d2/index.m3u8
-#EXTINF:0,CANAL CONGRESO
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0di/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/canal-5-mx.png",Canal 5
+http://45.181.87.106/CANAL5HD/index.m3u8
 #EXTINF:0,CANAL DE LAS ESTRELLAS
 #EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0as/index.m3u8
-#EXTINF:0,CANAL TRO
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0dh/index.m3u8
-#EXTINF:0,CANAL VENEVICION
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a091/index.m3u8
-#EXTINF:0,CANALES NACIONALES
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0cy/index.m3u8
-#EXTINF:0,CANALESTRELLAS
-#EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0cx/index.m3u8
-#EXTINF:0,CANALINSTITUCIONAL NACIONAL
+#EXTINF:0,CANAL INFANTIL
 #EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0d0/index.m3u8
+http://181.78.8.199:8000/play/a09o/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/CaracolTV2025.png",CARACOL
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0b0/index.m3u8
-#EXTINF:0,CARACOL 2 DIRECTO PARA SENCORE
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0hw/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/CaracolTV2025.png",CARACOL
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a08s/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/CaracolTV2025.png",CARACOL
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0aw/index.m3u8
-#EXTINF:0,CARACOL Y RCN ZAPATOCA
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0hy/index.m3u8
-#EXTINF:0,CARACOL ZAPATOCA
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0hr/index.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cartoon-network-us.png",CARTOON NETWORK
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a095/index.m3u8
@@ -113,63 +46,20 @@ http://181.78.8.199:8000/play/a09p/index.m3u8
 #EXTINF:0,CINE HISPANO
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a09n/index.m3u8
-#EXTINF:0,CINE INFANTIL
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a09o/index.m3u8
-#EXTINF:0,CINE MEXICANO
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0e1/index.m3u8
-#EXTINF:0,CINE MEXICANO
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a07z/index.m3u8
 #EXTINF:0,CINE PREMIUN
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a09q/index.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/cine-canal-ar.png",cinecanal
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0bz/index.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/cine-canal-ar.png",Cinecanal
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a094/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/cinemax-ar.png",Cinemax
+http://190.60.49.242:4000/play/a0iq/index.m3u8
 #EXTINF:0,CITY
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a087/index.m3u8
-#EXTINF:0,CITY
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0eg/index.m3u8
-#EXTINF:0,CITY TV
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0ek/index.m3u8
-#EXTINF:0,CNN
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0dt/index.m3u8
-#EXTINF:0,CNN
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a08a/index.m3u8
-#EXTINF:0,COLOMBEIA
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0fn/index.m3u8
-#EXTINF:0,COMEDY
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0e3/index.m3u8
-#EXTINF:0,Comedy Central
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a07i/index.m3u8
-#EXTINF:0,comedycentral
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0c0/index.m3u8
-#EXTINF:0,CONCIENCIA TV
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0fq/index.m3u8
-#EXTINF:0,CRISTOVISION
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0dr/index.m3u8
 #EXTINF:0,DEPELICULA
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0au/index.m3u8
-#EXTINF:0,DEPELICULAS
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0e0/index.m3u8
 #EXTINF:0,DHE
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a086/index.m3u8
@@ -179,171 +69,69 @@ http://181.78.8.199:8000/play/a0c4/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Discovery_Home_%26_Health_logo.svg",Discovery H&H
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a071/index.m3u8
-#EXTINF:0,Discovery
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a09a/index.m3u8
 #EXTINF:0,DISCOVERY ID
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0c5/index.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/discovery-kids-ar.png",Discovery Kids
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a070/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Discovery_Home_%26_Health_logo.svg",Discoveryhh
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0c2/index.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/discovery-kids-ar.png",Discoverykids
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0c3/index.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/disney-channel-ar.png",DISNEY CHANNEL
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0dn/index.m3u8
 #EXTINF:0,DISNEY JR
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a084/index.m3u8
-#EXTINF:0,DISTRITO COMEDIA
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0g8/index.m3u8
-#EXTINF:0,EL MUNDO EL CAMPO
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0hb/index.m3u8
-#EXTINF:0,ENCODER DE 8P
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a09s/index.m3u8
-#EXTINF:0,ENCODER DE 8P 2
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0ht/index.m3u8
-#EXTINF:0,ENLACE
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0dq/index.m3u8
-#EXTINF:0,ENTRETEIMENT
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0ac/index.m3u8
-#EXTINF:0,Entreteiment
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0cm/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/960px-DirecTV_Sports_Latin_America_-_2018_logo_v2.png",Dsports
+http://181.119.93.83:8000/play/a184/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/960px-DirecTV_Sports%2B_Latin_America_%282018%29.png",Dsports +
+http://190.108.83.69:8000/play/a05w/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/960px-DIRECTV_Sports_2_Latin_America_%282018%29.png",Dsports 2
+http://190.61.41.181:8000/play/a0r4/index.m3u8
 #EXTINF:0,ESPN 1
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0b1/index.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-2-us.png",ESPN 2
 #EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0b2/index.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-2-us.png",ESPN 2
-#EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a08z/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN 3
 #EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0b3/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN 3
-#EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a07f/index.m3u8
-#EXTINF:0,ESPN 4HD
+#EXTINF:0,ESPN 4
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a09b/index.m3u8
-#EXTINF:0,ESPN 5HD
+#EXTINF:0,ESPN 5
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a08n/index.m3u8
-#EXTINF:0,ESPN 6HD
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a07g/index.m3u8
-#EXTINF:0,ESPN 7HD
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a08o/index.m3u8
-#EXTINF:0,ESPN EXTRA
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0do/index.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png",ESPN
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a08y/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.png",ESPN4
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0bu/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1280px-ESPN_5_logo.png",ESPN5
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0bv/index.m3u8
-#EXTINF:0,ESPN6
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0bw/index.m3u8
-#EXTINF:0,ESPN7
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0bx/index.m3u8
-#EXTINF:0,EWTN
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0ee/index.m3u8
-#EXTINF:0,FOOD NETWORK
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0hu/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fox-sports-ar.png",Fox Sports
+http://200.115.120.1:8000/play/ca041/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fox-sports-2-ar.png",Fox Sports 2
+http://148.113.207.98:8000/play/a006/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/FoxSports_3_%28Argentina%29.png",Fox Sports 3
+http://177.53.153.207:8000/play/a001/index.m3u8
 #EXTINF:0,FX
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0ds/index.m3u8
-#EXTINF:0,GLOBOVISION
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a09k/index.m3u8
-#EXTINF:0,Globovision
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0co/index.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/golden-lam.png",Golden
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0cj/index.m3u8
 #EXTINF:0,GOLDEN EDGE
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0ab/index.m3u8
-#EXTINF:0,Goldenedge
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0ck/index.m3u8
-#EXTINF:0,history
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0cv/index.m3u8
-#EXTINF:0,HISTORY1
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0an/index.m3u8
-#EXTINF:0,History2
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0cq/index.m3u8
-#EXTINF:0,HISTORY2
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0ag/index.m3u8
-#EXTINF:0,HOGAR TV
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0g0/index.m3u8
-#EXTINF:0,HTV EN
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a081/index.m3u8
-#EXTINF:0,ID
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a07j/index.m3u8
-#EXTINF:0,INSTITUCIONAL
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0db/index.m3u8
-#EXTINF:0,IVC
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0cs/index.m3u8
-#EXTINF:0,IVC
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0ah/index.m3u8
-#EXTINF:0,Kanal D Drama
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a083/index.m3u8
-#EXTINF:0,KanalDrama
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0c6/index.m3u8
-#EXTINF:0,LA 1
-#EXTVLCOPT:network-caching=1000
-http://176.65.146.237:8401/play/a09u/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/hbo-lam.png",HBO
+http://45.181.122.46:8090/play/a029
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/hbo-mundi-lam.png",HBO 2
+http://45.181.122.46:8090/play/a043
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/hbo-family-lam.png",HBO Family
+http://45.181.122.46:8090/play/a017
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/hbo-plus-lam.png",HBO Plus
+http://45.181.122.46:8090/play/a039
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/hbo-pop-lam.png",HBO POP
+http://45.181.122.46:8090/play/a00j
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/hbo-xtreme-lam.png",HBO Xtreme
+http://189.50.210.3:8008/play/a07s/index.m3u8
 #EXTINF:0,LA KALLE
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0dp/index.m3u8
-#EXTINF:0,lifetime
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0cr/index.m3u8
-#EXTINF:0,LIFETIME
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0ai/index.m3u8
-#EXTINF:0,MERIDIANO
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0fr/index.m3u8
-#EXTINF:0,MTV
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0ad/index.m3u8
 #EXTINF:0,MUSICA HITS
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a09u/index.m3u8
@@ -359,310 +147,82 @@ http://181.78.8.199:8000/play/a09z/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",Nat Geo
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a093/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",Natgeo
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0c7/index.m3u8
-#EXTINF:0,NICK
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0hs/index.m3u8
 #EXTINF:0,Nick
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a07l/index.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/nick-jr-ar.png",NICKJR
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0a0/index.m3u8
-#EXTINF:0,NTN 24
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0a6/index.m3u8
-#EXTINF:0,NUESTRATELE
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0a8/index.m3u8
-#EXTINF:0,OLE 1
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0aj/index.m3u8
-#EXTINF:0,OLE 2.2
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0af/index.m3u8
-#EXTINF:0,PANICO
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0bt/index.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/paramount-network-ar.png",paramount
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0c8/index.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/paramount-network-ar.png",Paramount
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a06u/index.m3u8
-#EXTINF:0,RCN DIRECTO PARA SENCORE
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0hx/index.m3u8
 #EXTINF:0,RCN ENVIO SEÑAL
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0az/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CanalRCN2023.png",RCN
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a09l/index.m3u8
 #EXTINF:0,RCN NOVELAS
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0a7/index.m3u8
 #EXTINF:0,RUMBA TV
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0ec/index.m3u8
-#EXTINF:0,RUMBA TV
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0fy/index.m3u8
 #EXTINF:0,SCI
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0hv/index.m3u8
-#EXTINF:0,SEÑAL COLOMBIA NACIONAL
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0d1/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Se%C3%B1al_Colombia_logo.svg",SEÑAL COLOMBIA
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0dc/index.m3u8
-#EXTINF:0,SONY CHANNEL
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Sky_Sport_DE_Logo_2016.png",Sky Sports
+http://smarterstv99.dyndns.tv:25461/live/Juan823/XrrdxQgVwb2E/492893.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",Sony
 http://181.78.8.199:8000/play/a0ao/index.m3u8
 #EXTINF:0,SONY CHANNEL
 #EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0e6/index.m3u8
+http://181.78.8.199:8000/play/a0ao/index.m3u8
 #EXTINF:0,SONY MUVIES
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0ap/index.m3u8
-#EXTINF:0,SONY MUVIES
+#EXTINF:0,SPACE 
 #EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0e7/index.m3u8
-#EXTINF:0,SPACE EN
-#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a096/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/SpaceLogo.svg",Space
 http://181.78.8.199:8000/play/a096/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Star_Channel_2020.svg",STAR CHANNEL
 #EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a099/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Star_Channel_2020.svg",starchannel
-#EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0c9/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png",Studiouniversal
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png",Studio universal
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0cf/index.m3u8
-#EXTINF:0,SYFY
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0cl/index.m3u8
-#EXTINF:0,SYFY (USA)
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a09x/index.m3u8
-#EXTINF:0,TCM
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0du/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Telecaribe_%28nuevo_logo_con_color%29.png",TELE CARIBE
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0df/index.m3u8
-#EXTINF:0,TELE PACIFICO
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0dg/index.m3u8
-#EXTINF:0,TELEAMIGA
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0dv/index.m3u8
-#EXTINF:0,TELEAMIGA
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a08b/index.m3u8
-#EXTINF:0,TELEANTIOQUIA NACIONAL
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0d5/index.m3u8
-#EXTINF:0,TELEANTIOQUIA
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0dd/index.m3u8
-#EXTINF:0,TELECAFE
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0de/index.m3u8
-#EXTINF:0,TELECAFE NACIONAL
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0d8/index.m3u8
-#EXTINF:0,TELECARIBE NACIONAL
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0d6/index.m3u8
-#EXTINF:0,TELEHIT MUSICA
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0g7/index.m3u8
-#EXTINF:0,TELEISLAS
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0dx/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg",telemundo
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0cg/index.m3u8
-#EXTINF:0,TELENOSTALGIA
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a07t/index.m3u8
-#EXTINF:0,TELENOSTALGIA
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0fz/index.m3u8
 #EXTINF:0,TELENOVELAS
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0ar/index.m3u8
-#EXTINF:0,telenovelas
+#EXTINF:0,TNT 
 #EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0cw/index.m3u8
-#EXTINF:0,TELENOVELAS
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0bs/index.m3u8
-#EXTINF:0,TELEPACIFICO NACIONAL
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0d7/index.m3u8
-#EXTINF:0,TELESUR
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0fm/index.m3u8
-#EXTINF:0,TELEVEN
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a09j/index.m3u8
-#EXTINF:0,televen
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0cd/index.m3u8
-#EXTINF:0,TELEVISA 1
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0ak/index.m3u8
-#EXTINF:0,TELEVISA CON ENTRETEIMENT
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0av/index.m3u8
-#EXTINF:0,TELEVISA DE 3 CANALES
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0at/index.m3u8
-#EXTINF:0,TLC
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0ch/index.m3u8
-#EXTINF:0,TLC
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0a3/index.m3u8
-#EXTINF:0,TLT
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0fs/index.m3u8
+http://181.78.8.199:8000/play/a097/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TNT_Logo_2016.svg",TNT
+http://181.78.8.199:8000/play/a097/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png",TNT NOVELAS
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0bq/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png",TNT Novelas
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a09h/index.m3u8
-#EXTINF:0,TNT SERIES EN
+#EXTINF:0,TNT SERIES 
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a098/index.m3u8
-#EXTINF:0,TNT EN
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a097/index.m3u8
+#EXTINF:-1,TNT Series
+http://181.78.8.199:8000/play/a098/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Tooncast_logo.svg",TOONCAST
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a09g/index.m3u8
-#EXTINF:0,TRO NACIONAL
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0d9/index.m3u8
-#EXTINF:0,TURBO
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0ci/index.m3u8
 #EXTINF:0,TURBO
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0a5/index.m3u8
-#EXTINF:0,TV AGRO
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0fj/index.m3u8
-#EXTINF:0,TV FAMB
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0fp/index.m3u8
-#EXTINF:0,TVAGRO
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0e5/index.m3u8
-#EXTINF:0,TVES
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0ft/index.m3u8
 #EXTINF:0,UNIVERSAL
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a09t/index.m3u8
-#EXTINF:0,Universal
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0ce/index.m3u8
 #EXTINF:0,UNIVERSAL STUDIO
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a09w/index.m3u8
 #EXTINF:0,UNIVISION
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0e2/index.m3u8
-#EXTINF:0,UNIVISION
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0er/index.m3u8
-#EXTINF:0,Venevision
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0cp/index.m3u8
-#EXTINF:0,VENUS
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0a4/index.m3u8
-#EXTINF:0,warner
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" ,warner
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0cb/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",Warner Channel
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a082/index.m3u8
-#EXTINF:0,WIN SPORT MAS
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0hz/index.m3u8
 #EXTINF:0 tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png",Win Sports+
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a06v/index.m3u8
-#EXTINF:0 tvg-logo="https://www.winsportsmas.com/sites/default/files/inline-images/WinfutbolNaranja.png",Win Sports+ ()
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0i0/index.m3u8
-#EXTINF:0,WINSPORT
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0cc/index.m3u8
-#EXTINF:0,ZOOM
-#EXTVLCOPT:network-caching=1000
-http://181.78.8.199:8000/play/a0dw/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",Sony
-http://181.78.8.199:8000/play/a0ao/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/960px-DirecTV_Sports_Latin_America_-_2018_logo_v2.png",Dsports
-http://181.119.93.83:8000/play/a184/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/960px-DIRECTV_Sports_2_Latin_America_%282018%29.png",Dsports 2
-http://190.61.41.181:8000/play/a0r4/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/960px-DirecTV_Sports%2B_Latin_America_%282018%29.png",Dsports +
-http://190.108.83.69:8000/play/a05w/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/ESPN_Deportes.svg",ESPN Deportes
-http://liontv.es:80/live/NESTORCHI/GRETF/507366.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fox-sports-ar.png",Fox Sports
-http://200.115.120.1:8000/play/ca041/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fox-sports-2-ar.png",Fox Sports 2
-http://148.113.207.98:8000/play/a006/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/FoxSports_3_%28Argentina%29.png",Fox Sports 3
-http://177.53.153.207:8000/play/a001/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Sky_Sport_DE_Logo_2016.png",Sky Sports
-http://smarterstv99.dyndns.tv:25461/live/Juan823/XrrdxQgVwb2E/492893.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TNT_Sports_%282023%29.svg",TNT Sports
-http://189.50.210.3:8008/play/a074/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/TyC_Sports_logo.svg",TyC Sports
-http://189.50.210.3:8008/play/a06x/index.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1813003191585263616/QTMBM1_W_400x400.png",Win Sports
-http://181.78.8.199:8000/play/a09s/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/disney-jr-ar.png",Disney Junior
-http://190.60.49.242:4000/play/a0is/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/nickelodeon-ar.png",Nickelodeon
-http://181.78.8.199:8000/play/a07l/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/azteca-7-mx.png",Azteca 7
-http://38.49.128.38:8000/play/a0la/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/canal-5-mx.png",Canal 5
-http://45.181.87.106/CANAL5HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/amc-us.png",AMC
-http://45.5.119.43:4000/play/a0gu/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/cinemax-ar.png",Cinemax
-http://190.60.49.242:4000/play/a0iq/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/hbo-lam.png",HBO
-https://raw.githubusercontent.com/hansoljun0/t-v/refs/heads/main/TV2.m3u
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/hbo-family-lam.png",HBO Family
-http://45.181.122.46:8090/play/a017
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/hbo-mundi-lam.png",HBO 2
-http://45.181.122.46:8090/play/a043
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/hbo-plus-lam.png",HBO Plus
-http://45.181.122.46:8090/play/a039
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/hbo-pop-lam.png",HBO POP
-http://45.181.122.46:8090/play/a00j
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/hbo-xtreme-lam.png",HBO Xtreme
-http://189.50.210.3:8008/play/a07s/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/SpaceLogo.svg",Space
-http://181.78.8.199:8000/play/a096/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TNT_Logo_2016.svg",TNT
-http://181.78.8.199:8000/play/a097/index.m3u8
-#EXTINF:-1,TNT Series
-http://181.78.8.199:8000/play/a098/index.m3u8
