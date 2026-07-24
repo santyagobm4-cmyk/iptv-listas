@@ -643,7 +643,7 @@ http://181.78.8.199:8000/play/a07l/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/azteca-7-mx.png",Azteca 7
 http://38.49.128.38:8000/play/a0la/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/canal-5-mx.png",Canal 5
-http://206.212.244.189:25461/Hy0XQ5YAg77/6501934555/46943
+http://45.181.87.106/CANAL5HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/amc-us.png",AMC
 http://45.5.119.43:4000/play/a0gu/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/cinemax-ar.png",Cinemax
