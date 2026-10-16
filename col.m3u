@@ -82,11 +82,11 @@ http://181.78.8.199:8000/play/a0dn/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a084/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/960px-DirecTV_Sports_Latin_America_-_2018_logo_v2.png",Dsports
-http://181.119.93.83:8000/play/a184/index.m3u8
+http://181.78.82.130:8000/play/a0r5/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/960px-DirecTV_Sports%2B_Latin_America_%282018%29.png",Dsports +
 http://190.108.83.69:8000/play/a05w/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/960px-DIRECTV_Sports_2_Latin_America_%282018%29.png",Dsports 2
-http://190.61.41.181:8000/play/a0r4/index.m3u8
+http://181.78.82.130:8000/play/a0r4/index.m3u8
 #EXTINF:0,ESPN 1
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0b1/index.m3u8
