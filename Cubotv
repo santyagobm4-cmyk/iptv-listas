@@ -1,7 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://github.com/portedev/algo/releases/download/New.M3nu/0MENU.ESTRENOS.png", group-title="CuboTV",ESTRENOS
-https://github.com/R0b1NjuD/Ku3rb4/releases/download/HOME/K_3STR3N0S.m3u
+
 
 #EXTINF:-1 tvg-logo="https://github.com/portedev/algo/releases/download/New.M3nu/0MENU.IPTV.png",TELEVISION 
 https://github.com/R0b1NjuD/Ku3rb4/releases/download/HOME/Pce3t3v3.m3u
@@ -15,49 +14,12 @@ https://github.com/R0b1NjuD/Ku3rb4/releases/download/HOME/C0L3CC10N3S.M3Nu.m3u
 #EXTINF:-1 tvg-logo="https://github.com/portedev/algo/releases/download/New.M3nu/0MENU.PELIS.png",PELICULAS
 https://github.com/R0b1NjuD/Ku3rb4/releases/download/HOME/S3rv3r.P3l1s.m3u
 
-#EXTINF:-1 tvg-logo="https://github.com/portedev/algo/releases/download/New.M3nu/0DEST.ESTRENOS.png",★ ESTRENOS ★
-https://kuerba.com
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/7xvPyfuBqdGFt4adeI6VxhlVRsk.jpg",Los 4 Fantasticos Primeros pasos (2025) WEBDL
-https://1a-1791.com/video/fww1/81/s8/2/I/2/w/f/I2wfz.aaa.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/cwjNSLj5FCkwFsTx7g57ybWQDcp.jpg",La hora de la desaparicion (2025) HDTS
-https://1a-1791.com/video/fww1/49/s8/2/S/d/J/a/SdJaz.aaa.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/7JPVoal817aUKfNRRBKaC0c33T6.jpg",Los tipos malos 2 (2025)
-https://1a-1791.com/video/fww1/22/s8/2/I/a/M/a/IaMaz.aaa.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/iAQULg2qPYBCXXjF3pKn2FuYwY8.jpg",Mision Imposible La sentencia final (2025)
-https://1a-1791.com/video/fww1/50/s8/2/S/A/g/a/SAgaz.aaa.mp4
 
 
-#EXTINF:-1 tvg-logo="https://github.com/portedev/algo/releases/download/New.M3nu/0ANADIDO.RECIENTE.png",★ RECIENTES ★
-https://kuerba.com
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/4qE8PfIj9G3zqKtVFhbOqU6jUPt.jpg",Del cielo al infierno (2025)
-https://1a-1791.com/video/fww1/62/s8/2/C/M/t/f/CMtfz.aaa.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/6KzM8QvHlQZKW7giWcsCzATYafM.jpg",Los Condenados (2025)
-https://1a-1791.com/video/fww1/ca/s8/2/A/i/a/f/Aiafz.aaa.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/3pbfqoAPIuP1ErUooA3H64kOr5d.jpg",Dexter Resurreccion (2025)
-https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.T3V3/D3XT3R.R3SURR3CC10N.m3u
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/yYchL4qjwKApCm90XslWBJ1fVp4.jpg",Los 4 Fantasticos Primeros pasos (2025) WEBDL
-https://1a-1791.com/video/fww1/81/s8/2/I/2/w/f/I2wfz.aaa.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/av0eaNLixSmCHyfQAQdO1sSJ9CA.jpg",Y donde esta el policia (2025)
-https://1a-1791.com/video/fww1/35/s8/2/U/b/Z/e/UbZez.aaa.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/ypZZ8IspcRuC9srzuaTU6O6BQBb.jpg",Riesgo bajo cero venganza (2025)
-https://1a-1791.com/video/fww1/1f/s8/2/o/G/X/e/oGXez.aaa.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/6Z2AR80mj3tSN5TD5PRyNCBMaZh.jpg",Nadie 2 (2025)
-https://1a-1791.com/video/fww1/97/s8/2/2/U/Y/e/2UYez.aaa.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/eC1Xu6PF6vurQG2GpwmvgY4FD81.jpg",En la linea de fuego (2025)
-https://1a-1791.com/video/fww1/13/s8/2/2/T/Y/e/2TYez.aaa.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/yIqSfHul3g7bv43c66twuXuMF5k.jpg",Merlina (2022)
-https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.T3V3/M3RL1N4.m3u
 
-#EXTINF:-1 tvg-logo="https://github.com/portedev/algo/releases/download/New.M3nu/0REPARADO.RECIENTE.png",★ REPARADOS ★
-https://kuerba.com
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/gabEJZX7D10ufDYpZS2FUvHIYBP.jpg",Dragon Ball GT (1996)
-https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.AN1M3/DR4G0N.B4LL.GT.m3u
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/jipCnOL1aH81wL6CdlrbvHpkueg.jpg",Dragon Ball (1986)
-https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.AN1M3/DR4G0N.B4LL.m3u
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/mX2zMIPZWTeWK7qHvxIijvN4fKR.jpg",La casa del dragon (2022)
-https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.T3V3/L4.C4s4.D3l.Dr4g0n.m3u
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/leayUtGLqhM82PmiquVubdS4ImL.jpg",Belleza verdadera (2020)
-https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.T3V3/B3ll3z4.V3rd4d3r4.m3u
+
+
+
 
 #EXTINF:-1 tvg-logo="https://github.com/portedev/algo/releases/download/New.M3nu/0DEST.SERIES.png",★ SERIES ★
 https://kuerba.com
