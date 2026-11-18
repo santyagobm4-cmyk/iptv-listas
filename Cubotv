@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuTqsdIRDvMT9T_pi90KA4m3TPavdVmKcoQ7OiTIyQX6EUIdWULvkgJHQ&s=10.png",TV ONLINE
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuTqsdIRDvMT9T_pi90KA4m3TPavdVmKcoQ7OiTIyQX6EUIdWULvkgJHQ&s=10.png" group-title="TV EN VIVO",TV ONLINE
 https://raw.githubusercontent.com/santyagobm4-cmyk/iptv-listas/refs/heads/main/col.m3u
