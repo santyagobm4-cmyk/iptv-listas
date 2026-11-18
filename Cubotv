@@ -2,3 +2,6 @@
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToOUcLUqOXJeM-z-wRrcSz2TAUZtitkD-O74H0SoOM4A&s=10%20.png"  group-title="CuboTV",TV ONLINE
 https://raw.githubusercontent.com/santyagobm4-cmyk/iptv-listas/refs/heads/main/col.m3u
+
+#EXTINF:-1 tvg-logo="https://www.listchallenges.com/f/lists/0a4f63fe-446d-4d6d-af02-88f6b1fa7a7e.jpg"  group-title="CuboTV",Series
+https://raw.githubusercontent.com/santyagobm4-cmyk/iptv-listas/refs/heads/main/series.m3u
