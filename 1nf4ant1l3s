@@ -1,23 +1,29 @@
 #EXTM3U
 
-#EXTINF:0,Cartoon Network
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Cartoon_Network_logo.png",Cartoon Network
 #EXTVLCOPT:network-caching=1000
 http://181.78.82.130:8000/play/a0qz/index.m3u8
-#EXTINF:0,Cartoonito
+
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Cartoonito_2020_logo.png",Cartoonito
 #EXTVLCOPT:network-caching=1000
 http://181.78.82.130:8000/play/a0q3/index.m3u8
-#EXTINF:11,Discovery Kids HD
+
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Discovery_kids_logo.png",Discovery Kids HD
 #EXTVLCOPT:network-caching=1000
 http://181.78.82.130:8000/play/a0og/index.m3u8
-#EXTINF:0,Disney Channel HD
+
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Disney_channel_2019.png",Disney Channel HD
 #EXTVLCOPT:network-caching=1000
 http://181.78.82.130:8000/play/a0m2/index.m3u8
-#EXTINF:0,Disney Junior
+
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/2019_Disney_Junior_logo.png",Disney Junior
 #EXTVLCOPT:network-caching=1000
 http://181.78.82.130:8000/play/a0oh/index.m3u8
-#EXTINF:0,Nickelodeon
+
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Nickelodeon_logo.png",Nickelodeon
 #EXTVLCOPT:network-caching=1000
 http://181.78.82.130:8000/play/a0g5/index.m3u8
-#EXTINF:11,Nick Jr
+
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Nickjr-logo.png",Nick Jr
 #EXTVLCOPT:network-caching=1000
 https://streaming.onnethn.com/NICK_JR/playlist.m3u8
