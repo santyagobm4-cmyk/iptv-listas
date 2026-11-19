@@ -1,1 +1,31 @@
-
+#EXTM3U
+#EXTINF:60, Rick y morty
+#EXTVLCOPT:network-caching=1000
+https://m3u.tvcluboficial.com/free/oct/oct/1168.m3u8
+#EXTINF:0, Animaniacs
+#EXTVLCOPT:network-caching=1000
+https://m3u.tvcluboficial.com/free/oct/oct/43.m3u8
+#EXTINF:0, Beyblade
+#EXTVLCOPT:network-caching=1000
+https://m3u.tvcluboficial.com/free/oct/oct/85.m3u8
+#EXTINF:0, Bob esponja
+#EXTVLCOPT:network-caching=1000
+https://m3u.tvcluboficial.com/free/oct/oct/96.m3u8
+#EXTINF:0, Los caballeros del zodiaco 
+#EXTVLCOPT:network-caching=1000
+https://m3u.tvcluboficial.com/free/oct/oct/100.m3u8
+#EXTINF:0, Calabozos y dragones
+#EXTVLCOPT:network-caching=1000
+https://m3u.tvcluboficial.com/free/oct/oct/103.m3u8
+#EXTINF:0, Cantinflas Show
+#EXTVLCOPT:network-caching=1000
+https://m3u.tvcluboficial.com/free/oct/oct/123.m3u8
+#EXTINF:0, Caso cerrado
+#EXTVLCOPT:network-caching=1000
+https://m3u.tvcluboficial.com/free/oct/oct/138.m3u8
+#EXTINF:0,Chapulin Colorado 24/7
+#EXTVLCOPT:network-caching=1000
+http://m3u.tvcluboficial.com/free/oct/oct/152.m3u8
+#EXTINF:0,Chespirito 24/7
+#EXTVLCOPT:network-caching=1000
+http://m3u.tvcluboficial.com/free/oct/oct/153.m3u8
