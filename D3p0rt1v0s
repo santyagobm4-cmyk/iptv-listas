@@ -1,1 +1,32 @@
+#EXTM3U
 
+#EXTINF:11,D-SPORT 
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0r5/index.m3u8
+#EXTINF:0,D-SPORT 2
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0r4/index.m3u8
+#EXTINF:0,ESPN 2 HD
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0eb/index.m3u8
+#EXTINF:0,ESPN 3 HD
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0n5/index.m3u8
+#EXTINF:0,ESPN 4 HD
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0m4/index.m3u8
+#EXTINF:0,ESPN 5HD
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0e8/index.m3u8
+#EXTINF:0,ESPN 6 HD
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0mr/index.m3u8
+#EXTINF:0,ESPN HD
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0dm/index.m3u8
+#EXTINF:0,Win Sports
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0qs/index.m3u8
+#EXTINF:0,Win Sports+ HD
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0ds/index.m3u8
