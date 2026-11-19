@@ -6,6 +6,8 @@ http://181.78.82.130:8000/play/a0r5/index.m3u8
 #EXTINF:0,D-SPORT 2
 #EXTVLCOPT:network-caching=1000
 http://181.78.82.130:8000/play/a0r4/index.m3u8
+#EXTINF:0,D-SPORT +
+http://201.240.104.137:8000/play/dtvmas/index.m3u8
 #EXTINF:0,ESPN 2 HD
 #EXTVLCOPT:network-caching=1000
 http://181.78.82.130:8000/play/a0eb/index.m3u8
