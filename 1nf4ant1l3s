@@ -1,5 +1,13 @@
 #EXTM3U
 
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/baby-tv-us.png",BABYTV
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a08d/index.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/BitMelogo.png",BITME
+#EXTVLCOPT:network-caching=1000
+http://181.78.8.199:8000/play/a0ga/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Cartoon_Network_logo.png",Cartoon Network
 #EXTVLCOPT:network-caching=1000
 http://181.78.82.130:8000/play/a0qz/index.m3u8
