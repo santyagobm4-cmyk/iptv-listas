@@ -1,1 +1,92 @@
+#EXTM3U
 
+#EXTINF:0,Animal Planet HD
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0lq/index.m3u8
+#EXTINF:0,CABLE NOTICIAS
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0rz/index.m3u8
+#EXTINF:0,CANAL CAPITAL
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0s0/index.m3u8
+#EXTINF:0,CANAL CONGRESO
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0s1/index.m3u8
+#EXTINF:0,CANAL INSTITUCIONAL
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0s2/index.m3u8
+#EXTINF:0,Canal TRO
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0o1/index.m3u8
+#EXTINF:0,DISCOVERY ID 
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0m0/index.m3u8
+#EXTINF:0,DISCOVERY SCIENCE
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0oj/index.m3u8
+#EXTINF:0,DW Espa
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0o8/index.m3u8
+#EXTINF:0,Discovery Channel  HD
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0lr/index.m3u8
+#EXTINF:0,Discovery H&H 
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0rh/index.m3u8
+#EXTINF:0,Discovery Theater HD
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0ko/index.m3u8
+#EXTINF:0,Discovery World HD
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0s5/index.m3u8
+#EXTINF:0,ENLACE HD
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0r7/index.m3u8
+#EXTINF:0,El Gourmet HD
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0mv/index.m3u8
+#EXTINF:0,HISTORY 
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0ls/index.m3u8
+#EXTINF:0,LA KALLE
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0nv/index.m3u8
+#EXTINF:0,NTN24
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0no/index.m3u8
+#EXTINF:0,Nat Geo HD
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0pw/index.m3u8
+#EXTINF:0,RUMBA TV
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0s4/index.m3u8
+#EXTINF:0,ST
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0rg/index.m3u8
+#EXTINF:0,Senal Colombia
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0nw/index.m3u8
+#EXTINF:0,Sun Channel HD
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0l8/index.m3u8
+#EXTINF:0,TELEANTIOQUIA
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0rs/index.m3u8
+#EXTINF:0,TELECAFE
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0rv/index.m3u8
+#EXTINF:0,TELECARIBE
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0rt/index.m3u8
+#EXTINF:0,TELEISLAS
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0rx/index.m3u8
+#EXTINF:0,TELEMEDELLIN
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0ru/index.m3u8
+#EXTINF:0,TELEPACIFICO
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0rw/index.m3u8
+#EXTINF:0,TV AGRO
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0ry/index.m3u8
