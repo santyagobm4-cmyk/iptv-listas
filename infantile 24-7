@@ -1,49 +1,49 @@
 #EXTM3U
-#EXTINF:60, Rick y morty
+#EXTINF:60 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAgbeKrdZYe9aIK8u44mbxChHl3l1laFK9qVpjMbe60GoMPrjX1w1YGRE&s=10.png", Rick y morty
 #EXTVLCOPT:network-caching=1000
 https://m3u.tvcluboficial.com/free/oct/oct/1168.m3u8
-#EXTINF:0, Animaniacs
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAgbeKrdZYe9aIK8u44mbxChHl3l1laFK9qVpjMbe60GoMPrjX1w1YGRE&s=10.png", Animaniacs
 #EXTVLCOPT:network-caching=1000
 https://m3u.tvcluboficial.com/free/oct/oct/43.m3u8
-#EXTINF:0, Beyblade
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAgbeKrdZYe9aIK8u44mbxChHl3l1laFK9qVpjMbe60GoMPrjX1w1YGRE&s=10.png", Beyblade
 #EXTVLCOPT:network-caching=1000
 https://m3u.tvcluboficial.com/free/oct/oct/85.m3u8
-#EXTINF:0, Bob esponja
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAgbeKrdZYe9aIK8u44mbxChHl3l1laFK9qVpjMbe60GoMPrjX1w1YGRE&s=10.png", Bob esponja
 #EXTVLCOPT:network-caching=1000
 https://m3u.tvcluboficial.com/free/oct/oct/96.m3u8
-#EXTINF:0, Calabozos y dragones
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAgbeKrdZYe9aIK8u44mbxChHl3l1laFK9qVpjMbe60GoMPrjX1w1YGRE&s=10.png", Calabozos y dragones
 #EXTVLCOPT:network-caching=1000
 https://m3u.tvcluboficial.com/free/oct/oct/103.m3u8
-#EXTINF:0, Cantinflas Show
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAgbeKrdZYe9aIK8u44mbxChHl3l1laFK9qVpjMbe60GoMPrjX1w1YGRE&s=10.png", Cantinflas Show
 #EXTVLCOPT:network-caching=1000
 https://m3u.tvcluboficial.com/free/oct/oct/123.m3u8
-#EXTINF:0,Chapulin Colorado 24/7
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAgbeKrdZYe9aIK8u44mbxChHl3l1laFK9qVpjMbe60GoMPrjX1w1YGRE&s=10.png",Chapulin Colorado 24/7
 #EXTVLCOPT:network-caching=1000
 http://m3u.tvcluboficial.com/free/oct/oct/152.m3u8
-#EXTINF:0,Chespirito 24/7
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAgbeKrdZYe9aIK8u44mbxChHl3l1laFK9qVpjMbe60GoMPrjX1w1YGRE&s=10.png",Chespirito 24/7
 #EXTVLCOPT:network-caching=1000
 http://m3u.tvcluboficial.com/free/oct/oct/153.m3u8
-#EXTINF:40,El Chavo del 8 HD
+#EXTINF:40 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAgbeKrdZYe9aIK8u44mbxChHl3l1laFK9qVpjMbe60GoMPrjX1w1YGRE&s=10.png",El Chavo del 8 HD
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/1173.m3u8
-#EXTINF:48,Los Simpson
+#EXTINF:48 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAgbeKrdZYe9aIK8u44mbxChHl3l1laFK9qVpjMbe60GoMPrjX1w1YGRE&s=10.png",Los Simpson
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/635.m3u8
-#EXTINF:0,Coraje el Perro Cobarde
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAgbeKrdZYe9aIK8u44mbxChHl3l1laFK9qVpjMbe60GoMPrjX1w1YGRE&s=10.png",Coraje el Perro Cobarde
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/223.m3u8
-#EXTINF:0,La Pantera Rosa
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAgbeKrdZYe9aIK8u44mbxChHl3l1laFK9qVpjMbe60GoMPrjX1w1YGRE&s=10.png",La Pantera Rosa
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/597.m3u8
-#EXTINF:0,Looney Tunes
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAgbeKrdZYe9aIK8u44mbxChHl3l1laFK9qVpjMbe60GoMPrjX1w1YGRE&s=10.png",Looney Tunes
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/618.m3u8
-#EXTINF:0,Los Pingüinos de Madagascar
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAgbeKrdZYe9aIK8u44mbxChHl3l1laFK9qVpjMbe60GoMPrjX1w1YGRE&s=10.png",Los Pingüinos de Madagascar
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/626.m3u8
-#EXTINF:0,Peppa Pig
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAgbeKrdZYe9aIK8u44mbxChHl3l1laFK9qVpjMbe60GoMPrjX1w1YGRE&s=10.png",Peppa Pig
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/760.m3u8
-#EXTINF:0,Pinky y Cerebro
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAgbeKrdZYe9aIK8u44mbxChHl3l1laFK9qVpjMbe60GoMPrjX1w1YGRE&s=10.png",Pinky y Cerebro
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/771.m3u8
-#EXTINF:0,Rugrats
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAgbeKrdZYe9aIK8u44mbxChHl3l1laFK9qVpjMbe60GoMPrjX1w1YGRE&s=10.png",Rugrats
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/797.m3u8
-#EXTINF:0,Rugrats Crecidos
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAgbeKrdZYe9aIK8u44mbxChHl3l1laFK9qVpjMbe60GoMPrjX1w1YGRE&s=10.png",Rugrats Crecidos
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/798.m3u8
-#EXTINF:0,Scooby-Doo
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAgbeKrdZYe9aIK8u44mbxChHl3l1laFK9qVpjMbe60GoMPrjX1w1YGRE&s=10.png",Scooby-Doo
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/804.m3u8
-#EXTINF:0,Tom y Jerry
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAgbeKrdZYe9aIK8u44mbxChHl3l1laFK9qVpjMbe60GoMPrjX1w1YGRE&s=10.png",Tom y Jerry
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/940.m3u8
