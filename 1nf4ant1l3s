@@ -1,1 +1,23 @@
+#EXTM3U
 
+#EXTINF:0,Cartoon Network
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0qz/index.m3u8
+#EXTINF:0,Cartoonito
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0q3/index.m3u8
+#EXTINF:11,Discovery Kids HD
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0og/index.m3u8
+#EXTINF:0,Disney Channel HD
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0m2/index.m3u8
+#EXTINF:0,Disney Junior
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0oh/index.m3u8
+#EXTINF:0,NICK JR
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0g5/index.m3u8
+#EXTINF:11,Nickelodeon HD
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0kv/index.m3u8
