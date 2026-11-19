@@ -1,0 +1,84 @@
+#EXTINF:0,Cine 2024
+#EXTVLCOPT:network-caching=1000
+http://m3u.tvcluboficial.com/free/oct/oct/1099.m3u8
+#EXTINF:0,Cine 2025
+#EXTVLCOPT:network-caching=1000
+http://m3u.tvcluboficial.com/free/oct/oct/1159.m3u8
+#EXTINF:0,Cine Accion
+#EXTVLCOPT:network-caching=1000
+http://m3u.tvcluboficial.com/free/oct/oct/157.m3u8
+#EXTINF:0,Cine Accion HD
+#EXTVLCOPT:network-caching=1000
+http://m3u.tvcluboficial.com/free/oct/oct/158.m3u8
+#EXTINF:0,Cine Accion Sagas
+#EXTVLCOPT:network-caching=1000
+http://m3u.tvcluboficial.com/free/oct/oct/159.m3u8
+#EXTINF:0,Cine Accion Sagas HD
+#EXTVLCOPT:network-caching=1000
+http://m3u.tvcluboficial.com/free/oct/oct/160.m3u8
+#EXTINF:0,Cine Comedia
+#EXTVLCOPT:network-caching=1000
+http://m3u.tvcluboficial.com/free/oct/oct/161.m3u8
+#EXTINF:0,Cine Comedia 1 HD
+#EXTVLCOPT:network-caching=1000
+http://m3u.tvcluboficial.com/free/oct/oct/162.m3u8
+#EXTINF:0,Cine Comedia 2
+#EXTVLCOPT:network-caching=1000
+http://m3u.tvcluboficial.com/free/oct/oct/163.m3u8
+#EXTINF:0,Cine Comedia 2 HD
+#EXTVLCOPT:network-caching=1000
+http://m3u.tvcluboficial.com/free/oct/oct/164.m3u8
+#EXTINF:0,Cine Ficcion/Fantasia
+#EXTVLCOPT:network-caching=1000
+http://m3u.tvcluboficial.com/free/oct/oct/165.m3u8
+#EXTINF:0,Cine Ficcion/Fantasia 2
+#EXTVLCOPT:network-caching=1000
+http://m3u.tvcluboficial.com/free/oct/oct/166.m3u8
+#EXTINF:0,Cine Ficcion/Fantasia 2 HD
+#EXTVLCOPT:network-caching=1000
+http://m3u.tvcluboficial.com/free/oct/oct/167.m3u8
+#EXTINF:0,Cine Ficcion/Fantasia HD
+#EXTVLCOPT:network-caching=1000
+http://m3u.tvcluboficial.com/free/oct/oct/168.m3u8
+#EXTINF:0,Cine Infantil
+#EXTVLCOPT:network-caching=1000
+http://m3u.tvcluboficial.com/free/oct/oct/169.m3u8
+#EXTINF:0,Cine Infantil HD
+#EXTVLCOPT:network-caching=1000
+http://m3u.tvcluboficial.com/free/oct/oct/170.m3u8
+#EXTINF:0,Cine Infantil Sagas
+#EXTVLCOPT:network-caching=1000
+http://m3u.tvcluboficial.com/free/oct/oct/171.m3u8
+#EXTINF:0,Cine Infantil Sagas HD
+#EXTVLCOPT:network-caching=1000
+http://m3u.tvcluboficial.com/free/oct/oct/172.m3u8
+#EXTINF:0,Cine Marvel HD
+#EXTVLCOPT:network-caching=1000
+https://m3u.tvcluboficial.com/free/oct/oct/176.m3u8
+#EXTINF:0,Cine Marvel HD
+#EXTVLCOPT:network-caching=1000
+http://m3u.tvcluboficial.com/free/oct/oct/177.m3u8
+#EXTINF:0,Cine Navideño
+#EXTVLCOPT:network-caching=1000
+http://m3u.tvcluboficial.com/free/oct/oct/1058.m3u8
+#EXTINF:0,Cine Navideño HD
+#EXTVLCOPT:network-caching=1000
+http://m3u.tvcluboficial.com/free/oct/oct/1059.m3u8
+#EXTINF:0,Cine Romance
+#EXTVLCOPT:network-caching=1000
+http://m3u.tvcluboficial.com/free/oct/oct/178.m3u8
+#EXTINF:0,Cine Romance HD
+#EXTVLCOPT:network-caching=1000
+http://m3u.tvcluboficial.com/free/oct/oct/179.m3u8
+#EXTINF:0, Cine terror
+#EXTVLCOPT:network-caching=1000
+https://m3u.tvcluboficial.com/free/oct/oct/180.m3u8
+#EXTINF:0, Cine terror HD
+#EXTVLCOPT:network-caching=1000
+https://m3u.tvcluboficial.com/free/oct/oct/181.m3u8
+#EXTINF:0,Cine Zombis
+#EXTVLCOPT:network-caching=1000
+http://m3u.tvcluboficial.com/free/oct/oct/183.m3u8
+#EXTINF:0,Cine Zombis HD
+#EXTVLCOPT:network-caching=1000
+http://m3u.tvcluboficial.com/free/oct/oct/184.m3u8
