@@ -11,9 +11,6 @@ https://m3u.tvcluboficial.com/free/oct/oct/85.m3u8
 #EXTINF:0, Bob esponja
 #EXTVLCOPT:network-caching=1000
 https://m3u.tvcluboficial.com/free/oct/oct/96.m3u8
-#EXTINF:0, Los caballeros del zodiaco 
-#EXTVLCOPT:network-caching=1000
-https://m3u.tvcluboficial.com/free/oct/oct/100.m3u8
 #EXTINF:0, Calabozos y dragones
 #EXTVLCOPT:network-caching=1000
 https://m3u.tvcluboficial.com/free/oct/oct/103.m3u8
