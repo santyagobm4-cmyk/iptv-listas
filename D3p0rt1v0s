@@ -1,56 +1,72 @@
 #EXTM3U
 
-#EXTINF:11,D-SPORT 
+#EXTINF:11 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/DSports.png",D-SPORT
 #EXTVLCOPT:network-caching=1000
 http://181.78.82.130:8000/play/a0r5/index.m3u8
-#EXTINF:0,D-SPORT 2
+
+#EXTINF:0 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/DSports.png",D-SPORT 2
 #EXTVLCOPT:network-caching=1000
 http://181.78.82.130:8000/play/a0r4/index.m3u8
-#EXTINF:0,D-SPORT +
+
+#EXTINF:0 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/DSportsMás.png",D-SPORT +
 http://201.240.104.137:8000/play/dtvmas/index.m3u8
-#EXTINF:0,ESPN 2 HD
+
+#EXTINF:0 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/ESPN_logo.png",ESPN 2 HD
 #EXTVLCOPT:network-caching=1000
 http://181.78.82.130:8000/play/a0eb/index.m3u8
-#EXTINF:0,ESPN 3 HD
+
+#EXTINF:0 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/ESPN_logo.png",ESPN 3 HD
 #EXTVLCOPT:network-caching=1000
 http://181.78.82.130:8000/play/a0n5/index.m3u8
-#EXTINF:0,ESPN 4 HD
+
+#EXTINF:0 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/ESPN_logo.png",ESPN 4 HD
 #EXTVLCOPT:network-caching=1000
 http://181.78.82.130:8000/play/a0m4/index.m3u8
-#EXTINF:0,ESPN 5HD
+
+#EXTINF:0 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/ESPN_logo.png",ESPN 5 HD
 #EXTVLCOPT:network-caching=1000
 http://181.78.82.130:8000/play/a0e8/index.m3u8
-#EXTINF:0,ESPN 6 HD
+
+#EXTINF:0 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/ESPN_logo.png",ESPN 6 HD
 #EXTVLCOPT:network-caching=1000
 http://181.78.82.130:8000/play/a0mr/index.m3u8
-#EXTINF:0,ESPN HD
+
+#EXTINF:0 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/ESPN_logo.png",ESPN HD
 #EXTVLCOPT:network-caching=1000
 http://m3u.tvcluboficial.com/free/oct/oct/1107.m3u8
-#EXTINF:0,Win Sports
+
+#EXTINF:0 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/WinSports2022.png",Win Sports
 #EXTVLCOPT:network-caching=1000
 http://181.78.82.130:8000/play/a0qs/index.m3u8
-#EXTINF:0,Win Sports+ HD
+
+#EXTINF:0 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/WinSportsMás2022.png",Win Sports+ HD
 #EXTVLCOPT:network-caching=1000
 http://181.78.82.130:8000/play/a0ds/index.m3u8
-#EXTINF:0,Movistar LaLiga
+
+#EXTINF:0 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Movistar_Plus%2B_2022_logo.svg",Movistar LaLiga
 #EXTVLCOPT:network-caching=1000
 http://m3u.tvcluboficial.com/free/oct/oct/1100.m3u8
-#EXTINF:0,Movistar LaLiga HD
+
+#EXTINF:0 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Movistar_Plus%2B_2022_logo.svg",Movistar LaLiga HD
 #EXTVLCOPT:network-caching=1000
 http://m3u.tvcluboficial.com/free/oct/oct/668.m3u8
-#EXTINF:0,Sky Sports Bundesliga
+
+#EXTINF:0 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Sports_Logo_2025.png",Sky Sports Bundesliga
 #EXTVLCOPT:network-caching=1000
 http://m3u.tvcluboficial.com/free/oct/oct/1124.m3u8
-#EXTINF:0,Sky Sports LaLiga
+
+#EXTINF:0 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Sports_Logo_2025.png",Sky Sports LaLiga
 #EXTVLCOPT:network-caching=1000
 http://m3u.tvcluboficial.com/free/oct/oct/1079.m3u8
-#EXTINF:0,SKY Sports Premier HD
+
+#EXTINF:0 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Sky_Sports_Logo_2025.png",SKY Sports Premier HD
 #EXTVLCOPT:network-caching=1000
 http://m3u.tvcluboficial.com/free/oct/oct/811.m3u8
 
-#EXTINF:0, beIN SPORTS 6
+#EXTINF:0 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Bein_sport_logo.png",beIN SPORTS 6
 #EXTVLCOPT:network-caching=1000
 https://m3u.tvcluboficial.com/free/oct/oct/90.m3u8
-#EXTINF:0, beIN SPORTS 6
+
+#EXTINF:0 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Bein_sport_logo.png",beIN SPORTS 6
 #EXTVLCOPT:network-caching=1000
 https://m3u.tvcluboficial.com/free/oct/oct/91.m3u8
