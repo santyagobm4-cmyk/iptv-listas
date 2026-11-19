@@ -1,0 +1,25 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sKQ5bFv/deportes.png" group-title="MENU", DEPORTES
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/C4N4L3S/D3P0RT3S.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xXHnRcV/cineyseries.png" group-title="MENU", CINE & SERIES
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/C4N4L3S/C1N3_Y_S3R13S.m3u
+
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/MK-05/Cultur4l3s.png" group-title="MENU", CULTURALES
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/C4N4L3S/CULTUR4L3S.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/thYnzmg/13.png" group-title="MENU", INFANTILES
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/C4N4L3S/1NF4NTIL3S.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YhCLsVK/24-7-infantil.png" group-title="MENU", 24/7 INFANTILES
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/C4N4L3S/1nf4nt1l3s_24_7.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mNF9Ly6/anime.png" group-title="MENU", 24/7 ANIME
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/C4N4L3S/4n1m3_24_7.m3u
+
+#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/P0st3rs.Cat/V4R14D0S.24.7.png" group-title="MENU", 24/7 VARIADOS
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/C4N4L3S/V4ri4d0s_24_7.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fvtjKBT/cinema.png" group-title="MENU", 24/7 CINEMA 4K
+https://github.com/R0b1NjuD/Ku3rb4/releases/download/C4N4L3S/C1n3m4_24_7.m3u
