@@ -16,10 +16,7 @@ https://raw.githubusercontent.com/santyagobm4-cmyk/iptv-listas/refs/heads/main/1
 https://raw.githubusercontent.com/santyagobm4-cmyk/iptv-listas/refs/heads/main/infantile%2024-7
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mNF9Ly6/anime.png" group-title="MENU", 24/7 ANIME
-https://github.com/R0b1NjuD/Ku3rb4/releases/download/C4N4L3S/4n1m3_24_7.m3u
-
-#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/P0st3rs.Cat/V4R14D0S.24.7.png" group-title="MENU", 24/7 VARIADOS
-https://github.com/R0b1NjuD/Ku3rb4/releases/download/C4N4L3S/V4ri4d0s_24_7.m3u
+https://raw.githubusercontent.com/santyagobm4-cmyk/iptv-listas/refs/heads/main/anime
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fvtjKBT/cinema.png" group-title="MENU", 24/7 CINEMA 4K
 https://raw.githubusercontent.com/santyagobm4-cmyk/iptv-listas/refs/heads/main/cine24-7
