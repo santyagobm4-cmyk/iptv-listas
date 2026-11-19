@@ -1,16 +1,16 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sKQ5bFv/deportes.png" group-title="MENU", DEPORTES
-https://github.com/R0b1NjuD/Ku3rb4/releases/download/C4N4L3S/D3P0RT3S.m3u
+https://raw.githubusercontent.com/santyagobm4-cmyk/iptv-listas/refs/heads/main/D3p0rt1v0s
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xXHnRcV/cineyseries.png" group-title="MENU", CINE & SERIES
-https://github.com/R0b1NjuD/Ku3rb4/releases/download/C4N4L3S/C1N3_Y_S3R13S.m3u
+https://raw.githubusercontent.com/santyagobm4-cmyk/iptv-listas/refs/heads/main/c1ne%20y%20s3r1es
 
 #EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/MK-05/Cultur4l3s.png" group-title="MENU", CULTURALES
-https://github.com/R0b1NjuD/Ku3rb4/releases/download/C4N4L3S/CULTUR4L3S.m3u
+https://raw.githubusercontent.com/santyagobm4-cmyk/iptv-listas/refs/heads/main/Cultur4l3s
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/thYnzmg/13.png" group-title="MENU", INFANTILES
-https://github.com/R0b1NjuD/Ku3rb4/releases/download/C4N4L3S/1NF4NTIL3S.m3u
+https://raw.githubusercontent.com/santyagobm4-cmyk/iptv-listas/refs/heads/main/1nf4ant1l3s
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YhCLsVK/24-7-infantil.png" group-title="MENU", 24/7 INFANTILES
 https://github.com/R0b1NjuD/Ku3rb4/releases/download/C4N4L3S/1nf4nt1l3s_24_7.m3u
