@@ -1,1 +1,104 @@
+#EXTM3U
 
+#EXTINF:11,A&E HD
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0mt/index.m3u8
+#EXTINF:0,AMC HD
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0pv/index.m3u8
+#EXTINF:0,AXN HD
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0lz/index.m3u8
+#EXTINF:0,CINEMAX
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0ng/index.m3u8
+#EXTINF:0,Canal 1
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0qx/index.m3u8
+#EXTINF:0,Caracol
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0ql/index.m3u8
+#EXTINF:0,Caracol HD
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0do/index.m3u8
+#EXTINF:0,Cine Familiar HD
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0ro/index.m3u8
+#EXTINF:0,Cine Premium HD
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0rq/index.m3u8
+#EXTINF:0,Cinecanal HD
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0lv/index.m3u8
+#EXTINF:0,City TV
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0o4/index.m3u8
+#EXTINF:0,DHE HD
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0l4/index.m3u8
+#EXTINF:0,Distrito Comedia
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0nu/index.m3u8
+#EXTINF:0,FX HD
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0ef/index.m3u8
+#EXTINF:0,Golden Edge
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0nq/index.m3u8
+#EXTINF:0,Golden HD
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0nj/index.m3u8
+#EXTINF:0,HBO 2 HD 
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0rf/index.m3u8
+#EXTINF:0,HBO Family HD
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0l6/index.m3u8
+#EXTINF:0,HBO HD
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0os/index.m3u8
+#EXTINF:0,HBO POP HD
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0ec/index.m3u8
+#EXTINF:0,HBO Xtreme HD
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0l7/index.m3u8
+#EXTINF:0,HBO+ HD
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0re/index.m3u8
+#EXTINF:0,Las Estrellas HD
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0l3/index.m3u8
+#EXTINF:0,MTV HD
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0n6/index.m3u8
+#EXTINF:0,Pasiones HD
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0kr/index.m3u8
+#EXTINF:0,RCN HD
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0dn/index.m3u8
+#EXTINF:0,SPACE HD
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0e6/index.m3u8
+#EXTINF:0,Sony HD
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0lx/index.m3u8
+#EXTINF:0,Studio Universal HD
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0mh/index.m3u8
+#EXTINF:0,TCM
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0ns/index.m3u8
+#EXTINF:0,TNT HD
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0lu/index.m3u8
+#EXTINF:0,TNT Series 
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0mz/index.m3u8
+#EXTINF:0,UNIVERSAL
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0mw/index.m3u8
+#EXTINF:0,Warner 
+#EXTVLCOPT:network-caching=1000
+http://181.78.82.130:8000/play/a0oq/index.m3u8
