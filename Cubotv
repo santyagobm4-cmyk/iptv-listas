@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://github.com/portedev/algo/releases/download/New.M3nu/0MENU.IPTV.png" group-title="MENU",TELEVISION
-https://github.com/R0b1NjuD/Ku3rb4/releases/download/HOME/Pce3t3v3.m3u
+https://raw.githubusercontent.com/santyagobm4-cmyk/iptv-listas/refs/heads/main/C4n4l3s
 
 #EXTINF:-1 tvg-logo="https://github.com/portedev/algo/releases/download/New.M3nu/0MENU.SERIES.png" group-title="MENU",SERIES
 https://github.com/R0b1NjuD/Ku3rb4/releases/download/S3R13S.M3NU/S3R13S_M3NU.m3u
