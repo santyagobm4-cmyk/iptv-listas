@@ -1,104 +1,137 @@
 #EXTM3U
 
-#EXTINF:11,A&E HD
+#EXTINF:11 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/A%26E%20HD.png",A&E HD
 #EXTVLCOPT:network-caching=1000
 http://181.78.82.130:8000/play/a0mt/index.m3u8
-#EXTINF:0,AMC HD
+
+#EXTINF:0 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/AMC%20hd%202013.png",AMC HD
 #EXTVLCOPT:network-caching=1000
 http://181.78.82.130:8000/play/a0pv/index.m3u8
-#EXTINF:0,AXN HD
+
+#EXTINF:0 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/AXN%20logo.svg",AXN HD
 #EXTVLCOPT:network-caching=1000
 http://181.78.82.130:8000/play/a0lz/index.m3u8
-#EXTINF:0,CINEMAX
+
+#EXTINF:0 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Cinemax%20logo.png",CINEMAX
 #EXTVLCOPT:network-caching=1000
 http://181.78.82.130:8000/play/a0ng/index.m3u8
-#EXTINF:0,Canal 1
+
+#EXTINF:0 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Logo%20Canal%201%20Colombia%202026.svg",Canal 1
 #EXTVLCOPT:network-caching=1000
 http://181.78.82.130:8000/play/a0qx/index.m3u8
-#EXTINF:0,Caracol
+
+#EXTINF:0 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Caracol%20Televisi%C3%B3n%20logo.svg",Caracol
 #EXTVLCOPT:network-caching=1000
 http://181.78.82.130:8000/play/a0ql/index.m3u8
-#EXTINF:0,Caracol HD
+
+#EXTINF:0 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Caracol%20TV%20HD%20logo.svg",Caracol HD
 #EXTVLCOPT:network-caching=1000
 http://181.78.82.130:8000/play/a0do/index.m3u8
-#EXTINF:0,Cine Familiar HD
+
+#EXTINF:0 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Cinecanal%20logo.png",Cine Familiar HD
 #EXTVLCOPT:network-caching=1000
 http://181.78.82.130:8000/play/a0ro/index.m3u8
-#EXTINF:0,Cine Premium HD
+
+#EXTINF:0 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Cinecanal%20logo.png",Cine Premium HD
 #EXTVLCOPT:network-caching=1000
 http://181.78.82.130:8000/play/a0rq/index.m3u8
-#EXTINF:0,Cinecanal HD
+
+#EXTINF:0 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Cinecanal%20logo.png",Cinecanal HD
 #EXTVLCOPT:network-caching=1000
 http://181.78.8.199:8000/play/a0bz/index.m3u8
-#EXTINF:0,City TV
+
+#EXTINF:0 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Citytv%20Bogota.svg",City TV
 #EXTVLCOPT:network-caching=1000
 http://181.78.82.130:8000/play/a0o4/index.m3u8
-#EXTINF:0,DHE HD
+
+#EXTINF:0 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/DHE%20HD.png",DHE HD
 #EXTVLCOPT:network-caching=1000
 http://181.78.82.130:8000/play/a0l4/index.m3u8
-#EXTINF:0,Distrito Comedia
+
+#EXTINF:0 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Comedi%20central%20sp.png",Distrito Comedia
 #EXTVLCOPT:network-caching=1000
 http://181.78.82.130:8000/play/a0nu/index.m3u8
-#EXTINF:0,FX HD
+
+#EXTINF:0 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/FX%20logo.svg",FX HD
 #EXTVLCOPT:network-caching=1000
 http://181.78.82.130:8000/play/a0ef/index.m3u8
-#EXTINF:0,Golden Edge
+
+#EXTINF:0 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Golden%20Edge%20Logo.png",Golden Edge
 #EXTVLCOPT:network-caching=1000
 http://181.78.82.130:8000/play/a0nq/index.m3u8
-#EXTINF:0,Golden HD
+
+#EXTINF:0 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Golden%20hd.png",Golden HD
 #EXTVLCOPT:network-caching=1000
 http://181.78.82.130:8000/play/a0nj/index.m3u8
-#EXTINF:0,HBO 2 HD 
+
+#EXTINF:0 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/HBO2%20logo.svg",HBO 2 HD
 #EXTVLCOPT:network-caching=1000
 http://181.78.82.130:8000/play/a0rf/index.m3u8
-#EXTINF:0,HBO Family HD
+
+#EXTINF:0 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/HBO%20Family.svg",HBO Family HD
 #EXTVLCOPT:network-caching=1000
 http://181.78.82.130:8000/play/a0l6/index.m3u8
-#EXTINF:0,HBO HD
+
+#EXTINF:0 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/HBO%20logo.svg",HBO HD
 #EXTVLCOPT:network-caching=1000
 http://181.78.82.130:8000/play/a0os/index.m3u8
-#EXTINF:0,HBO POP HD
+
+#EXTINF:0 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/HBO%20Pop.svg",HBO POP HD
 #EXTVLCOPT:network-caching=1000
 http://181.78.82.130:8000/play/a0ec/index.m3u8
-#EXTINF:0,HBO Xtreme HD
+
+#EXTINF:0 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/HBO%20Xtreme.svg",HBO Xtreme HD
 #EXTVLCOPT:network-caching=1000
 http://181.78.82.130:8000/play/a0l7/index.m3u8
-#EXTINF:0,HBO+ HD
+
+#EXTINF:0 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Logohboplus2019.svg",HBO+ HD
 #EXTVLCOPT:network-caching=1000
 http://181.78.82.130:8000/play/a0re/index.m3u8
-#EXTINF:0,Las Estrellas HD
+
+#EXTINF:0 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Las%20Estrellas%20logo.svg",Las Estrellas HD
 #EXTVLCOPT:network-caching=1000
 http://181.78.82.130:8000/play/a0l3/index.m3u8
-#EXTINF:0,MTV HD
+
+#EXTINF:0 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/MTV%20logo.svg",MTV HD
 #EXTVLCOPT:network-caching=1000
 http://181.78.82.130:8000/play/a0n6/index.m3u8
-#EXTINF:0,Pasiones HD
+
+#EXTINF:0 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Pasiones%20logo.png",Pasiones HD
 #EXTVLCOPT:network-caching=1000
 http://181.78.82.130:8000/play/a0kr/index.m3u8
-#EXTINF:0,RCN HD
+
+#EXTINF:0 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/RCN%20Televisi%C3%B3n%20logo.svg",RCN HD
 #EXTVLCOPT:network-caching=1000
 http://181.78.82.130:8000/play/a0dn/index.m3u8
-#EXTINF:0,SPACE HD
+
+#EXTINF:0 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Space%20logo.svg",SPACE HD
 #EXTVLCOPT:network-caching=1000
 http://181.78.82.130:8000/play/a0e6/index.m3u8
-#EXTINF:0,Sony HD
+
+#EXTINF:0 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Sony%20Channel%20logo.svg",Sony HD
 #EXTVLCOPT:network-caching=1000
 http://181.78.82.130:8000/play/a0lx/index.m3u8
-#EXTINF:0,Studio Universal HD
+
+#EXTINF:0 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Studio%20Universal%20logo.svg",Studio Universal HD
 #EXTVLCOPT:network-caching=1000
 http://181.78.82.130:8000/play/a0mh/index.m3u8
-#EXTINF:0,TCM
+
+#EXTINF:0 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/TCM%20logo.svg",TCM
 #EXTVLCOPT:network-caching=1000
 http://181.78.82.130:8000/play/a0ns/index.m3u8
-#EXTINF:0,TNT HD
+
+#EXTINF:0 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/TNT%20logo.svg",TNT HD
 #EXTVLCOPT:network-caching=1000
 http://181.78.82.130:8000/play/a0lu/index.m3u8
-#EXTINF:0,TNT Series 
+
+#EXTINF:0 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/TNT%20Series%20logo.svg",TNT Series
 #EXTVLCOPT:network-caching=1000
 http://181.78.82.130:8000/play/a0mz/index.m3u8
-#EXTINF:0,UNIVERSAL
+
+#EXTINF:0 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Universal%20TV%20logo.svg",UNIVERSAL
 #EXTVLCOPT:network-caching=1000
 http://181.78.82.130:8000/play/a0mw/index.m3u8
-#EXTINF:0,Warner 
+
+#EXTINF:0 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Warner%20TV%20logo.svg",Warner
 #EXTVLCOPT:network-caching=1000
 http://181.78.82.130:8000/play/a0oq/index.m3u8
